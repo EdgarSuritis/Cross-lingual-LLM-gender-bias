@@ -1,0 +1,26 @@
+exp: MinimalPair
+
+mode: 
+    - evaluate
+    - analyze
+
+models:
+
+    hf_masked_model:
+      - bert-base-uncased
+      - bert-base-multilingual-uncased
+      - t5-base
+      - mt5-base
+      - roberta-base
+      - xlm-roberta-base
+
+
+predfpath: ../cosc426/final/predictions.tsv
+
+datafpath: ../cosc426/final/data/dataset.tsv
+
+resultsfpath: ../cosc426/final/results.tsv
+
+save: by_pair, by_cond
+
+conditions: sentType
