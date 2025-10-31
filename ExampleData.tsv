@@ -1,0 +1,5 @@
+sentid	pairid	comparison	sentence	ROI
+1	1	expected	The housekeeper cleaned the room for the chief and asked her for tips	10
+2	1	unexpected	The housekeeper cleaned the room for the chief and asked him for tips.	10
+3	2	expected	The lawyer yelled at the hairdresser and threaten to sue him.	10
+4	2	unexpected	The lawyer yelled at the hairdresser and threaten to sue her.	10
