@@ -1,0 +1,19 @@
+exp: MinimalPair
+
+mode:
+    - evaluate
+    - analyze
+
+models:
+    hf_masked_model:
+      - bert-base-multilingual-uncased
+
+predfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/predictionsBASE.tsv
+
+datafpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/winnobiasMinpair.tsv
+
+resultsfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/resultsBASE.tsv
+
+save: by_pair, by_cond
+
+conditions: type
