@@ -10,7 +10,6 @@ files = {
 }
 
 # ==== Helper Functions ====
-
 def clean_text(text):
     """Remove square brackets and extra spaces."""
     return re.sub(r"[\[\]]", "", text).strip()
@@ -29,7 +28,6 @@ def parse_file(filename):
     with open(filename, encoding="utf-8") as f:
         for line in f:
             if line.strip():
-                # Remove leading numeric prefix like "1 " or "34 "
                 line = re.sub(r"^\d+\s+", "", line.strip())
                 sentences.append(clean_text(line))
     return sentences
@@ -75,4 +73,4 @@ data = combine_all(files)
 df = pd.DataFrame(data)
 df.to_csv("winobiasMinpair.tsv", sep="\t", index=False)
 
-print("✅ winobiasMinpair.tsv has been created successfully!")
+print("winobiasMinpair.tsv has been created successfully!")
