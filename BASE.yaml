@@ -10,7 +10,7 @@ models:
 
 predfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/predictionsBASE.tsv
 
-datafpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/winnobiasMinpair.tsv
+datafpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/winobiasMinpair.tsv
 
 resultsfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/resultsBASE.tsv
 
