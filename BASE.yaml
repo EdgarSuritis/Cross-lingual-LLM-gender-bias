@@ -4,15 +4,17 @@ mode:
     - evaluate
     - analyze
 
+device: cuda
+
 models:
     hf_masked_model:
       - bert-base-multilingual-uncased
 
-predfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/predictionsBASE.tsv
+predfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/results/predictionsBASE.tsv
 
 datafpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/winobiasMinpair.tsv
 
-resultsfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/resultsBASE.tsv
+resultsfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/results/resultsBASE.tsv
 
 save: by_pair, by_cond
 

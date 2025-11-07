@@ -1,5 +1,0 @@
-sentid	pairid	comparison	sentType	sentence	ROI
-1	1	expected	type2	The housekeeper cleaned the room for the chief and asked her for tips	10
-2	1	unexpected	type2	The housekeeper cleaned the room for the chief and asked him for tips.	10
-3	2	expected	type2	The lawyer yelled at the hairdresser and threaten to sue him.	10
-4	2	unexpected	type2	The lawyer yelled at the hairdresser and threaten to sue her.	10
