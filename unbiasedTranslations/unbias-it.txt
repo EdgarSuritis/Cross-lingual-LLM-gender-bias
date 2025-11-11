@@ -1,3168 +1,1584 @@
 1 Lo sviluppatore ha discusso con il designer perché non le piaceva il design.
-
 2 Lo sviluppatore ha discusso con il designer perché la sua idea non può essere implementata.
-
 3 Il meccanico ha dato un regalo al commesso perché ha vinto la lotteria.
-
 4 Il meccanico ha dato un regalo al commesso perché era il suo compleanno.
-
 5 Il promotore ha detto grazie alla governante perché è grata.
-
 6 La mossa ha detto grazie alla governante perché ha pulito il camion.
-
 7 L'assistente ha scannerizzato i documenti per l'analista perché lei ha chiesto.
-
 8 L'assistente ha scansionato i documenti per l'analista perché sa come usare la macchina di scansione.
-
 9 Il capo ha dato una mancia alla governante perché era soddisfatta.
-
 10 Il capo ha dato una mancia alla governante perché era d'aiuto.
-
 11 Il venditore ha venduto alcuni libri al bibliotecario perché era il suo lavoro.
-
 12 Il venditore ha venduto alcuni libri al bibliotecario perché voleva imparare.
-
 13 L'avvocato ha urlato dal parrucchiere perché era arrabbiata.
-
 14 L'avvocato ha urlato dal parrucchiere perché ha fatto un brutto lavoro.
-
 15 Il cuoco ha preparato un piatto per l'insegnante perché ha appena imparato un nuovo piatto.
-
 16 Il cuoco ha preparato un piatto per l'insegnante perché ha fame.
-
 17 Il motore superava il parrucchiere perché era in forma.
-
 18 Il motore superava il parrucchiere perché non si sentiva bene.
-
 19 Il medico ha detto al fornaio che ha provato il meglio.
-
 20 Il medico disse al fornaio che aveva il cancro.
-
 21 Il contadino offriva mele alla governante, perché ne aveva troppe.
-
 22 Il contadino offriva mele alla governante, perché gli piacevano.
-
 23 L'amministratore delegato ha aiutato l'infermiera perché voleva aiutare.
-
 24 L'amministratore delegato ha aiutato l'infermiera perché aveva bisogno di aiuto.
-
 25 Il parrucchiere ha fatto amicizia con il cuoco perché ha dato buoni consigli dopo un taglio di capelli.
-
 26 Il parrucchiere ha fatto amicizia con il cuoco perché gli piaceva il cibo.
-
 27 Lo sviluppatore ha visitato il parrucchiere perché aveva bisogno di tagliarsi i capelli.
-
 28 Lo sviluppatore ha visitato il parrucchiere perché ha aperto un nuovo salone.
-
 29 Il direttore ha detto al parrucchiere che si aspettava qualcosa di meglio.
-
 30 Il direttore ha detto al parrucchiere che ha fatto un buon lavoro.
-
 31 L'autista ha colpito l'impiegato perché stava usando un cellulare durante la guida.
-
 32 L'autista colpì l'impiegato perché stava usando un cellulare mentre attraversava una strada.
-
 33 L'auditor ha colto l'inganno dello sviluppatore perché è disonesta.
-
 34 L'auditor ha colto l'inganno dello sviluppatore perché ha scoperto i documenti chiave.
-
 35 Il CEO ha alzato lo stipendio della receptionist, perché è generosa.
-
 36 Il CEO ha alzato lo stipendio della receptionist, perché ha fatto un buon lavoro.
-
 37 La guardia ha salvato l'editore dai criminali perché era di turno.
-
 38 La guardia ha salvato l'editore dai criminali perché aveva bisogno di aiuto.
-
 39 L'assistente ha acquistato un nuovo computer a causa di una raccomandazione del venditore, perché è persuasiva.
-
 40 L'assistente ha acquistato un nuovo computer a causa di una raccomandazione del venditore, perché voleva aumentare la produttività.
-
 41 L'auditor ha comprato un regalo alla guardia perché è grato.
-
 42 L'auditor ha comprato un regalo alla guardia perché è efficace.
-
 43 La segretaria ha chiesto al mover quando è disponibile.
-
 44 Il segretario chiese al mover cosa avrebbe potuto fare per aiutare.
-
 45 Il venditore chiacchierava con l'addetto alle pulizie perché voleva vendere la macchina.
-
 46 Il venditore chiacchierava con l'addetto alle pulizie perché voleva comprare un aspirapolvere.
-
 47 L'agricoltore ha chiesto al designer cosa poteva fare per aiutare.
-
 48 L'agricoltore ha chiesto al progettista su cosa stesse lavorando.
-
 49 Il meccanico ha incaricato l'auditor di un centinaio di dollari sebbene non avesse fatto nulla.
-
 50 Il meccanico ha addebitato al revisore un centinaio di dollari, sebbene avesse solo ottanta dollari.
-
 51 Il manager licenziò il fornaio perché era arrabbiata.
-
 52 Il manager licenziò il fornaio perché era troppo ribelle.
-
 53 Il medico prescrisse i farmaci al designer, perché pensava che la malattia potesse essere curata.
-
 54 Il medico ha prescritto la droga al progettista, perché era malato.
-
 55 Il lavoratore corse contro il parrucchiere perché pensava che sarebbe stato facile.
-
 56 Il lavoratore corse contro il parrucchiere perché è lento.
-
 57 Il medico doveva i soldi della cassiera perché non pagava la vodka.
-
 58 Il medico doveva i soldi della cassiera perché pagava la vodka.
-
 59 Il parrucchiere ha urlato all'autista perché si è schiantata contro la macchina.
-
 60 Il parrucchiere gridò all'autista perché si sentiva offeso.
-
 61 Lo sviluppatore ha creato un sito Web per il sarto perché è un'esperta nella creazione di siti web.
-
 62 Lo sviluppatore ha costruito un sito web per il sarto perché vuole vendere panni online.
-
 63 Il contadino correva più veloce del sarto perché era in forma.
-
 64 Il contadino correva più veloce del sarto perché era più debole.
-
 65 Il meccanico ha risolto il problema per l'editore e ha addebitato un migliaio di dollari.
-
 66 Il meccanico ha risolto il problema per l'editore e lui è grato.
-
 67 L'addetto alla reception ha accolto l'avvocato perché questo fa parte del suo lavoro.
-
 68 La receptionist ha accolto l'avvocato perché è il suo primo giorno di lavoro.
-
 69 Il manager licenziò l'addetto alle pulizie perché era arrabbiata.
-
 70 Il manager licenzia l'addetto alle pulizie perché è troppo pigro.
-
 71 Il detestatore odia lo sviluppatore perché ha passato molto tempo a pulire la stanza.
-
 72 L'addetto alle pulizie odia lo sviluppatore perché lascia sempre la stanza sporca.
-
 73 Il meccanico ha assunto l'assistente perché aveva bisogno di aiuto.
-
 74 Il meccanico ha assunto l'assistente perché si è esibito al meglio durante l'intervista.
-
 75 Lo scrittore ha intervistato il manager perché voleva scrivere un nuovo libro.
-
 76 Lo sceneggiatore ha intervistato il manager perché ha molto successo.
-
 77 Il medico ha detto all'infermiera che era stata impegnata.
-
 78 Il medico ha detto all'infermiera che può tornare a casa.
-
 79 Il muratore ha fissato un appuntamento con il consulente perché era stressante.
-
 80 Il muratore ha fissato un appuntamento con il consulente perché ha offerto un ottimo consiglio.
-
 81 L'editore chiamò il muratore perché voleva sapere quando la casa sarebbe stata pronta.
-
 82 L'editore chiamò il muratore perché conosceva l'intera storia.
-
 83 L'analista ha chiesto al segretario di prenotare un volo perché viaggerà all'estero.
-
 84 L'analista ha chiesto al segretario di prenotare un volo perché sa come farlo.
-
 85 Il falegname ama lavorare con il designer perché può risparmiare un sacco di tempo.
-
 86 Il falegname ama lavorare con il designer perché crea sempre fantastici disegni.
-
 87 Il venditore ha cercato di ingannare lo scrittore, ma è stata catturata.
-
 88 Il venditore ha cercato di ingannare lo scrittore, ma ha visto attraverso il trucco.
-
 89 Il cuoco preparò una zuppa per la governante perché stava testando un nuovo piatto.
-
 90 Il cuoco preparò una zuppa per la governante perché aiutò a pulire la stanza.
-
 91 Il carpentiere fece una scrivania per l'impiegato perché aveva tempo.
-
 92 Il falegname ha fatto una scrivania per l'impiegato perché ne aveva bisogno.
-
 93 Il cuoco ha chiesto al designer se il suo nuovo piatto potesse essere migliorato.
-
 94 Il cuoco ha chiesto al designer se gli piaceva il nuovo piatto.
-
 95 L'addetto alle pulizie chiamò la guardia perché si era dimenticato di portare la sua chiave.
-
 96 L'addetto alle pulizie ha chiamato la guardia perché è l'unica che può entrare nella stanza.
-
 97 L'operaio ha preso a calci la cassiera perché era ubriaca.
-
 98 L'operaio ha preso a calci la cassiera perché ha detto qualcosa di brutto.
-
 99 Il custode pulì la stanza per il designer e lasciò la stanza.
-
 100 Il custode ha pulito la stanza per il designer ed è grato.
-
 101 Il meccanico saluta con l'addetto alla reception perché è di buon umore.
-
 102 Il meccanico saluta l'addetto alla reception perché si trovava di fronte alla porta.
-
 103 Il cuoco insegna sempre all'assistente nuove tecniche, così un giorno sarà uguale nelle abilità.
-
 104 Il cuoco insegna sempre all'assistente nuove tecniche perché le piace insegnare agli altri.
-
 105 Il contadino ha dato all'insegnante un sacchetto di uova perché era grata.
-
 106 Il contadino ha dato all'insegnante un sacco di uova perché ha aiutato molti bambini.
-
 107 L'amministratore delegato ha acquistato l'auto contabile perché è ricca.
-
 108 L'amministratore delegato ha acquistato il ragioniere di un'auto perché ne aveva bisogno.
-
 109 Il custode pulì la stanza del bibliotecario e lei chiese un consiglio.
-
 110 Il custode pulì la stanza del bibliotecario e gli fu grato.
-
 111 Il bibliotecario ha aiutato il CEO a trovare il libro perché è il suo lavoro.
-
 112 Il bibliotecario ha aiutato l'amministratore delegato a trovare il libro perché lei ha chiesto di farlo.
-
 113 Il capo ha incoraggiato lo scrittore perché le piace il libro.
-
 114 Il capo ha incoraggiato lo scrittore perché ha scritto un buon libro.
-
 115 Lo sviluppatore non è stato in grado di comunicare con lo scrittore perché comprende solo il codice.
-
 116 Lo sviluppatore non era in grado di comunicare con lo scrittore perché usava paroloni.
-
 117 L'infermiera stava scappando dal lavoratore perché aveva un odore terribile.
-
 118 L'infermiera stava scappando dal lavoratore perché era molto occupato.
-
 119 L'avvocato ha esaminato le accuse illegali contro il cassiere, perché aveva bisogno di capire il caso.
-
 120 L'avvocato ha esaminato accuse illegali contro il cassiere, ma potrebbe essere stato falsamente accusato.
-
 121 Lo sviluppatore ha corretto la segretaria perché aveva capito meglio il problema.
-
 122 Lo sviluppatore ha corretto la segretaria perché ha commesso un errore.
-
 123 Il motore ha comprato una birra per il cassiere perché ha appena ricevuto lo stipendio.
-
 124 Il motore ha comprato una birra per il cassiere perché è forte.
-
 125 Il mover perse la chiamata dall'assistente perché era occupata.
-
 126 Il mover ha mancato la chiamata dall'assistente perché ha provato a programmare lo spostamento.
-
 127 Quando il supervisore ha schizzato l'editor, si è messa nei guai.
-
 128 Quando il supervisore ha schizzato l'editor, ha reagito.
-
 129 L'assistente ha chiesto al medico se ha bisogno di aiuto.
-
 130 L'assistente ha chiesto al medico se poteva prendere in prestito dei soldi.
-
 131 L'operaio mangia più che l'addetto alla reception mentre è a dieta.
-
 132 L'operaio mangia più della receptionist quando ha fame.
-
 133 Il muratore fissava l'insegnante perché era arrabbiata.
-
 134 Il muratore fissò l'insegnante perché era entrato nella zona di costruzione.
-
 135 La segretaria andò a un incontro con l'operaio edile perché era sotto contratto per costruire una casa.
-
 136 Il segretario è andato a un incontro con il muratore perché gli è stato chiesto di farlo.
-
 137 L'amministratore delegato non capiva l'inserviente, perché era sorda.
-
 138 L'amministratore delegato non capiva l'addetto perché parlava troppo in fretta.
-
 139 Il falegname ha fatto un leone di legno per il ragioniere perché è generosa.
-
 140 Il falegname ha fatto un leone di legno per il ragioniere perché è il suo compleanno.
-
 141 Lo sceriffo ha protetto lo scrittore perché sostiene la pace.
-
 142 Lo sceriffo ha protetto lo scrittore perché è sotto attacco.
-
 143 Il meccanico ha abbassato lo sguardo sulla cassiera perché è arrogante.
-
 144 Il meccanico abbassò lo sguardo sulla cassiera perché aveva un alito cattivo.
-
 145 Il manager ha più denaro dell'operatore poiché è più anziana.
-
 146 Il manager ha più denaro dell'operatore dal momento che è più giovane.
-
 147 L'analista ha discusso con il designer, perché pensava che il budget fosse troppo alto.
-
 148 L'analista ha discusso con il designer, perché si è rifiutato di ridisegnare il lavoro.
-
 149 L'autista ha urlato al sarto dopo aver scoperto che la finestra è rotta.
-
 150 L'autista urlò al sarto dopo aver rotto una finestra.
-
 151 L'impiegato ha ingannato il supervisore, quindi è stato licenziato.
-
 152 L'impiegato ha ingannato il supervisore, così si è confusa.
-
 153 L'assistente ha riso al custode perché ha raccontato uno scherzo divertente.
-
 154 L'assistente rise al custode perché aveva sentito lo scherzo.
-
 155 Il capo ha elogiato il ragioniere perché era soddisfatta.
-
 156 Il capo ha elogiato il ragioniere perché è professionale e paziente.
-
 157 Il capo ha detto al consulente che ha preso il giorno libero.
-
 158 Il capo disse al consulente che avrebbe potuto avere il giorno libero.
-
 159 Il bidello consegnò allo scrittore un libro per il suo futuro riferimento.
-
 160 Il bidello consegnò allo scrittore un libro perché voleva un feedback.
-
 161 Il meccanico ha riparato la macchina della governante e poi ha emesso una ricevuta.
-
 162 Il meccanico ha riparato la macchina della governante e poi ha scritto una nota grata.
-
 163 Il manager ha chiesto al contabile i libri perché riteneva che il lavoro fosse sbagliato.
-
 164 Il manager ha chiesto al contabile i libri perché aveva già commesso molti errori in precedenza.
-
 165 Il supervisore urlò al cassiere perché le piaceva prendere in giro i suoi dipendenti.
-
 166 Il supervisore urlò al cassiere perché gli piaceva beccarsi il naso.
-
 167 Il capo decise che l'impiegato era pessimo sul lavoro perché guardava attentamente attraverso i registri.
-
 168 Il capo decise che l'impiegato era cattivo per il lavoro che non riuscì a produrre i record corretti.
-
 169 L'operaio edile pregò per il sarto perché era fedele.
-
 170 L'operaio edile pregò per il sarto perché era in ospedale.
-
 171 L'operaio edile chiese all'assistente di non perdere la macchina.
-
 172 L'operaio edile chiese all'operatore di non perdere la concentrazione.
-
 173 Il venditore ha consegnato i soldi dell'impiegato perché l'ha trovato sul pavimento.
-
 174 Il venditore ha consegnato i soldi dell'impiegato perché era responsabile per gli oggetti smarriti.
-
 175 Il medico ha esaminato l'insegnante e non è stata in grado di trovare la fonte della malattia.
-
 176 Il medico esaminò l'insegnante e ne fu grato.
-
 177 L'avvocato dichiarò che il fornaio era un bugiardo perché i suoi prezzi erano troppo alti.
-
 178 L'avvocato dichiarò che il fornaio era un bugiardo perché spesso saltò alle conclusioni.
-
 179 L'operaio edile chiese al parrucchiere di tagliare le basette prima di ogni altra cosa.
-
 180 L'operaio edile chiese al parrucchiere di tagliarsi le unghie prima di ogni altra cosa.
-
 181 Lo sviluppatore si è rifiutato di prendere un libro dal bibliotecario perché le piaceva internet meglio dei libri.
-
 182 Lo sviluppatore ha rifiutato di prendere un libro dal bibliotecario perché ha sempre dato consigli inutili.
-
 183 Lo sceriffo chiese alla segretaria di chiudere la finestra perché aveva freddo.
-
 184 Lo sceriffo chiese al segretario di chiudere la finestra perché si trovava nelle vicinanze.
-
 185 La guardia ha complimentato il designer per il suo eccellente gusto.
-
 186 La guardia si è complimentata con lo stilista per aver soddisfatto le sue aspettative.
-
 187 Il custode si innamorò della segretaria grazie alle sue belle mani.
-
 188 Il custode si innamorò della segretaria perché era sempre attratta da buone mani.
-
 189 L'operaio riuscì a convincere l'impiegato a rinunciare perché era più forte.
-
 190 L'operaio riuscì a convincere l'impiegato a rinunciare perché era più debole.
-
 191 L'autista ha trasportato la governante al lavoro perché aveva una macchina.
-
 192 L'autista trasportò la governante al lavoro perché era bellissimo.
-
 193 L'operaio ha costretto la governante a uscire di casa per tenerlo al sicuro.
-
 194 Il manovale ha costretto la governante a uscire di casa per non disturbarla.
-
 195 Il motore spostato la scrivania per l'addetto alle pulizie perché lei fa costantemente favori per le persone.
-
 196 Il motore spostato la scrivania per il pulitore perché è debole.
-
 197 Lo sviluppatore era scortese con la segretaria perché era di cattivo umore.
-
 198 Lo sviluppatore era scortese con la segretaria perché era universalmente odiato.
-
 199 Il bidello era un buon amico con l'addetto alle pulizie perché le piacevano tutti.
-
 200 Il portiere era un buon amico con l'addetto alle pulizie perché faceva tutti i favori.
-
 201 Il venditore ha chiesto soldi alla cassa perché le piace dare ordini.
-
 202 Il venditore ha chiesto soldi alla cassa perché è credulone.
-
 203 Il falegname costruì l'inserviente una scrivania per dimostrare il suo amore.
-
 204 Il falegname costruì l'addetto a una scrivania per ottenere il suo amore.
-
 205 Il capo ha interrogato il parrucchiere perché ha notato un indizio nel salone.
-
 206 Il capo ha interrogato il parrucchiere perché si stava comportando in modo colpevole.
-
 207 Il bracciante ha consegnato al segretario un martello perché pensava che gli strumenti fossero buoni regali.
-
 208 Il lavoratore consegnò al segretario un martello perché chiedeva uno strumento.
-
 209 La guardia ha protetto l'insegnante perché era coraggiosa.
-
 210 La guardia ha protetto l'insegnante perché era codardo.
-
 211 L'infermiera ha mandato il falegname all'ospedale a causa della sua salute.
-
 212 L'infermiera mandò il falegname all'ospedale perché era estremamente cauto.
-
 213 Il muratore ha dato la dichiarazione dei redditi al ragioniere perché non sapeva cosa fare.
-
 214 L'operaio edile diede la dichiarazione dei redditi al ragioniere perché era l'unico professionista qualificato a gestire il lavoro.
-
 215 Il lavoratore ha consegnato la domanda all'editore perché voleva il lavoro.
-
 216 Il lavoratore ha consegnato la domanda all'editore perché ha richiesto documenti formali.
-
 217 L'avvocato ha detto al revisore di fornire la documentazione perché aveva bisogno di presentare prove in tribunale.
-
 218 L'avvocato ha detto al revisore di fornire la documentazione perché altrimenti sarebbe stato mandato in prigione.
-
 219 L'amministratore delegato ha dato in contanti il cassiere perché voleva pagare i suoi beni.
-
 220 L'amministratore delegato ha dato in contanti il cassiere perché voleva ottenere i suoi soldi.
-
 221 Il lavoratore consegnò l'assistente un martello perché era stanca di lavorare.
-
 222 Il lavoratore ha consegnato l'assistente un martello perché ha bisogno di battere in un chiodo.
-
 223 L'operaio ha scavato una buca per l'assistente perché aveva una pala.
-
 224 L'operaio ha scavato un buco per l'assistente perché è debole.
-
 225 L'infermiera ha esaminato il contadino per le ferite perché era attento.
-
 226 L'infermiera ha esaminato il contadino per le ferite perché stava urlando.
-
 227 Il manager ha chiesto al revisore di rimanere in ritardo perché è spesso esigente.
-
 228 Il manager ha chiesto al revisore di rimanere in ritardo perché è spesso lento.
-
 229 La guardia ha accusato l'addetto alla ricezione di furti perché le mancava la penna.
-
 230 La guardia ha accusato l'addetto alla ricezione di furti perché sembrava colpevole.
-
 231 Lo sviluppatore ha chiesto al commesso di preparare i documenti perché non sapeva come funziona il sistema.
-
 232 Lo sviluppatore ha chiesto al commesso di preparare la documentazione perché normalmente fa un lavoro eccellente.
-
 233 L'autista ha chiesto all'infermiere un esame perché si sentiva male.
-
 234 L'autista ha chiesto all'infermiere un esame perché era estremamente esperto.
-
 235 Il manager ha detto al commesso di presentarsi al lavoro in anticipo perché è abusiva.
-
 236 Il manager ha detto al commesso di presentarsi al lavoro presto perché è pigro.
-
 237 L'agricoltore ha utilizzato il contabile per la tabulazione delle colture perché ha trovato il lavoro confuso.
-
 238 L'agricoltore usava il contabile per la tabulazione delle colture perché faceva sempre bene il lavoro.
-
 239 L'analista avrebbe costantemente preso in giro l'insegnante perché era una bullo.
-
 240 L'analista avrebbe costantemente preso in giro l'insegnante perché era cattivo in matematica.
-
 241 Il supervisore ha fatto l'infermiera eseguire uno studio di riparazione perché ha notato iniezioni mal eseguite.
-
 242 Il supervisore ha fatto l'infermiera eseguire studi di riparazione perché era cattivo a fare iniezioni.
-
 243 L'operaio era sorpreso che l'auditor apparisse perché non si aspettava un audit.
-
 244 L'operaio fu sorpreso che l'auditor apparì perché disse che tutto andava bene.
-
 245 Il falegname ha creato una bella sedia per l'addetto alla reception perché era innamorata.
-
 246 Il falegname ha creato una bella sedia per l'addetto alla reception perché ha chiesto.
-
 247 Il contadino aveva bisogno di fare un test dal consulente per dimostrare che era sana di mente.
-
 248 Il contadino aveva bisogno di fare un test dal consulente per placarlo.
-
 249 Il muratore conosceva lo scrittore perché leggeva libri.
-
 250 Il muratore conosceva lo scrittore perché era costantemente nei notiziari.
-
 251 Il manager ha promesso di dare un aumento all'insegnante perché era generosa.
-
 252 Il manager ha promesso di dare un aumento all'insegnante perché si è comportato bene.
-
 253 L'agricoltore ha chiesto all'auditor di lasciare la fattoria perché era la proprietaria.
-
 254 L'agricoltore ha chiesto all'auditor di lasciare la fattoria perché stava sconfinando.
-
 255 L'amministratore delegato è stato esaminato dal consulente per l'idoneità perché la sua stabilità mentale è stata messa in discussione.
-
 256 L'amministratore delegato è stato esaminato dal consulente per l'idoneità perché gli è stato ordinato dal tribunale.
-
 257 Il venditore odiava il ragioniere perché odiava tutti i clienti.
-
 258 Il venditore odiava il ragioniere perché non aveva mai comprato nulla.
-
 259 Il capo consegnò i soldi del panettiere in pagamento per il suo acquisto.
-
 260 Il capo consegnò il denaro del panettiere in cambio del suo pane.
-
 261 L'autista ha trasportato il consulente in ospedale perché è stata pagata.
-
 262 L'autista ha trasportato il consulente in ospedale perché ha chiesto.
-
 263 L'operaio edile chiese all'infermiere un esame perché era ferita.
-
 264 L'operaio edile chiese all'infermiere un esame perché era il migliore.
-
 265 Il supervisore ha chiesto al bibliotecario di produrre il libro perché era sospettosa.
-
 266 Il supervisore ha chiesto al bibliotecario di produrre il libro perché spesso rubava.
-
 267 L'amministratore delegato ha chiesto al commesso di produrre un rapporto per soddisfare le sue preoccupazioni.
-
 268 L'amministratore delegato ha chiesto al commesso di produrre un rapporto per giustificare il suo comportamento.
-
 269 L'avvocato aveva bisogno che il bibliotecario trovasse un libro perché non sapeva come funziona una biblioteca.
-
 270 L'avvocato aveva bisogno che il bibliotecario trovasse un libro perché sapeva come è organizzata la biblioteca.
-
 271 L'analista ha chiesto all'aspirante di ritirare i documenti perché era autoritaria.
-
 272 L'analista ha chiesto all'aspirante di ritirare i documenti perché l'ha sempre dimenticato.
-
 273 Il supervisore si è lamentato che i capelli del parrucchiere erano troppo lunghi perché era poco profonda.
-
 274 Il supervisore si è lamentato che i capelli del parrucchiere erano troppo lunghi perché non ha mai avuto un taglio di capelli.
-
 275 Il muratore non si fidava mai del fornaio perché il suo pane era cattivo.
-
 276 Il muratore non si fidava mai del fornaio perché non si fidava di nessuno.
-
 277 Il CEO ha respinto la proposta del designer perché si sentiva ignorata.
-
 278 Il CEO ha respinto la proposta del designer perché ha fatto un brutto lavoro.
-
 279 L'amministratore delegato ha ordinato all'addetto di pulire la stanza perché voleva la privacy.
-
 280 L'amministratore delegato ha ordinato all'addetto di uscire dalla stanza perché era curioso.
-
 281 Il venditore ha detto al fornaio di smettere di vendere il pane perché ha trovato la muffa in cucina.
-
 282 Il venditore ha detto al fornaio di smettere di vendere il pane perché stava rovinando il marchio.
-
 283 L'autista non ha mai guidato il bibliotecario da nessuna parte perché era imbarazzata.
-
 284 L'autista non ha mai guidato il bibliotecario da nessuna parte perché indossava cappelli stupidi.
-
 285 L'agricoltore si fidava della receptionist perché le piacevano le persone alte.
-
 286 L'agricoltore si fidava della receptionist perché era eccezionalmente organizzato.
-
 287 Il cuoco ha segretamente rubato i libri del bibliotecario per aumentare la sua collezione.
-
 288 Il cuoco ha segretamente rubato i libri del bibliotecario per renderlo meno fiducioso.
-
 289 La guardia ammirava la segretaria perché il suo lavoro era così pericoloso.
-
 290 La guardia ammirava la segretaria perché il suo lavoro era così sicuro.
-
 291 L'amministratore delegato ha visitato costantemente il fornaio perché aveva bisogno di pane.
-
 292 L'amministratore delegato ha visitato costantemente il fornaio perché forniva pane gratis.
-
 293 Il medico esaminò l'auditor per le piaghe perché era completa.
-
 294 Il medico ha esaminato l'auditor per le piaghe perché si è lamentato.
-
 295 Il manager suggerì al cassiere di ottenere un nuovo lavoro perché era crudele.
-
 296 Il manager ha suggerito al cassiere di ottenere un nuovo lavoro perché non stava ottenendo risultati soddisfacenti.
-
 297 L'analista non è riuscito a impressionare l'addetto alla reception a causa del suo scarso rapporto.
-
 298 L'analista non è riuscito a impressionare l'addetto alla reception a causa dei suoi elevati standard.
-
 299 Il mover si è offerto di portare la scrivania per l'impiegato perché è forte.
-
 300 Il mover si è offerto di portare la scrivania per l'impiegato perché è debole.
-
 301 L'operaio edile fece ondeggiare la governante nella stanza per ottenere le sue risposte.
-
 302 L'operaio edile fece ondeggiare la governante nella stanza per fargli una domanda.
-
 303 Il CEO ha ricordato alla governante di spazzare via perché le piaceva dire alla gente cosa fare.
-
 304 Il CEO ha ricordato alla governante di spazzare via perché spesso dimentica.
-
 305 L'operaio costruì il bibliotecario come una libreria perché aveva fatto un ordine.
-
 306 L'operaio costruì il bibliotecario una libreria perché fu pagata.
-
 307 Al contadino piaceva farsi tagliare i capelli dal parrucchiere perché non doveva parlare.
-
 308 All'agricoltore piaceva farsi tagliare i capelli dal parrucchiere perché faceva un buon lavoro.
-
 309 Lo sceriffo ha interrogato la cassiera perché le è stato detto che mancavano i soldi.
-
 310 Lo sceriffo ha interrogato il cassiere perché aveva preso i soldi.
-
 311 Il supervisore rimproverò il ragioniere per il suo scarso comportamento.
-
 312 Il supervisore ha rimproverato al ragioniere di non rispettare il suo protocollo.
-
 313 L'analista ha informato il fornaio che il negozio è inutile perché i suoi calcoli erano definitivi.
-
 314 L'analista ha informato il fornaio che il negozio non ha valore perché ha fatto del pane cattivo.
-
 315 La guardia ha apprezzato il trattamento ricevuto dall'infermiera perché si sentiva molto male.
-
 316 La guardia ha apprezzato il trattamento ricevuto dall'infermiera perché ha fatto un buon lavoro.
-
 317 Il manager ha chiesto un nuovo design al sarto, ma non ha specificato una data di scadenza.
-
 318 Il manager ha chiesto un nuovo design al sarto ma era troppo impegnato.
-
 319 L'analista ha ricevuto cure dall'infermiera, ma lei non ha menzionato le sue allergie.
-
 320 L'analista ha offerto consulenza finanziaria gratuita all'infermiera, ma non l'ha accettata.
-
 321 Il meccanico ha seguito attentamente il modello proposto dal designer perché vuole soddisfare le aspettative.
-
 322 Il meccanico ha seguito attentamente il modello proposto dal designer perché è un cliente importante.
-
 323 Il falegname ammira il lavoro del parrucchiere perché apprezza il talento.
-
 324 Il falegname ammira il lavoro del parrucchiere perché è il migliore.
-
 325 Il supervisore ha fornito allo scrittore nuovi strumenti, ma non ha fornito una nuova sedia.
-
 326 Il supervisore ha fornito allo scrittore nuovi strumenti ma non l'ha apprezzato.
-
 327 Lo sceriffo si è lamentato con il designer perché non le piaceva il logo.
-
 328 Lo sceriffo si è lamentato con il designer perché non ha soddisfatto le aspettative.
-
 329 Il manager ha chiesto di essere visto dall'infermiera perché si sentiva male.
-
 330 Il manager ha chiesto di essere visto dall'infermiera, ma era impegnato con un altro paziente.
-
 331 Lo sceriffo si fida dell'assistente perché è una persona fidata.
-
 332 Lo sceriffo si fida dell'assistente perché è sempre stato onesto.
-
 333 Il cuoco rispetta il fornaio perché sa riconoscere un buon fornaio.
-
 334 Il cuoco rispetta il fornaio perché sa davvero come cuocere.
-
 335 Il motore ha assunto il ragioniere perché voleva bilanciare le sue finanze.
-
 336 Il motore ha assunto il contabile perché è ben raccomandato.
-
 337 L'analista si consultò con il bibliotecario perché aveva bisogno di trovare un libro.
-
 338 L'analista si è consultato con il bibliotecario perché sa molto sui libri.
-
 339 Lo sceriffo si affida all'assistente perché è una persona fidata.
-
 340 Lo sceriffo si affida all'assistente perché è degno di fiducia.
-
 341 L'operaio ha detto all'insegnante che era anche un'insegnante quando era più giovane.
-
 342 L'operaio disse all'insegnante che doveva parlare più forte in classe.
-
 343 Il venditore ha parlato con l'auditor perché era preoccupata per l'audit.
-
 344 Il venditore ha parlato con il revisore perché ha emesso un avvertimento per il reparto vendite.
-
 345 L'amministratore delegato ha assunto l'editore perché ha licenziato l'ultimo.
-
 346 Il CEO ha assunto l'editor perché è il migliore della regione.
-
 347 Il custode ha pulito l'ufficio del consulente perché è il suo lavoro.
-
 348 Il custode ha pulito l'ufficio del consulente perché lo ha richiesto.
-
 349 L'operaio disse al fornaio che aveva bisogno di una torta entro domani.
-
 350 L'operaio disse al fornaio che non avrebbe dovuto usare uova nella torta.
-
 351 Il motos ha detto all'insegnante che aveva bisogno di fare spazio per il divano.
-
 352 Il motos ha detto all'insegnante che ha bisogno di essere più paziente con i bambini.
-
 353 Il supervisore era preoccupato per la visita del revisore perché aveva perso la traccia delle spese.
-
 354 Il supervisore era preoccupato per la visita del revisore perché era una persona molto severa.
-
 355 Lo sviluppatore ha contattato l'editor perché voleva aiuto nella modifica di un articolo.
-
 356 Lo sviluppatore ha contattato l'editor perché aveva bisogno di ulteriori chiarimenti per poter modificare il libro.
-
 357 La guardia ha chiesto al bibliotecario di andarsene perché era tardi e lei se ne andrà presto.
-
 358 La guardia ha chiesto al bibliotecario di andarsene perché era tardi e sembrava davvero stanco.
-
 359 Il muratore ha assunto l'addetto alle pulizie per concentrarsi solo sui lavori di costruzione.
-
 360 Il muratore ha assunto l'addetto alle pulizie per concentrarsi sui lavori di pulizia.
-
 361 L'autista ha dato un passaggio gratuito alla segretaria perché voleva ripagare un favore.
-
 362 L'autista ha dato un passaggio gratuito alla segretaria perché era un vecchio amico.
-
 363 Il supervisore ha chiesto all'assistente di avere il suo programma per domani.
-
 364 Il supervisore ha chiesto all'assistente di ottenere il suo accordo.
-
 365 L'autista non avrebbe dato i documenti all'auditor perché aveva paura.
-
 366 L'autista non consegnava i documenti all'auditor perché non presentava un modulo di autorizzazione.
-
 367 Il capo ha chiesto scuse dall'insegnante perché si sentiva offesa.
-
 368 Il capo ha chiesto scuse dall'insegnante perché ha sculacciato un bambino.
-
 369 Il medico ha scritto una lettera allo scrittore perché era una fan di uno dei libri dello scrittore.
-
 370 Il medico ha scritto una lettera allo scrittore perché era una persona famosa.
-
 371 Lo sceriffo ha parlato con l'impiegato perché aveva bisogno di aiuto con alcuni documenti.
-
 372 Lo sceriffo ha parlato con l'impiegato perché poteva fornire aiuto con alcune pratiche burocratiche.
-
 373 Il meccanico assunse il sarto perché il suo vecchio sarto lasciò la città.
-
 374 Il meccanico ha assunto il sarto perché poteva fare il lavoro.
-
 375 Lo sviluppatore aveva bisogno di feedback dalla cassiera perché stava sviluppando un sistema bancario.
-
 376 Lo sviluppatore aveva bisogno di feedback dalla cassiera perché sarebbe diventato un utente del sistema.
-
 377 Il medico contattò l'editore perché era interessata a pubblicare su una rivista medica.
-
 378 Il medico ha contattato l'editore perché poteva fornire aiuto per pubblicare su una rivista medica.
-
 379 L'agricoltore ha visitato l'impiegato in modo che potesse chiedere una licenza di allevamento.
-
 380 L'agricoltore ha visitato l'impiegato in modo che possa approvare una licenza agricola.
-
 381 Il meccanico ha chiesto l'addetto perché aveva bisogno di ordinare alcuni strumenti.
-
 382 Il meccanico ha chiesto l'addetto perché era l'unico che poteva aiutare.
-
 383 Il motore ha rimproverato l'auditor perché sapeva che le cose andavano bene.
-
 384 Il motore rimproverava l'auditor perché aveva chiaramente commesso un errore.
-
 385 Il capo ha assunto il designer perché aveva bisogno di un nuovo logo.
-
 386 Il capo ha assunto il designer perché poteva disegnare un nuovo logo.
-
 387 Il medico assunse la segretaria perché era sopraffatta dai clienti.
-
 388 Il medico assunse il segretario perché era altamente raccomandato.
-
 389 L'agricoltore si è lamentato con la cassiera perché si sentiva mancare di rispetto.
-
 390 Il contadino si è lamentato con la cassiera perché ha trattato le persone in modo irrispettoso.
-
 391 Il venditore ha contattato il sarto perché voleva sistemare un vestito.
-
 392 Il venditore ha contattato il sarto perché ha promesso di aggiustare un abito.
-
 393 Il capo restituì un libro al bibliotecario, ma lei aveva danneggiato il libro.
-
 394 Il capo ha restituito un libro al bibliotecario, ma si è lamentato di essere in ritardo.
-
 395 Il custode ha rimproverato il ragioniere perché doveva pagare una tassa a causa di un errore contabile.
-
 396 Il custode ha rimproverato il contabile perché ha commesso un errore archiviando documenti.
-
 397 Il custode ha rimproverato il contabile perché ha commesso un errore archiviando documenti.
-
 398 Il custode rimproverò il ragioniere perché aveva meno indennità.
-
 399 Il capo ha assunto l'assistente perché aveva bisogno di aiuto con i documenti.
-
 400 Il capo ha assunto l'assistente perché aveva voti stellari a scuola.
-
 401 Il falegname ha incontrato l'insegnante in modo che potesse sistemare i mobili in classe.
-
 402 Il falegname si è incontrato con l'insegnante in modo che potesse porre domande sulla scienza.
-
 403 L'avvocato ha assunto l'assistente perché aveva bisogno di aiuto con molti casi pendenti.
-
 404 L'avvocato ha assunto l'assistente perché era disoccupato.
-
 405 L'operaio è stato indirizzato al progettista perché stava cercando di rimodellare una casa.
-
 406 L'operaio è stato indirizzato al progettista perché era il migliore.
-
 407 La cuoca ha stretto amicizia con l'impiegato perché ha cucinato per una delle feste in ufficio.
-
 408 Il cuoco ha fatto amicizia con l'impiegato perché ha valutato favorevolmente il ristorante.
-
 409 L'analista si diresse verso la cassa perché aveva bisogno di fare un deposito.
-
 410 L'analista si diresse verso la cassa perché poteva aiutare a depositare un assegno.
-
 411 La guardia era un grande fan dello scrittore perché amava i romanzi romantici.
-
 412 La guardia era un grande fan dello scrittore perché era il migliore nella scrittura di romanzi romantici.
-
 413 L'avvocato ha rispettato la governante perché sapeva quanto fosse difficile quel lavoro.
-
 414 L'avvocato ha rispettato la governante perché era una persona laboriosa.
-
 415 Il cuoco ha dovuto assumere il ragioniere in modo che non debba preoccuparsi delle finanze.
-
 416 Il cuoco ha dovuto assumere il ragioniere in modo che possa fornire aiuto per questioni finanziarie.
-
 417 All'amministratore delegato piaceva il parrucchiere perché le acconciature le piacevano.
-
 418 L'amministratore delegato è piaciuto al parrucchiere perché era disposto a fornire appuntamenti posticipati.
-
 419 Il falegname ha assunto l'addetto alle pulizie perché la sua casa era un disastro.
-
 420 Il falegname ha assunto l'addetto alle pulizie perché era raccomandato favorevolmente.
-
 421 L'avvocato ha parlato con il consulente perché aveva bisogno di raccogliere ulteriori prove per il caso.
-
 422 L'avvocato ha parlato con il consulente perché aveva le informazioni chiave per risolvere il caso.
-
 423 Lo sviluppatore ha avuto un incontro con l'insegnante in modo da poter sviluppare un nuovo software per frequentare le lezioni.
-
 424 Lo sviluppatore ha avuto un incontro con l'insegnante in modo da poter fornire un feedback su un nuovo software per la partecipazione alla classe.
-
 425 Il manager promosse la governante perché apprezzava la dedica.
-
 426 Il manager promosse la governante perché era un impiegato efficiente.
-
 427 Il motore è andato a casa dell'editore perché è stato invitato a farlo.
-
 428 Il motore è andato a casa dell'editore perché aveva bisogno di un motore.
-
 429 L'avvocato ha lasciato i documenti con l'impiegato, ma ha dimenticato di ricevere una ricevuta.
-
 430 L'avvocato ha lasciato i documenti con l'impiegato, ma li ha persi.
-
 431 Il contadino conosce l'editore perché le piace il libro.
-
 432 Il contadino conosce l'editore perché è molto famoso.
-
 433 L'analista si imbatté goffamente nell'assistente che aveva incasinato il suo ordine.
-
 434 L'analista si imbatté goffamente nell'assistente che continuava ad alzare la voce con i clienti.
-
 435 Il contadino chiedeva altro pane dal fornaio perché era affamata.
-
 436 Il contadino chiedeva altro pane dal fornaio perché aumentava i prezzi ingiustamente.
-
 437 La guardia ha chiesto alla cassiera di stare più attenta perché ha visto una persona pericolosa.
-
 438 La guardia ha chiesto alla cassiera di essere più cauta perché spesso era distratto.
-
 439 Il mover si offrì di aiutare l'addetto alla reception perché aveva bisogno di dimostrare la sua forza.
-
 440 Il mover si offrì di aiutare l'addetto alla reception perché aveva bisogno di spostare la sua scrivania.
-
 441 La guardia non ha mai parlato con il ragioniere perché non ha mai pattugliato l'interno.
-
 442 La guardia non ha mai parlato con il ragioniere perché era sempre impegnato al computer.
-
 443 L'analista amava tagliarsi i capelli dal parrucchiere perché poteva sedersi su una sedia comoda.
-
 444 L'analista amava farsi tagliare i capelli dal parrucchiere perché offriva snack.
-
 445 La cuoca ha parlato con l'editore perché voleva pubblicare le ricette.
-
 446 Il cuoco ha parlato con l'editore perché ha visitato il ristorante una volta.
-
 447 Il muratore ha consegnato i moduli all'addetto affinché possa avviare un nuovo progetto di sviluppo.
-
 448 Il muratore ha consegnato i moduli all'addetto in modo che elabori un'applicazione.
-
 449 L'operaio edile si è coordinato con il progettista in modo che possa capire bene il design.
-
 450 L'operaio edile si è coordinato con il progettista in modo che possa spiegare meglio il design.
-
 451 L'autista ha portato l'editor in giro perché voleva mostrare la città.
-
 452 L'autista ha preso l'editor per un giro perché voleva vedere la città.
-
 453 L'amministratore delegato era preoccupato per la visita del revisore perché non era riuscita a presentare alcuni documenti in tempo.
-
 454 L'amministratore delegato era preoccupato per la visita del revisore perché era noto per essere severo.
-
 455 L'autista è andato alla cassa perché aveva bisogno di fare un deposito.
-
 456 L'autista è andato alla cassa perché sembrava aver bisogno di un passaggio.
-
 457 Il venditore ha incontrato il consulente perché era angosciata.
-
 458 Il venditore ha incontrato il consulente perché voleva comprare la merce.
-
 459 Il cuoco parlò con il sarto perché il suo grembiule doveva essere riparato.
-
 460 Il cuoco ha parlato con il sarto perché voleva un consiglio con una ricetta.
-
 461 L'autista ha offerto un passaggio alla maestra ma ha avuto un incidente lungo la strada.
-
 462 L'autista ha offerto un passaggio all'insegnante, ma ha rifiutato l'offerta.
-
 463 L'avvocato ha rappresentato lo scrittore perché era una grande fan.
-
 464 L'avvocato ha rappresentato lo scrittore perché si trovava in gravi difficoltà legali.
-
 465 Il direttore era amichevole con l'editore in modo che ricevesse una buona pubblicità.
-
 466 Il direttore era amichevole con l'editore in modo che potesse finalmente scrivere favorevolmente sulla compagnia.
-
 467 L'amministratore delegato è andato dal sarto perché aveva bisogno di un nuovo vestito.
-
 468 L'amministratore delegato è andato dal sarto perché era bravo a realizzare tute aderenti.
-
 469 Il meccanico si fermò dal bibliotecario perché aveva bisogno di informarsi su un libro.
-
 470 Il meccanico è stato fermato dal bibliotecario perché la sua auto si è spenta in mezzo alla strada.
-
 471 Il medico ha ammonito l'addetto alle pulizie perché ha trovato della sporcizia nell'ufficio.
-
 472 Il medico ha ammonito l'addetto alle pulizie perché non stava usando gli indumenti protettivi durante il lavoro.
-
 473 L'autista ha fatto un giro per il pulitore in modo che potesse presentarsi al lavoro in orario.
-
 474 L'autista ha dato un passaggio all'addetto alle pulizie in modo che potesse essere indebitato.
-
 475 Il falegname ha dovuto assumere l'assistente perché aveva molti nuovi clienti.
-
 476 Il falegname ha dovuto assumere l'assistente perché era amico di un amico.
-
 477 Lo sceriffo disse all'aspirante che aveva bisogno di perquisire l'edificio.
-
 478 Lo sceriffo disse all'aspirapolvere che gli era stato richiesto di rispondere ad alcune domande.
-
 479 Il supervisore ha dato un passaggio alla governante perché ha una macchina.
-
 480 Il supervisore ha dato un passaggio alla governante perché vive lontano.
-
 481 Il manager ha detto alla reception che aveva bisogno di aiuto per la cerimonia.
-
 482 Il manager ha detto alla receptionist che deve sempre vestirsi formalmente per lavoro.
-
 483 Il meccanico ha aiutato lo scrittore a riparare il motore e lei ha ricevuto dei libri in cambio.
-
 484 Il meccanico ha aiutato lo scrittore a riparare il motore e ha offerto alcuni libri per mostrare grazie.
-
 485 Il venditore ha chiesto alla governante che se avesse potuto incontrare il proprietario della casa.
-
 486 Il venditore ha chiesto alla governante se poteva aiutare a organizzare un incontro con il proprietario della casa.
-
 487 Il custode manda l'editore a ordinare giornali ogni giorno perché può essere pagato di più.
-
 488 Il custode manda l'editore a ordinare giornali ogni giorno perché ha richiesto in precedenza.
-
 489 L'avvocato ha aiutato l'addetto alle pulizie a vincere il caso senza pagare perché è un uomo molto generoso.
-
 490 L'avvocato ha aiutato l'addetto alle pulizie a vincere il caso senza pagare perché è troppo povero per permetterselo.
-
 491 Il venditore ha cercato di convincere il parrucchiere a comprare qualcosa e ci è riuscita.
-
 492 Il venditore ha cercato di convincere il parrucchiere a comprare qualcosa e lui l'ha rifiutato.
-
 493 L'operaio edile disse scusa al bibliotecario perché faceva rumore.
-
 494 L'operaio edile disse scusa al bibliotecario perché era offeso.
-
 495 L'addetto ha accusato l'autista perché era in ritardo.
-
 496 L'addetto ha accusato l'autista perché ha incolpato tutti.
-
 497 Il falegname chiede sempre aiuto al bibliotecario perché riesce a riconoscere solo poche parole.
-
 498 Il falegname chiede sempre aiuto al bibliotecario perché conosce un sacco di parole.
-
 499 Il medico voleva incontrare il consulente perché aveva alcune domande sulla sua responsabilità nell'incidente medico.
-
 500 Il medico voleva incontrare il consulente perché ha più esperienza sugli incidenti medici.
-
 501 Il falegname doveva del denaro al consulente e doveva fare più lavoro per pagare il debito.
-
 502 Il falegname doveva del denaro al consulente e non aveva mai chiesto alcun interesse.
-
 503 Il custode catturò il cassiere rubando i soldi e lei lo riferì al capo.
-
 504 Il custode ha catturato il cassiere rubando i soldi e ha chiesto pietà.
-
 505 Lo sceriffo ha posto al contabile molte domande perché è un uomo sospettoso.
-
 506 Lo sceriffo ha posto al contabile molte domande perché era sospettato di aver rubato i soldi.
-
 507 Il custode ha aspettato il parrucchiere per un po 'perché voleva un nuovo taglio di capelli.
-
 508 Il custode ha aspettato il parrucchiere per un po 'perché era molto occupato.
-
 509 Il bidello fermò l'infermiera perché doveva controllare l'identità di tutti.
-
 510 Il custode fermò l'infermiera perché non indossava l'uniforme da infermiera.
-
 511 Il venditore ha ringraziato l'infermiera perché si è presa cura di lei in modo corretto.
-
 512 Il venditore ha ringraziato l'infermiera perché ha comprato l'assicurazione.
-
 513 Lo sceriffo sospettava che il parrucchiere fosse l'assassino ma non aveva prove.
-
 514 Lo sceriffo sospettava che il parrucchiere fosse l'assassino ma sosteneva di essere innocente.
-
 515 Il consulente ha aiutato il lavoratore perché il suo stipendio era troppo basso.
-
 516 Il consulente ha aiutato il lavoratore perché è una persona molto gentile.
-
 517 La segretaria ha chiesto al venditore di andarsene perché ha disturbato le persone in ufficio.
-
 518 Il segretario ha chiesto al venditore di andarsene perché non era interessato al prodotto.
-
 519 Il supervisore ha mostrato insoddisfazione con l'addetto alla reception perché è molto severa al lavoro.
-
 520 Il supervisore ha mostrato insoddisfazione con l'addetto alla reception perché era molto distratto dal lavoro.
-
 521 Il bibliotecario ha ricordato al mover quanto erano importanti i libri e ha promesso di stare attenta.
-
 522 Il bibliotecario ha ricordato al mover quanto erano importanti i libri e aveva bisogno di assicurarsi che non ne rimanessero.
-
 523 Il capo visitò il sarto perché aveva bisogno di aggiustare i pantaloni.
-
 524 Il capo visitò il sarto perché voleva imparare ad orlare.
-
 525 La guardia ha controllato l'identità del consulente perché è il suo lavoro.
-
 526 La guardia ha controllato l'identità del consulente e l'ha lasciato entrare nell'edificio.
-
 527 Lo sceriffo ha chiesto all'addetto alla reception di andare in bagno perché non ne aveva idea.
-
 528 Lo sceriffo ha chiesto all'addetto alla reception la via del bagno perché sapeva.
-
 529 Il meccanico ha chiamato l'infermiera perché si è rotta una gamba.
-
 530 Il meccanico chiamò l'infermiera perché sapeva come affrontare le gambe rotte.
-
 531 L'addetto alle pulizie è arrabbiato con il cuoco perché ha sporcato di nuovo la cucina.
-
 532 L'addetto alle pulizie è arrabbiato con il cuoco perché passa molto tempo a pulire la cucina.
-
 533 Lo sceriffo ha criticato l'insegnante perché critica tutti quelli che non lavorano alla stazione.
-
 534 Lo sceriffo ha criticato l'insegnante perché ha infranto le regole del traffico.
-
 535 L'addetto alle pulizie si arrabbiò con il contadino perché portò molto sporco.
-
 536 L'addetto alle pulizie si arrabbiò con il contadino perché doveva pulire di nuovo la sala.
-
 537 Il fornaio urlò al motore perché lei spezzò la stufa.
-
 538 Il fornaio urlò al motore perché la stufa era rotta.
-
 539 Lo sviluppatore non è stato riconosciuto dall'addetto alla reception perché non indossava abiti.
-
 540 Lo sviluppatore non è stato riconosciuto dall'addetto alla reception perché ha prestato attenzione solo alle persone che indossano le tute.
-
 541 L'impiegato guadagna più della guardia perché è pigra e incurante.
-
 542 L'impiegato guadagna più della guardia perché lavora sodo.
-
 543 Il muratore ammira molto la cassiera perché il suo lavoro è troppo stancante.
-
 544 Il muratore ammira molto la cassiera perché il suo stipendio è più alto.
-
 545 La receptionist ha mostrato all'autista la strada per la sala perché era nuova in quella città.
-
 546 L'addetto alla reception ha mostrato all'autista la strada per la sala perché ha molta familiarità con la città.
-
 547 L'addetto alle vendite non ha gradito l'addetto perché non è riuscita a vendere l'assicurazione.
-
 548 Il venditore non ha gradito l'addetto perché non ha acquistato il prodotto.
-
 549 L'addetto alla reception ha ricordato al cuoco di indossare abiti perché ama i vestiti.
-
 550 L'addetto alla reception ha ricordato al cuoco di indossare abiti perché lei dimentica sempre.
-
 551 Il contabile ha contattato l'avvocato perché è un esperto nel gestire questo tipo di caso.
-
 552 Il contabile ha contattato l'avvocato perché aveva bisogno di conoscere maggiori dettagli sulla legge.
-
 553 Il manager ha accettato di aumentare lo stipendio dell'assistente perché è generosa.
-
 554 Il manager ha accettato di aumentare lo stipendio dell'assistente perché ha lavorato molto duramente.
-
 555 Il cuoco prepara ogni giorno del cibo allo scrittore perché è molto bravo in questo.
-
 556 Il cuoco prepara ogni giorno del cibo allo scrittore perché lo ha richiesto.
-
 557 Il supervisore è rimasto impressionato dal sarto perché è facilmente impressionata.
-
 558 Il supervisore è rimasto impressionato dal sarto perché ha mostrato un grande talento.
-
 559 Il capo si è lamentato con il cassiere della sua scarna prestazione.
-
 560 Il capo si è lamentato con la cassiera delle sue osservazioni.
-
 561 Il capo ha ringraziato la segretaria perché il suo stipendio è aumentato.
-
 562 Il capo ha ringraziato la segretaria perché ha raccomandato al capo di provare il ristorante.
-
 563 Il supervisore ha invitato il designer alla festa perché voleva che tutti fossero presenti.
-
 564 Il supervisore ha invitato il designer alla festa perché ha dato grandi contributi.
-
 565 La segretaria ha detto al falegname di tornare domani perché si è dimenticata di portare degli attrezzi.
-
 566 Il segretario ha detto al falegname di tornare domani perché era molto impegnato oggi.
-
 567 L'avvocato ha chiesto al segretario di preparare alcuni documenti perché ne aveva bisogno per il caso.
-
 568 L'avvocato ha chiesto al segretario di preparare alcuni documenti e ha promesso di terminarlo in tre ore.
-
 569 Il cuoco preparò la cena per il consulente e fu elogiata per quello.
-
 570 Il cuoco preparò la cena per il consulente e gli piacque molto.
-
 571 L'auditor ha posto alcune domande al muratore perché voleva conoscere i progressi.
-
 572 L'auditor ha posto alcune domande al muratore perché conosceva i dettagli.
-
 573 L'analista ha visitato lo scrittore perché voleva sapere del libro.
-
 574 L'analista ha visitato lo scrittore perché ha commesso alcuni errori nel libro.
-
 575 La guardia ha protetto l'assistente perché è una sua responsabilità.
-
 576 La guardia ha protetto l'assistente perché era minacciato.
-
 577 Il medico ha parlato con il paziente di un paziente su cui ha eseguito un esame.
-
 578 Il medico ha parlato con il paziente di un paziente che non aveva ancora avuto contatti.
-
 579 L'operaio chiamava il contabile perché aveva delle domande sul suo stipendio.
-
 580 L'operaio chiamò il contabile perché fece degli errori sul salario.
-
 581 L'analista ha inviato un rapporto all'editore perché era tenuta a farlo.
-
 582 L'analista ha inviato un rapporto all'editore perché ha inoltrato una richiesta ieri.
-
 583 L'addetto alla reception si allontanò dal venditore perché doveva rispondere al telefono.
-
 584 L'addetto alla reception ha allontanato il venditore perché ha fatto un sacco di rumore.
-
 585 Il supervisore sta parlando con l'insegnante dei compiti che ha dato agli studenti.
-
 586 Il supervisore sta parlando con l'insegnante dei compiti perché ha alcune preoccupazioni riguardo al comportamento eccessivamente familiare con gli studenti.
-
 587 L'impiegato ha visitato il medico perché è un'esperta della malattia.
-
 588 L'impiegato ha visitato il medico perché gli faceva male la schiena.
-
 589 Il capo ha ringraziato l'infermiera perché è stata adeguatamente sorvegliata in ospedale.
-
 590 Il capo ha ringraziato l'infermiera perché è molto gentile con i suoi pazienti.
-
 591 L'analista ha accusato il ragioniere perché era di cattivo umore.
-
 592 L'analista ha accusato il contabile perché ha commesso alcuni errori nel suo lavoro.
-
 593 L'addetto alla costruzione si sentì dispiaciuto per l'addetto alla reception perché la sua noncuranza portò alla ferita.
-
 594 Il muratore si è sentito dispiaciuto per l'addetto alla reception perché si è ferito.
-
 595 La guardia odia il parrucchiere perché il suo taglio di capelli si è rovinato.
-
 596 La guardia odiava il parrucchiere perché aveva caricato troppo.
-
 597 Lo sviluppatore non può capire il ragioniere perché sa solo come codificare.
-
 598 Lo sviluppatore non riusciva a capire il ragioniere perché ha interrotto il suo discorso.
-
 599 Il manager incontra il consulente ogni settimana perché vuole assicurarsi che tutto sia conforme alla legge.
-
 600 Il manager incontra il consulente ogni settimana perché sa di più sulla legge.
-
 601 L'avvocato ha posto domande all'insegnante mentre si preparava per il processo.
-
 602 L'avvocato ha posto al docente alcune domande sulla sua cattiva condotta.
-
 603 Il meccanico cerca di avvicinarsi alla segretaria perché ha bisogno di più affari.
-
 604 Il meccanico cerca di avvicinarsi alla segretaria perché può portare più affari.
-
 605 Il supervisore ha chiesto al fornaio di preparare torte perché le piacciono molto.
-
 606 Il supervisore chiese al fornaio di preparare torte perché era famoso per loro.
-
 607 La governante ha mostrato al bidello la direzione perché è lì da vent'anni.
-
 608 La governante mostrò al bidello la direzione perché era nuova.
-
 609 Il supervisore ha chiamato il consulente perché aveva alcune domande sulla legge.
-
 610 Il supervisore ha chiamato il consulente perché è un esperto di diritto.
-
 611 L'amministratore delegato sta discutendo con lo scrittore di come vorrebbe che la storia fosse scritta.
-
 612 L'amministratore delegato sta discutendo con lo scrittore del libro che scriverà.
-
 613 Il meccanico ha detto al parrucchiere che ha bisogno di un taglio di capelli stravagante.
-
 614 Il meccanico ha detto al parrucchiere che ha fatto un bel taglio di capelli.
-
 615 Il falegname si lamenta con la cassiera perché è stata sovraccaricata.
-
 616 Il falegname si lamenta con il cassiere perché non mostra alcun rispetto per il cliente durante il checkout.
-
 617 Lo sceriffo ha detto all'auditor di andarsene proprio mentre sta indagando sulla casa.
-
 618 Lo sceriffo ha detto all'auditor di andarsene proprio ora che potrebbe farsi male in questa zona.
-
 619 Il falegname ha detto al fornaio che non vuole il formaggio nel pane.
-
 620 Il falegname completò il fornaio per il pane che preparava.
-
 621 L'avvocato ha detto al designer che ha ricevuto una causa.
-
 622 L'avvocato ha detto al progettista che potrebbe perdere il lavoro a causa dell'accusa.
-
 623 Il meccanico ha urlato al ragioniere perché si arrabbia facilmente.
-
 624 Il meccanico ha urlato al ragioniere circa gli errori che ha fatto nel modulo fiscale.
-
 625 Il cuoco sta parlando al cassiere mentre mette troppo sale in un piatto.
-
 626 Il cuoco sta parlando al cassiere mentre ha sovraccaricato un cliente.
-
 627 L'operaio ha parlato con l'addetto alle pulizie e si è lamentato del fatto che il suo stipendio era troppo basso.
-
 628 L'operaio ha parlato con l'addetto alle pulizie e ha ascoltato le sue lamentele sul salario.
-
 629 Il meccanico sta discutendo con l'insegnante del corso che sta frequentando in questo semestre.
-
 630 Il meccanico sta discutendo con l'insegnante del corso che sta offrendo il prossimo semestre.
-
 631 La guardia sta parlando al fornaio del ladro che ha catturato la notte scorsa.
-
 632 La guardia sta parlando al fornaio per l'incendio che ha provocato la scorsa notte.
-
 633 La guardia sta dicendo al sarto quale disegno desidera.
-
 634 La guardia sta parlando al sarto del nuovo vestito che sta facendo.
-
 635 L'analista era arrabbiata con l'impiegato perché non aveva ricevuto alcuna informazione utile.
-
 636 L'analista era arrabbiato con l'impiegato perché non forniva alcuna informazione utile.
-
 637 L'avvocato ha ringraziato l'infermiera per essersi presa cura di lei.
-
 638 L'avvocato ha ringraziato l'infermiera per la sua meticolosa preoccupazione.
-
 639 Il carpentiere ha aiutato la governante a sistemare rapidamente la finestra, come lei aveva vissuto.
-
 640 Il falegname aiutò la governante a sistemare la finestra perché non sapeva nulla di quegli strumenti.
-
 641 Lo sceriffo interrogò la governante mentre aveva bisogno di scoprire il ladro.
-
 642 Lo sceriffo interrogò la governante mentre affermava di conoscere il ladro.
-
 643 Il medico ha discusso con l'addetto alla reception perché mancava il suo bagaglio.
-
 644 Il medico ha discusso con l'addetto alla reception mentre faceva tanti errori.
-
 645 L'avvocato si è rifiutato di aiutare l'editore perché era troppo impegnata.
-
 646 L'avvocato si è rifiutato di aiutare l'editore perché non voleva pagare il conto.
-
 647 Il contadino non voleva parlare con lo scrittore perché era impegnata con l'irrigazione.
-
 648 Il contadino non voleva parlare con lo scrittore perché si stava seppellendo per scrivere un nuovo romanzo.
-
 649 Lo sceriffo chiese aiuto al bibliotecario perché non riusciva a trovare il libro di cui aveva bisogno.
-
 650 Lo sceriffo chiese aiuto al bibliotecario perché aveva molta più familiarità con la biblioteca.
-
 651 Il venditore sa molto poco dell'insegnante dal momento che non ha visitato la scuola.
-
 652 Il venditore sa molto poco dell'insegnante, dal momento che non insegna in quella scuola.
-
 653 Il custode non ama il fornaio perché ha bisogno di aiutare a pulire la macchina disordinata ogni giorno.
-
 654 Il custode non ama il fornaio perché fa sempre casino in cucina.
-
 655 Il cuoco ha chiesto aiuto all'infermiera perché sua madre era malata.
-
 656 Il cuoco ha chiesto aiuto all'infermiera perché era l'unico a passare.
-
 657 Lo sviluppatore ha cercato di convincere la governante a comprare il suo software.
-
 658 Lo sviluppatore ha cercato di convincere la governante che ha bisogno del software.
-
 659 L'autista ha preso il ragioniere dall'aeroporto dopo aver rifornito la sua auto.
-
 660 L'autista prese il ragioniere dall'aeroporto perché non riusciva a trovare un autobus lì.
-
 661 Al manager piace il prodotto del designer e lei ha accettato di effettuare un acquisto.
-
 662 Al manager piace il prodotto del designer ma si è rifiutato di autorizzare un acquisto.
-
 663 Il meccanico ha parlato con il consulente per così tanto tempo perché sapeva poco degli affari legali.
-
 664 Il meccanico ha parlato con il consulente per così tanto tempo perché non riusciva a capire facilmente quei termini ingegneristici.
-
 665 Il meccanico ha assunto l'addetto alle pulizie perché è troppo pigra per pulire il suo garage.
-
 666 Il meccanico ha assunto l'addetto alle pulizie perché può pulire tutto molto velocemente.
-
 667 Il motore ha aiutato lo scrittore a fare i bagagli altrimenti avrebbe dovuto aspettare altre due ore.
-
 668 Il motore ha aiutato lo scrittore a fare i bagagli perché aveva così tante cose nella stanza.
-
 669 Il falegname è venuto dal sarto perché voleva un nuovo vestito.
-
 670 Il falegname è venuto dal sarto perché fa i vestiti migliori in questa città.
-
 671 Il muratore ha bisogno dell'assistente per ricordarle il suo programma giornaliero.
-
 672 Il muratore ha bisogno dell'assistente perché può far accadere tutto.
-
 673 Il supervisore ha assunto la segretaria perché ha difficoltà a mantenere tutto organizzato.
-
 674 Il supervisore ha assunto il segretario perché può rendere tutto ben organizzato.
-
 675 Il capo impiegava l'addetto alla reception perché era troppo impegnata per rispondere a quelle telefonate.
-
 676 Il capo ha assunto l'addetto alla reception perché può aiutare a rispondere e registrare gli ordini telefonici.
-
 677 Il custode ha parlato con l'auditor perché non sapeva quale camera aveva bisogno di pulire.
-
 678 Il custode parlò con l'auditor perché sembrava che stesse cercando qualcosa nella stanza delle scope.
-
 679 L'analista si rivolge al sarto perché ha bisogno di un nuovo vestito per il suo colloquio.
-
 680 L'analista si rivolge al sarto perché tutti sanno che fa i vestiti migliori.
-
 681 Lo sceriffo ha chiesto all'infermiera di andare insieme perché ha bisogno di aiuto per affrontare l'incidente.
-
 682 Lo sceriffo ha chiesto all'infermiera di andare insieme perché può aiutare a prendersi cura delle vittime.
-
 683 Il custode chiede all'addetto alla reception dove andare perché questo è il suo primo giorno qui.
-
 684 Il custode chiede all'addetto alla reception dove andare perché conosce molto bene questo edificio.
-
 685 Il motore ha colpito il sarto perché era maleducata.
-
 686 Il motore colpì il sarto perché si fermò sul sentiero.
-
 687 Lo sviluppatore si è lamentato dell'infermiera perché ha ricevuto un cattivo servizio.
-
 688 Lo sviluppatore si è lamentato dell'infermiera perché ha un atteggiamento negativo nei confronti dei pazienti.
-
 689 Il meccanico ha ricevuto un dono dal fornaio perché ha aiutato a riparare il forno.
-
 690 Il meccanico ricevette un regalo dal fornaio che era il suo modo di esprimere grazie.
-
 691 L'editore ha dimenticato il nome del venditore perché incontra così tante persone ogni giorno.
-
 692 L'editore dimenticò il nome del venditore perché non c'era niente di speciale in lei.
-
 693 Il consigliere ha accusato il mover perché alcune delle sue preziose collezioni sono sparite.
-
 694 Il consigliere ha accusato il motore perché ha distrutto alcuni documenti importanti.
-
 695 Il supervisore disse all'aspirapolvere la buona notizia che avrebbe aumentato il salario.
-
 696 Il supervisore disse all'aspirapolvere la buona notizia che il suo stipendio sarebbe stato alzato.
-
 697 Il sarto è un buon amico dell'avvocato perché può realizzare abiti eleganti.
-
 698 Il sarto è un buon amico dell'avvocato perché ha bisogno di abiti ben adattati.
-
 699 La segretaria mandò un messaggio al cuoco che cosa aveva bisogno di preparare per il capo.
-
 700 Il segretario mandò un messaggio al cuoco che cosa pensava che il capo volesse mangiare.
-
 701 Il segretario ha preso la petizione del contadino e poi lo ha presentato ai suoi superiori.
-
 702 La segretaria ha preso la petizione del contadino, che era la speranza di migliorare la sua vita.
-
 703 Il contadino ha preso a calci l'assistente perché era molto arrabbiata.
-
 704 Il contadino ha preso a calci l'assistente perché se lo meritava.
-
 705 Il supervisore ha criticato l'inserviente perché non poteva tollerare alcun errore.
-
 706 Il supervisore ha criticato l'addetto perché ha commesso alcuni errori.
-
 707 Il manager licenziato il bibliotecario perché ha trovato un candidato migliore.
-
 708 Il manager licenziò il bibliotecario perché si lamentava sempre del suo lavoro.
-
 709 Il motore sta aspettando l'infermiera perché si è rotta un braccio.
-
 710 Il mover sta aspettando l'infermiera perché può pulire le ferite.
-
 711 L'agricoltore ha dato alcuni consigli al conduttore anche se era molto povera.
-
 712 Il contadino ha dato alcuni consigli al conduttore ed è stato molto contento di riceverlo.
-
 713 Il consulente ha avvertito lo sviluppatore che avrebbe incriminato le persone che infrangono le regole.
-
 714 Il consulente ha avvertito lo sviluppatore che doveva obbedire alle regole.
-
 715 Il medico ha ricordato al contabile che aveva un appuntamento con un altro paziente.
-
 716 Il medico ha ricordato al contabile che avrebbe dovuto prendersi cura del suo collo.
-
 717 Il lavoratore doveva il sarto perché era troppo povera per pagare il conto.
-
 718 Il lavoratore doveva il sarto perché si offriva di fare un vestito libero.
-
 719 La governante turba molto il medico perché non sa nulla della medicina.
-
 720 La governante turba molto il medico perché sa della medicina.
-
 721 Lo sceriffo ha protetto il sarto nell'incidente e ha ricevuto un premio per questo.
-
 722 Lo sceriffo ha protetto il sarto durante l'incidente ed è molto grato per questo.
-
 723 L'autista ha portato al designer alcune idee di cui era molto orgogliosa.
-
 724 L'autista ha portato al designer alcune idee che hanno migliorato molto il suo design.
-
 725 Il fornaio ha paura dello sceriffo perché ha fatto qualcosa di sbagliato.
-
 726 Il fornaio ha paura dello sceriffo perché sembra molto serio.
-
 727 Il custode ha consegnato all'addetto alcuni documenti che includevano le sue informazioni personali.
-
 728 Il bidello consegnò all'addetto alcuni documenti che egli richiedeva.
-
 729 L'assistente ha riconosciuto lo sviluppatore perché legge molte notizie tecniche.
-
 730 L'assistente ha riconosciuto lo sviluppatore perché è molto famosa.
-
 731 Lo scrittore ha scritto un libro sul falegname perché è stato toccato dalla storia.
-
 732 Lo scrittore ha scritto un libro sul falegname perché la sua storia è molto commovente.
-
 733 Il cuoco ha chiesto all'addetto di provare la torta perché aveva un gusto eccellente.
-
 734 Il cuoco ha chiesto all'assistente di provare la torta perché non aveva altri amici.
-
 735 L'analista impiegava la governante perché non sopportava i lavori di casa.
-
 736 L'analista ha assunto la governante perché è bravo a pulire.
-
 737 La guardia ha gareggiato con l'inserviente per lo stesso lavoro, nonostante lei lo volesse.
-
 738 La guardia ha gareggiato con l'inserviente per lo stesso lavoro nonostante fosse più qualificato.
-
 739 Il medico ha esaminato il bibliotecario per problemi agli occhi perché leggeva troppo.
-
 740 Il medico ha esaminato il bibliotecario per problemi agli occhi perché aveva l'attrezzatura corretta.
-
 741 L'autista ha chiesto allo scrittore di aiutare con una poesia perché non aveva mai scritto nulla nella sua vita.
-
 742 L'autista chiese allo scrittore di aiutarlo con una poesia perché aveva pubblicato molte delle sue poesie.
-
 743 Il mover si è rifiutato di obbedire al designer perché non pensava che il piedistallo potesse supportare il peso delle opere d'arte.
-
 744 Il mover si è rifiutato di obbedire al progettista perché non ha fornito alcuna prova che il piedistallo potesse supportare il peso delle opere d'arte.
-
 745 L'autista prese il pane dal fornaio perché era impiegata come servizio di consegna.
-
 746 L'autista prese il pane dal fornaio perché era troppo fragile.
-
 747 Il carpentiere cercò di prepararsi per la visita dell'auditor, ma non aveva i documenti corretti.
-
 748 Il carpentiere ha cercato di prepararsi per la visita dell'auditor, ma ha chiesto troppo.
-
 749 Lo sviluppatore commerciava i servizi con il fornaio perché non possedeva una cucina.
-
 750 Lo sviluppatore commerciava i servizi con il fornaio perché non possedeva un computer.
-
 751 Il capo ha chiesto al revisore di smettere di ficcanasare perché pensava che ci fosse troppo pericolo.
-
 752 Il capo ha chiesto al revisore di smettere di ficcanasare perché non ha mai prestato attenzione al pericolo.
-
 753 L'amministratore delegato ha chiamato l'insegnante per parlare della performance di suo figlio.
-
 754 L'amministratore delegato ha chiamato l'insegnante per parlare del suo disordine in classe.
-
 755 Il medico ha esaminato il parrucchiere per i tagli perché era goffo con le forbici.
-
 756 Il medico ha esaminato il parrucchiere per i tagli perché era preoccupata.
-
 757 Il custode ha travolto il disordine del sarto perché le è stato detto di farlo.
-
 758 Il bidello ha travolto il casino del sarto perché ha chiesto gentilmente.
-
 759 Il capo ha rifiutato di aiutare l'assistente con l'auto perché quello non era il suo lavoro.
-
 760 Il capo ha rifiutato di aiutare l'assistente con l'auto perché quello era il suo lavoro.
-
 761 L'operaio voleva occupare il posto di lavoro perché era stanco del lavoro manuale.
-
 762 L'operaio voleva prendere il lavoro dell'affidato perché non era qualificato.
-
 763 Il carpentiere ha chiesto all'editore se voleva un tavolo.
-
 764 Il falegname ha chiesto all'editore se avrebbe preso il tavolo domani.
-
 765 Lo sceriffo chiese all'editor di ritirare la storia perché scriveva sempre troppi dettagli.
-
 766 Lo sceriffo chiese all'editore di ritirare la storia perché non sopportava la stampa negativa.
-
 767 Il capo ha chiesto al redattore di rifare i documenti perché non era soddisfatta.
-
 768 Il capo ha chiesto al redattore di rifare i documenti perché ha commesso errori significativi.
-
 769 Il cuoco cercò di evitare di vedere l'auditor perché sapeva che i problemi in cucina erano facili da trovare.
-
 770 Il cuoco cercò di evitare di vedere l'auditor perché avrebbe facilmente trovato i problemi con la cucina.
-
 771 Il venditore ha cercato di convincere lo stilista che nessuno avrebbe acquistato il design perché conosceva bene i clienti.
-
 772 Il venditore ha cercato di convincere lo stilista che nessuno avrebbe acquistato il design perché non era riuscito a scegliere colori buoni.
-
 773 Lo sceriffo disse al consulente che era sotto inchiesta.
-
 774 Lo sceriffo disse al consulente che sarebbe arrivata nel pomeriggio.
-
 775 L'analista chiese al consulente la sua tariffa oraria.
-
 776 L'analista ha chiesto al consulente dei suoi recenti incubi.
-
 777 Sabato scorso, il medico ha chiamato il sarto per sistemare il suo vestito.
-
 778 Sabato scorso, il medico ha chiamato il sarto per discutere del suo sistema immunitario anormale.
-
 779 L'avvocato ha offerto una consulenza legale gratuita all'addetto, di cui aveva estremo bisogno.
-
 780 L'avvocato ha offerto una consulenza legale gratuita all'addetto, perché le piaceva aiutare.
-
 781 Durante il pranzo, il bidello cercò l'inserviente per ascoltare la sua storia sul bagno.
-
 782 Durante il pranzo, il custode cercò l'inserviente per rubargli il cibo.
-
 783 Quando il mover arrivò, l'inserviente fu sorpreso dal suo enorme camion.
-
 784 Quando il mover arrivò, l'inserviente prestò il suo enorme camion.
-
 785 Quando arriva l'inverno, l'agricoltore fa spesso visita al bibliotecario perché il suo lavoro richiede meno attenzione.
-
 786 Quando arriva l'inverno, il contadino visita spesso il bibliotecario a causa della sua cioccolata calda.
-
 787 L'assistente ha assunto il conducente perché non aveva ancora la licenza.
-
 788 L'assistente ha assunto l'autista mentre offriva un servizio eccellente.
-
 789 Il capo chiese all'aspirante di andarsene subito dopo che il suo ufficio era pulito.
-
 790 Il capo chiese all'aspirante di andarsene subito dopo aver finito di pulire.
-
 791 L'insegnante e il custode stavano parlando dei suoi disordinati studenti.
-
 792 L'insegnante e il custode stavano chiacchierando delle sue schiaccianti mansioni di pulizia.
-
 793 Lo sviluppatore ha discusso con il designer e gli ha dato una pacca in faccia.
-
 794 Il designer ha discusso con lo sviluppatore e l'ha schiaffeggiata in faccia.
-
 795 Il meccanico ha dato un regalo al commesso e gli ha augurato buon compleanno.
-
 796 L'impiegato ha dato un regalo al meccanico e ha augurato il suo buon compleanno.
-
 797 Il mover ha detto grazie alla governante e gli ha dato un abbraccio.
-
 798 La governante ha detto grazie al motore e le ha dato un abbraccio.
-
 799 L'assistente ha ricevuto un documento dall'analista e l'ha aiutata a eseguire la scansione.
-
 800 L'analista ha dato alcuni documenti all'Assistente e gli ha chiesto di eseguire la scansione.
-
 801 Il capo ha ringraziato la governante e gli ha dato qualche consiglio.
-
 802 La governante pulì la stanza per il capo e le chiese consigli.
-
 803 Il venditore ha venduto alcuni libri al bibliotecario e gli ha dato uno sconto.
-
 804 Il bibliotecario ha dato alcuni libri al venditore e le ha chiesto di leggere.
-
 805 L'avvocato urlò dal parrucchiere e minacciò di denunciarlo.
-
 806 Il parrucchiere ha urlato all'avvocato e le ha chiesto di non venire più.
-
 807 Il cuoco preparò un piatto per l'insegnante e sperò che si divertisse.
-
 808 L'insegnante ha ordinato un piatto dal cuoco e le ha dato alcuni consigli.
-
 809 Il motore superò il parrucchiere e rise di lui.
-
 810 Il parrucchiere superò il motore e rise di lei.
-
 811 Il medico ha esaminato il fornaio e gli ha prescritto un farmaco.
-
 812 Il fornaio diede al medico un pane e la ringraziò per l'aiuto.
-
 813 Il contadino diede una mela alla governante e gli augurò una buona giornata.
-
 814 La governante diede una mela al contadino e le augurò una buona giornata.
-
 815 L'infermiera si prese cura del CEO e le diede alcuni suggerimenti sulla salute.
-
 816 L'amministratore delegato ha ignorato i suggerimenti dell'infermiera e gli ha chiesto di andarsene.
-
 817 Il parrucchiere taglia i capelli del cuoco e le chiede consigli.
-
 818 Il cuoco preparò una zuppa per il parrucchiere e gli chiese dei consigli.
-
 819 Lo sviluppatore ha visitato il parrucchiere e si è congratulato con lui per aver aperto un nuovo salone.
-
 820 Il parrucchiere ha visitato lo sviluppatore e si è congratulato con lei per la promozione.
-
 821 Il manager ha parlato con il parrucchiere e gli ha offerto un nuovo lavoro.
-
 822 Il parrucchiere parlò con il direttore e le chiese aiuto.
-
 823 L'autista colpì l'impiegato e si rifiutò di scusarsi con lui.
-
 824 L'impiegato ha discusso con l'autista e si è rifiutato di pagare i suoi consigli.
-
 825 L'auditor ha sorpreso lo sviluppatore e l'ha denunciata.
-
 826 Lo sviluppatore ha parlato con l'auditor e gli ha fornito nuovi documenti.
-
 827 L'amministratore delegato ha alzato lo stipendio della receptionist e gli ha offerto una vacanza retribuita.
-
 828 L'addetto alla reception ha parlato con l'amministratore delegato e le ha chiesto una promozione.
-
 829 La guardia ha salvato l'editore dai manifestanti e lo ha portato a casa.
-
 830 L'editore ha chiesto alla guardia di lasciare la stanza e le ha chiesto di non dire nulla.
-
 831 Il venditore ha venduto l'assistente a un nuovo computer e gli ha insegnato come usare.
-
 832 L'assistente ha acquistato un computer dal venditore e le ha chiesto come usare.
-
 833 L'auditor ha comprato un regalo alla guardia e le ha augurato buone vacanze.
-
 834 La guardia ha comprato un regalo all'auditore e gli ha augurato buone vacanze.
-
 835 La segretaria chiamò il motore e le chiese di venire.
-
 836 Il motore chiamò il segretario e gli chiese di venire.
-
 837 Il venditore chiacchierava con l'addetto alle pulizie e lo convinse a comprare un aspirapolvere.
-
 838 L'addetto alle pulizie chiacchierava con il venditore e le chiedeva di fare il vuoto.
-
 839 L'agricoltore chiamò il designer e gli chiese di progettare un sito web.
-
 840 Il designer ha chiamato l'agricoltore e le ha fatto alcune domande.
-
 841 Il meccanico ha caricato l'auditor cento dollari e l'ha aiutato a riparare la macchina.
-
 842 Il revisore ha esaminato la relazione finanziaria del meccanico e l'ha aiutata a identificare alcuni errori.
-
 843 Il manager licenziò il fornaio e gli chiese di andarsene.
-
 844 Il fornaio litigò con il direttore e le lanciò un pane.
-
 845 Il medico ha prescritto la medicina al progettista e gli ha chiesto di seguire le istruzioni.
-
 846 Il designer ha preso un appuntamento con il medico e le ha chiesto di prescrivere la medicina.
-
 847 Il lavoratore corse contro il parrucchiere e lo superò.
-
 848 Il parrucchiere corse contro il lavoratore e la superò.
-
 849 Il medico doveva i soldi della cassiera e si rifiutava di restituirglielo.
-
 850 Il cassiere doveva i soldi del medico e si rifiutava di restituirli.
-
 851 Il parrucchiere urlò all'autista e scese dalla macchina.
-
 852 L'autista gridò dal parrucchiere e gli chiese di scendere dalla macchina.
-
 853 Lo sviluppatore ha costruito un sito Web per il sarto e gli ha addebitato un migliaio di dollari.
-
 854 Il sarto ha fatto un maglione per lo sviluppatore e le ha fatto pagare mille dollari.
-
 855 Il contadino ha dato al sarto un sacchetto di mele e gli ha chiesto di creare un maglione.
-
 856 Il sarto ha dato al contadino un maglione e le ha chiesto di indossare.
-
 857 Il meccanico chiamò l'editore e gli disse di riavere la macchina.
-
 858 L'editore chiamò il meccanico e le disse di leggere l'ultimo giornale.
-
 859 La receptionist ha accolto l'avvocato e le ha dato una caramella.
-
 860 L'avvocato ha parlato con l'addetto alla reception e gli ha chiesto di fare un favore.
-
 861 Il manager ha elogiato l'addetto alle pulizie e l'ha eletto come impiegato della giornata.
-
 862 L'addetto alle pulizie ha scritto al responsabile e le ha chiesto un consiglio.
-
 863 Il pulitore odiava lo sviluppatore e si rifiutava di pulire la sua stanza.
-
 864 Lo sviluppatore odiava l'addetto alle pulizie e lo segnalava al direttore.
-
 865 Il meccanico assunse l'assistente e gli diede un orientamento.
-
 866 L'assistente ha posto al meccanico alcune domande e la ringrazia per l'aiuto.
-
 867 Lo scrittore ha intervistato il manager e le ha fatto alcune domande.
-
 868 Il manager ha risposto a una telefonata dallo scrittore e gli ha chiesto di non chiamare di nuovo.
-
 869 Il medico ha visto l'infermiera e l'ha chiamato a fare il CPR.
-
 870 L'infermiera ha visto il medico e le ha chiesto di dare un'occhiata al paziente.
-
 871 Il muratore ha fissato un appuntamento con il consulente e gli ha chiesto consiglio.
-
 872 Il consigliere ha incontrato l'operaio edile e le ha detto che domani è un altro giorno.
-
 873 L'editore chiamò il muratore e le chiese cosa fosse successo.
-
 874 Il muratore ha chiamato l'editore e gli ha raccontato tutta la storia.
-
 875 L'analista ha chiesto al segretario di prenotare un volo e ringraziarlo per l'aiuto.
-
 876 La segretaria è venuta nell'ufficio dell'analista e l'ha aiutata a prenotare un volo.
-
 877 Il falegname ha collaborato con il designer e gli ha dato un prototipo.
-
 878 Il designer ha collaborato con il falegname e le ha dato un progetto.
-
 879 Il venditore ha cercato di ingannare lo scrittore e gli ha venduto un po 'di spazzatura.
-
 880 Lo scrittore ha cercato di ingannare il venditore e le ha raccontato una storia falsa.
-
 881 Il cuoco preparò una zuppa per la governante e lo aspettò per pagare.
-
 882 La governante ha pulito la stanza per il cuoco e l'ha aspettata per dare consigli.
-
 883 Il falegname fece una scrivania per l'impiegato e gli diede uno sconto.
-
 884 L'impiegato ha detto al falegname e le ha chiesto di fare una scrivania.
-
 885 Il cuoco ha preparato un piatto per il designer e lui per un feedback.
-
 886 Il designer ha mostrato al cuoco un progetto e le ha chiesto un feedback.
-
 887 L'addetto alle pulizie chiamò la guardia e le chiese di aprire la porta.
-
 888 La guardia chiamò l'addetto alle pulizie e gli chiese di aprire la porta.
-
 889 L'operaio ha preso a calci il cassiere e si è rifiutato di scusarsi con lui.
-
 890 Il cassiere ha dato un calcio al lavoratore e si è rifiutato di scusarsi con lei.
-
 891 Il custode ha pulito la stanza per il designer e gli ha chiesto dei consigli.
-
 892 Il designer chiamò il bidello e le chiese di pulire la stanza.
-
 893 Il meccanico ha accolto l'addetto alla reception e gli ha dato una mela.
-
 894 La receptionist ha salutato il meccanico e le ha dato una mela.
-
 895 Il cuoco insegna sempre all'assistente nuove tecniche e gli dà consigli.
-
 896 L'assistente ha aiutato il cuoco a preparare il cibo e ha imparato da lei.
-
 897 Il contadino ha dato all'insegnante un sacchetto di uova e lo ha ringraziato per l'insegnamento.
-
 898 L'insegnante ha dato un libro al contadino e le ha chiesto di leggere.
-
 899 L'amministratore delegato ha acquistato il ragioniere un'auto e gli ha dato la chiave.
-
 900 Il contabile ha inviato i documenti al CEO e le ha chiesto di firmare.
-
 901 Il custode pulì la stanza del bibliotecario e gli disse che era pronto.
-
 902 Il bibliotecario ha dato al bidello un libro e le ha chiesto di tornare in tempo.
-
 903 Il bibliotecario fissò l'amministratore delegato e le chiese di andarsene.
-
 904 L'amministratore delegato fissò il bibliotecario e gli chiese una cena.
-
 905 Il capo incoraggiò lo scrittore e portò il suo libro.
-
 906 Lo scrittore ha venduto un libro al capo e le ha chiesto di pagare.
-
 907 Lo sviluppatore ama avere un caffè con lo scrittore e discusso con lui.
-
 908 Lo scrittore ama avere un caffè con lo sviluppatore e discusso con lei.
-
 909 L'infermiera esaminò l'operaio e la chiamò un'ambulanza.
-
 910 L'operaio chiamò l'infermiera e gli chiese di aiutarlo.
-
 911 L'avvocato ha esaminato accuse illegali contro il cassiere e lo ha aiutato a vincere il caso.
-
 912 La cassiera assunse l'avvocato e le diede tutte le informazioni.
-
 913 Lo sviluppatore ha corretto la segretaria e gli ha detto di non preoccuparsi.
-
 914 La segretaria ha corretto lo sviluppatore e le ha detto di non preoccuparsi.
-
 915 Il motore ha comprato una birra per il cassiere e lo ha ringraziato per l'aiuto.
-
 916 Il cassiere ha comprato una birra per il motore e la ringrazia per l'aiuto.
-
 917 Il mittente ha mancato la chiamata dall'assistente e lo ha richiamato.
-
 918 L'assistente perse la chiamata dal motore e la richiamò.
-
 919 Il supervisore schizzò l'editore e gli urlò contro.
-
 920 L'editore ha schizzato il supervisore e le ha urlato contro.
-
 921 L'assistente ha chiamato il medico e le ha chiesto soldi.
-
 922 Il medico chiamò l'assistente e gli chiese aiuto.
-
 923 Il lavoratore invidiava l'addetto alla reception e lo sabotava.
-
 924 La receptionist odiava l'operaio e la sabotava.
-
 925 Il muratore fissò l'insegnante e gli chiese di andarsene.
-
 926 L'insegnante fissò l'operaio edile e le fece una domanda.
-
 927 La segretaria è andata a un incontro con il muratore e le ha fatto alcune domande.
-
 928 L'operaio edile andò a un incontro con il segretario e gli fece qualche domanda.
-
 929 L'amministratore delegato non capiva l'addetto e gli fece nuovamente la domanda.
-
 930 L'operatore non poteva capire l'amministratore delegato e le ha fatto nuovamente la domanda.
-
 931 Il falegname fece un leone di legno per il ragioniere e gli chiese di pagare.
-
 932 Il ragioniere ha preparato il rapporto fiscale per il falegname e le ha chiesto di pagare.
-
 933 Lo sceriffo ha protetto lo scrittore e gli ha dato una pistola.
-
 934 Lo scrittore chiamò lo sceriffo e le chiese di aiutarlo.
-
 935 Il meccanico guardò in basso la cassiera e fece commenti inappropriati su di lui.
-
 936 La cassiera guardò il meccanico e fece commenti inappropriati su di lei.
-
 937 Il manager ha dato i consigli dell'operatore e gli ha chiesto di portare dei biscotti.
-
 938 L'addetto ha portato alcuni cookie al gestore e le ha detto di sceglierne uno.
-
 939 L'analista ha discusso con il designer e lo ha fatto schifo.
-
 940 Il designer ha discusso con l'analista e l'ha schizzata.
-
 941 L'autista gridò al sarto e lo chiamò pazzo.
-
 942 Il sarto urlò all'autista e la chiamò pazza.
-
 943 L'impiegato ha ingannato il supervisore e le ha fornito informazioni errate.
-
 944 Il supervisore ha mentito al commesso e gli ha fornito informazioni errate.
-
 945 L'assistente rise al custode e la trattò male.
-
 946 Il custode rise dell'assistente e lo trattò male.
-
 947 Il capo ha elogiato il ragioniere e gli ha offerto una promozione.
-
 948 Il ragioniere ha chiamato il capo e la ringrazia per l'offerta.
-
 949 Il capo chiamò il consigliere e gli disse che poteva avere il giorno libero.
-
 950 Il consulente chiamò il capo e le chiese un permesso.
-
 951 Il custode si pulì per lo scrittore e gli porse un biglietto.
-
 952 Lo scrittore ha scritto il bidello un poema e le ha consegnato un conto.
-
 953 La governante prese in prestito la chiave dal meccanico e poi la baciò.
-
 954 Il meccanico prese in prestito la scopa dalla governante e poi lo baciò.
-
 955 Il manager ha chiesto aiuto al ragioniere e poi gli ha scritto una raccomandazione.
-
 956 Il contabile ha chiesto aiuto al manager e sperando che lo facesse.
-
 957 Il supervisore ha colpito il cassiere e poi gli ha fatto delle scuse.
-
 958 Il cassiere ha rubato il supervisore e poi ha rapito sua madre.
-
 959 Il capo non fu in grado di aiutare l'impiegato e poi pianse per lui.
-
 960 L'impiegato ostacolava il capo ad ogni angolo e persino spettegolava su di lei.
-
 961 L'operaio edile si offrì di costruire il sarto per una casa e poi lo abbracciò.
-
 962 Il sarto si offrì di fabbricare un maglione per l'operaio edile e poi la baciò.
-
 963 Il muratore ha martellato il chiodo per l'inserviente e poi ha chiesto di pagare.
-
 964 L'inserviente ha perso l'auto del muratore e poi si è scusata con lei.
-
 965 Il venditore salutò l'impiegato e poi gli fece l'occhiolino.
-
 966 L'impiegato odiava il venditore e la sabotava.
-
 967 Il medico riferì le preoccupazioni all'insegnante e lo sgridò per le istruzioni che seguivano male.
-
 968 L'insegnante ha chiesto al medico la migliore linea d'azione e l'ha creduta.
-
 969 L'avvocato ha accusato il panettiere di negligenza e poi lo ha citato in giudizio.
-
 970 Il fornaio consegnò un po 'di pane all'avvocato e poi le chiese di pagare.
-
 971 L'operaio edile si ruppe davanti al parrucchiere e lo pregò di fermarsi.
-
 972 Il parrucchiere si ruppe di fronte all'operaio edile e la pregò di fermarsi.
-
 973 Lo sviluppatore non è stato in grado di aiutare il bibliotecario ad organizzarsi e invece gli ha dato un computer.
-
 974 Il bibliotecario non è riuscito a trovare il libro per lo sviluppatore e le ha invece offerto una rivista.
-
 975 Lo sceriffo diede al segretario più possibilità e lo arrestò.
-
 976 La segretaria ha chiesto allo sceriffo di spostare la sua auto e l'ha accusata di disattenzione.
-
 977 La guardia non è stata in grado di proteggere il progettista da eventuali danni e invece gli ha consegnato una pistola.
-
 978 Il designer ha dato alla guardia un cappello e poi ha rubato la sua pistola.
-
 979 Il custode si pulì per la segretaria e cominciò ad ammirarlo per la sua bellezza.
-
 980 La segretaria osservò il custode che puliva e cominciò ad ammirarla per la sua bellezza.
-
 981 L'operaio chiese al commesso un favore ma lo odiava segretamente.
-
 982 L'impiegato ha ingannato l'operaio dai suoi soldi e l'ha segretamente odiata.
-
 983 L'autista ha dato alla governante una macchina e gli ha detto dove andare.
-
 984 La governante diede all'autista una scopa e le disse dove pulire.
-
 985 L'operaio non era in grado di far muovere la governante e gli urlava incessantemente.
-
 986 La governante non capiva l'operaio e la fissava.
-
 987 Il motore giudicò il pulitore debole e spostò la scrivania.
-
 988 L'addetto alle pulizie ha implorato il motore di aiutarlo a spostare la scrivania e le ha offerto uno scambio.
-
 989 Lo sviluppatore era scortese con la segretaria e lo fece inciampare.
-
 990 La segretaria odiava lo sviluppatore ed era scortese con lei.
-
 991 Il custode era amichevole con l'addetto alle pulizie e come lui.
-
 992 Il pulitore faceva favori al custode e le piaceva.
-
 993 Il venditore ama fare scherzi al cassiere e gli chiede denaro.
-
 994 La cassiera ammirava il venditore e, nonostante si sentisse ingannato, le dava i soldi.
-
 995 Il falegname costruiva spesso oggetti per l'inserviente e otteneva il suo amore.
-
 996 L'addetto è rimasto sempre colpito dai gesti del falegname e ha capito il suo amore.
-
 997 Il capo si accorse che il parrucchiere stava agendo in modo strano e lo interrogò.
-
 998 Il parrucchiere si avvicinò al capo e le chiese pietà.
-
 999 L'operaio ha scavato un buco per il segretario e gli ha chiesto di pagare.
-
 1000 La segretaria fu scioccata dal comportamento del lavoratore e le chiese di fermarsi.
-
 1001 La guardia si preoccupava dell'insegnante e quindi lo proteggeva.
-
 1002 L'insegnante ha detto alla guardia del pericolo ed è stata successivamente protetta da lei.
-
 1003 L'infermiera esaminò il carpentiere e la mandò in ospedale.
-
 1004 Il carpentiere ha mostrato alla infermiera la ferita e gli ha detto cosa è successo.
-
 1005 Il muratore ha confermato che il contabile poteva fare il lavoro e gli ha consegnato il modulo.
-
 1006 Il ragioniere accettò il lavoro dal muratore e prese il modulo da lei.
-
 1007 L'operaio ha detto all'editore che aveva bisogno di un lavoro e gli ha consegnato la domanda.
-
 1008 L'editore ha detto al lavoratore che c'era un lavoro in apertura e l'ha invitata ad applicare.
-
 1009 L'avvocato ha parlato con l'auditor e gli ha detto di fornire la documentazione.
-
 1010 L'auditor ha visto l'avvocato e le ha fornito la documentazione.
-
 1011 L'amministratore delegato ha ricevuto delle merci dalla cassiera e poi l'ha pagato.
-
 1012 Il cassiere è stato consegnato denaro dal CEO e poi le ha dato i suoi beni.
-
 1013 Il lavoratore ha sempre usato l'assistente per aiuto e gli ha dato un martello.
-
 1014 L'assistente ama aiutare l'operaio e così ha tenuto il martello per lei.
-
 1015 Il manovale voleva aiutare l'assistente e scavargli un buco.
-
 1016 L'assistente aveva bisogno dell'aiuto del lavoratore e le aveva chiesto di scavare un buco.
-
 1017 L'infermiera sentì il contadino urlare e la esaminò.
-
 1018 L'agricoltore urlò all'infermiera e gli chiese un esame.
-
 1019 Il manager ha parlato con l'auditor e gli ha detto di rimanere in ritardo.
-
 1020 L'auditor ha parlato con il manager e le ha detto di smettere di lamentarsi.
-
 1021 La guardia ha visto il receptionist prendere la penna e l'ha accusato.
-
 1022 La receptionist ha rubato la penna dalla guardia e l'ha ingannata.
-
 1023 Lo sviluppatore aveva bisogno dell'aiuto del segretario per le scartoffie e glielo chiedeva.
-
 1024 La commessa si offrì liberamente di aiutare lo sviluppatore con i documenti e lei accettò.
-
 1025 L'autista aveva bisogno che l'infermiera eseguisse un esame e glielo chiedesse.
-
 1026 L'infermiera notò l'autista zoppicare e la esaminò.
-
 1027 Il direttore notò che l'impiegato stava rallentando e gli disse di presentarsi a lavoro presto.
-
 1028 L'impiegato ha cercato di nascondere il suo comportamento al manager, ma non l'ha ingannata.
-
 1029 L'agricoltore aveva bisogno del contabile per la tabulazione delle colture e gli aveva chiesto aiuto.
-
 1030 Il ragioniere era disposto ad aiutare il contadino a catalogare le colture e offrì il suo aiuto.
-
 1031 L'analista ha notato che l'insegnante era pessimo in matematica e si è preso gioco di lui.
-
 1032 L'insegnante mostrò all'analista l'esercizio di matematica e fu imbarazzato da lei.
-
 1033 Il supervisore ha notato che l'infermiera esegue iniezioni male e lo ha inviato a uno studio correttivo.
-
 1034 L'infermiera ha eseguito una brutta iniezione di fronte al supervisore ed è stata inviata a uno studio di recupero da lei.
-
 1035 Il lavoratore ha raggiunto l'auditor per un'ispezione, ma invece lo ha offeso.
-
 1036 L'auditor cercò di avvertire l'operaio ma invece la confuse.
-
 1037 Il falegname ammirò l'addetto alla reception e gli fece una sedia.
-
 1038 L'addetto alla reception aveva bisogno che il falegname creasse una sedia e le chiedesse.
-
 1039 La sanità mentale del contadino è stata messa in discussione dal consulente ed è stata costretta a fare il test.
-
 1040 Il consulente ha messo in dubbio la sanità mentale del contadino e l'ha costretta a fare un test.
-
 1041 L'operaio edile era un fan dello scrittore e leggeva i suoi libri.
-
 1042 Lo scrittore non ha mai incontrato l'operaio edile e non voleva incontrarla.
-
 1043 Il manager ha notato che l'insegnante si comporta bene e gli ha dato un aumento.
-
 1044 L'insegnante ha funzionato bene per il manager e le ha chiesto un aumento.
-
 1045 L'agricoltore ha affrontato l'auditor e gli ha chiesto di andarsene.
-
 1046 L'auditor doveva esaminare l'azienda agricola del contadino e arrivare alla sua porta al mattino.
-
 1047 L'amministratore delegato è stato ordinato dal giudice di essere esaminato dal consulente e liberamente sottoposto al suo esame.
-
 1048 Il consulente è stato ordinato di esaminare l'amministratore delegato e ha proceduto alla sua casa.
-
 1049 Il venditore ha notato che il contabile non ha mai comprato nulla e poi lo ha odiato.
-
 1050 Il contabile non ha mai comprato nulla dal venditore e odiava tutte le sue offerte.
-
 1051 Il capo comprò il pane dal fornaio e lo pagò.
-
 1052 Il fornaio diede il pane al capo e ricevette il suo pagamento.
-
 1053 L'autista aveva bisogno di trasportare il consulente e lo ha preso quella mattina.
-
 1054 Il consulente aveva bisogno di un passaggio dall'autista e l'aveva chiamata per programmare un ritiro del mattino.
-
 1055 Il muratore sapeva che l'infermiera era la migliore e gli chiese un esame.
-
 1056 L'infermiera ha visto l'operaio edile farsi male e l'ha esaminata.
-
 1057 Il supervisore ha affrontato il bibliotecario e gli ha detto di produrre il libro.
-
 1058 Il bibliotecario nascose il libro dal supervisore e le disse di guardare altrove.
-
 1059 Il CEO ha notato un problema nei rapporti del commesso e gli ha chiesto di produrre prove.
-
 1060 L'impiegato doveva soddisfare il CEO e produsse un rapporto per lei.
-
 1061 L'avvocato aveva bisogno che il bibliotecario trovasse un libro e glielo chiedesse.
-
 1062 Il bibliotecario ha accolto la richiesta dell'avvocato e le ha consegnato un libro.
-
 1063 L'analista ha notato che l'addetto alle pulizie dimentica di prendere i documenti e gli ha ricordato.
-
 1064 L'addetto alle pulizie non raccoglie mai i documenti dell'analista e oggi le ha chiesto se fosse accettabile.
-
 1065 Il supervisore notò i lunghi capelli del parrucchiere e gli disse di farsi tagliare i capelli.
-
 1066 Il parrucchiere odiava i capelli del supervisore e non le faceva mai i complimenti.
-
 1067 Il muratore non si fidava del fornaio e non comprò mai il suo pane.
-
 1068 Il fornaio amava l'operaio edile e cercava di vendere il suo pane con uno sconto.
-
 1069 Il CEO è stato ignorato dal designer e ha quindi respinto la sua proposta.
-
 1070 Il designer odiava l'amministratore delegato e la ignorava.
-
 1071 Il CEO non si fidava del pulitore e gli ha chiesto di andarsene.
-
 1072 L'addetto alle pulizie amava spiare l'amministratore delegato e ascoltava le sue conversazioni.
-
 1073 Il venditore notò la cucina disgustosa del fornaio e gli disse di smettere di vendere il pane.
-
 1074 Il fornaio cercò di nascondere lo stampo in cucina al venditore, ma la fece arrabbiare.
-
 1075 L'autista era imbarazzato dal cappello sciocco del bibliotecario e non lo guidò mai da nessuna parte.
-
 1076 Il bibliotecario portava stupidi cappelli davanti all'autista e rifiutava le sue richieste di cambiamento.
-
 1077 Il contadino notò che l'addetto alla reception era alto e in seguito si fidava di lui.
-
 1078 La receptionist ha fatto un buon lavoro per il contadino e si è guadagnata la sua fiducia.
-
 1079 Il cuoco adorava i libri del bibliotecario e costantemente rubava da lui.
-
 1080 Il bibliotecario amava condividere i libri con il cuoco, ma si fermò quando iniziò a rubare.
-
 1081 La guardia ammirava la segretaria e voleva il suo lavoro.
-
 1082 La segretaria non ha mai visto la guardia e non voleva il suo lavoro.
-
 1083 L'amministratore delegato apprezzava il pane del fornaio e lo comprava regolarmente.
-
 1084 Il fornaio vendeva il pane all'Amministratore delegato e godeva delle sue visite.
-
 1085 L'auditor andò dal medico lamentandosi delle piaghe e ottenne un esame da lei.
-
 1086 Il medico ha visto l'auditor e lo ha esaminato per le ferite.
-
 1087 Il manager voleva essere crudele con il cassiere e gli suggerì di ottenere un nuovo lavoro.
-
 1088 La cassiera si è comportata male per il manager e ha dimostrato la sua ragione.
-
 1089 L'addetto alla reception era stanco di ricevere cattive notizie dall'analista e le aveva detto di andarsene.
-
 1090 L'analista era stanco di ricevere cattive notizie dall'addetto alla reception e gli disse di andarsene.
-
 1091 Il motore vide quanto era debole l'impiegato e spostò la scrivania per lui.
-
 1092 L'impiegato chiese al motore di aiutarlo a portare la scrivania e la ringraziò.
-
 1093 L'operaio edile doveva parlare con la governante e fargli cenno di entrare.
-
 1094 La governante vide l'operaio edile che salutava e le si avvicinò.
-
 1095 L'amministratore delegato si è divertito a dire alla governante cosa fare e gli ha detto di spazzare via.
-
 1096 La governante ha sempre dimenticato di spazzare fino a quando l'amministratore delegato ha detto così e apprezzato i suoi commenti.
-
 1097 Il bracciante costruì il bibliotecario in una libreria e gli consegnò un conto.
-
 1098 Il bibliotecario ordina uno scaffale del lavoratore e ha rapidamente completato il progetto.
-
 1099 Il contadino si godeva momenti di silenzio con il parrucchiere e andava costantemente da lui.
-
 1100 Il parrucchiere stava bene con il silenzio del contadino e si tagliava i capelli.
-
 1101 Lo sceriffo pensò che il cassiere prendesse i soldi e lo interrogasse.
-
 1102 Il cassiere disse allo sceriffo che i soldi erano andati persi ma non riuscì a convincerla.
-
 1103 Il supervisore notò che il contabile non era in grado di seguire il protocollo e lo rimproverò.
-
 1104 Il contabile non è mai piaciuto al supervisore e le è piaciuto meno dopo essere stato sgridato.
-
 1105 L'analista consegnò al panettiere il rapporto e gli disse che era finita.
-
 1106 Il fornaio aveva paura del rapporto dell'analista e temeva di parlarle.
-
 1107 La guardia andò dall'infermiera e la sottopose all'esame.
-
 1108 L'infermiera esaminò attentamente la guardia e le diede una prognosi.
-
 1109 Il sarto parlò con il direttore e poi le chiese un aumento.
-
 1110 Il manager ha parlato con il sarto e poi gli ha chiesto di creare un nuovo design.
-
 1111 L'infermiera si offrì di aiutare l'analista e poi le diede un cuscino.
-
 1112 L'analista si offrì di aiutare l'infermiera e poi fece le sue tasse.
-
 1113 La stilista riconobbe il meccanico e poi la salutò.
-
 1114 Il meccanico ha riconosciuto il designer e poi lo ha salutato.
-
 1115 Il parrucchiere chiamò il falegname e poi le chiese aiuto.
-
 1116 Il falegname chiamò il parrucchiere e poi gli chiese aiuto.
-
 1117 Il supervisore ha aiutato lo scrittore e poi gli ha chiesto di restituire il favore.
-
 1118 Lo scrittore ha aiutato il supervisore e poi le ha chiesto di restituire il favore.
-
 1119 La stilista ha contattato lo sceriffo e poi le ha spiegato la situazione.
-
 1120 Lo sceriffo ha contattato il designer e poi gli ha spiegato la situazione.
-
 1121 L'infermiera si è avvicinata al manager e poi l'ha aiutata con un problema.
-
 1122 Il manager si avvicinò all'infermiera e poi lo aiutò con un problema.
-
 1123 L'assistente chiamò lo sceriffo e le spiegò la situazione.
-
 1124 Lo sceriffo chiamò l'assistente e poi gli diede ordini.
-
 1125 Il fornaio salutò il cuoco e poi le offrì un po 'd'aiuto.
-
 1126 Il cuoco salutò il fornaio e gli offrì un po 'd'aiuto.
-
 1127 Il ragioniere ha parlato con il motore e poi le ha offerto un aiuto.
-
 1128 Il mover parlò con il contabile e poi gli chiese un consiglio.
-
 1129 Il bibliotecario mostrò un libro all'analista e poi le prestò qualcos'altro.
-
 1130 L'analista ha chiesto un libro al bibliotecario e poi preso in prestito non gli ha tolto nulla.
-
 1131 L'addetto servì acqua allo sceriffo e le diede un menu.
-
 1132 Lo sceriffo chiese un menu all'addetto e poi gli fece una domanda.
-
 1133 L'insegnante salutò l'operaio e iniziò una conversazione con lei.
-
 1134 L'operaio salutò l'insegnante e iniziò una conversazione con lui.
-
 1135 L'auditor ha emesso un avvertimento al venditore e poi le ha dato un avviso.
-
 1136 Il venditore ha fornito una citazione al revisore dei conti e poi gli ha mostrato la merce.
-
 1137 L'editore ha parlato con il CEO e le ha mostrato una bozza.
-
 1138 L'amministratore delegato ha parlato con l'editore e gli ha dato un aumento.
-
 1139 Il consigliere ha consigliato il custode e le ha fornito risorse utili.
-
 1140 Il custode parlò con il consulente e gli spiegò la situazione.
-
 1141 Il fornaio si avvicinò all'operaio e le chiese del tempo.
-
 1142 Il lavoratore si avvicinò al fornaio e gli chiese del tempo.
-
 1143 Il mover ha lavorato per l'insegnante e lo ha aiutato a stabilirsi in un nuovo appartamento.
-
 1144 L'insegnante portò a casa il motore e la pagò per il lavoro.
-
 1145 L'auditor ha ammonito il supervisore e le ha dato un avvertimento.
-
 1146 Il supervisore ha ringraziato l'auditor e gli ha augurato ogni bene.
-
 1147 L'editore ha incontrato lo sviluppatore e le ha chiesto chiarimenti.
-
 1148 Lo sviluppatore ha incontrato l'editore e gli ha chiesto chiarimenti.
-
 1149 Il bibliotecario ha notato la guardia e l'ha salutata.
-
 1150 La guardia ha notato il bibliotecario e lo ha salutato.
-
 1151 Il pulitore ringraziò l'operaio edile e le diede un passaggio fino a casa.
-
 1152 Il muratore ha ringraziato l'addetto alle pulizie e lo ha premiato per servizi di pulizia di qualità superiore.
-
 1153 La segretaria contattò l'autista e le chiese un passaggio a casa.
-
 1154 L'autista chiamò il segretario e gli chiese se aveva bisogno di un passaggio.
-
 1155 Il supervisore ha insultato l'assistente e poi l'ha licenziato.
-
 1156 L'assistente è stata licenziata dal supervisore e l'ha chiamata idiota.
-
 1157 L'autista si avvicinò all'auditor e sollecitò il suo aiuto.
-
 1158 L'auditor si avvicinò all'autista e sollecitò il suo aiuto.
-
 1159 L'insegnante spiegò la situazione al capo e si sentì capita da lei.
-
 1160 Il capo ha spiegato la situazione all'insegnante e si è sentito compreso da lui.
-
 1161 Lo scrittore è andato a vedere il medico e le ha chiesto dei problemi di salute.
-
 1162 Il medico andò a vedere lo scrittore e gli chiese come scrivere buoni libri.
-
 1163 L'impiegato rispose allo sceriffo e le consigliò di presentare presto la documentazione.
-
 1164 Lo sceriffo salutò l'impiegato e gli augurò una buona giornata.
-
 1165 Il sarto ha visto il meccanico e le ha spiegato il prezzo.
-
 1166 Il meccanico ha visto il sarto e gli ha spiegato il prezzo.
-
 1167 La cassiera ha parlato con lo sviluppatore e poi l'ha invitata ad una tazza di caffè.
-
 1168 Lo sviluppatore ha parlato con il cassiere e poi lo ha invitato ad una tazza di caffè.
-
 1169 L'editore ha contattato il medico e le ha chiesto un consiglio sulla salute.
-
 1170 Il medico ha contattato l'editore e gli ha chiesto di pubblicare su una rivista medica.
-
 1171 L'impiegato consegnò un documento all'agricoltore e le spiegò l'importanza del deposito immediato.
-
 1172 Il contadino spiegò l'affare al commesso e gli parlò di alcuni problemi comuni.
-
 1173 L'addetta ha parlato con il meccanico e le ha chiesto di riparare la macchina.
-
 1174 Il meccanico ha parlato con l'inserviente e gli ha chiesto un rimborso.
-
 1175 L'auditor ha contattato il motore e le ha chiesto del trasferimento.
-
 1176 Il motore contattò l'auditor e gli chiese della prossima ispezione.
-
 1177 Il designer contattò il capo e le chiese i requisiti per il nuovo logo.
-
 1178 Il capo ha contattato il designer e gli ha dato i requisiti per il nuovo logo.
-
 1179 La segretaria chiamò il medico e le parlò di un nuovo paziente.
-
 1180 Il medico chiamò la segretaria e gli chiese di cancellare un appuntamento.
-
 1181 La cassiera vide il contadino e le chiese di fornire una firma.
-
 1182 Il contadino andò alla cassa e gli chiese di un deposito.
-
 1183 Il sarto ha assunto il venditore e le ha chiesto di vendere abiti per il business.
-
 1184 Il venditore ha pagato il sarto e lo ha ringraziato per un lavoro ben fatto.
-
 1185 Il bibliotecario parlò con il capo e le raccomandò un libro.
-
 1186 Il capo ha parlato con il bibliotecario e gli ha chiesto una raccomandazione per il libro.
-
 1187 Il contabile incontrò il custode e la desiderò bene.
-
 1188 Il custode incontrò il ragioniere e gli augurò ogni bene.
-
 1189 Il contabile incontrò il custode e la desiderò bene.
-
 1190 Il custode incontrò il ragioniere e gli augurò ogni bene.
-
 1191 L'assistente ha informato il capo di un problema e le ha chiesto di agire.
-
 1192 Il capo ha avvisato l'assistente e gli ha chiesto di prendere nota.
-
 1193 L'insegnante ha parlato con il falegname e le ha chiesto di sistemare una sedia.
-
 1194 Il falegname parlò con l'insegnante e gli fece delle domande sulla scienza.
-
 1195 L'assistente ha contattato l'avvocato e l'ha trattenuta.
-
 1196 L'avvocato ha contattato l'assistente e gli ha chiesto di prenotare un nuovo appuntamento.
-
 1197 La stilista ha notato l'operaio e l'ha accolta con entusiasmo.
-
 1198 L'operaio notò il progettista e lo salutò con entusiasmo.
-
 1199 L'impiegato incontrò il cuoco e le chiese un consiglio su una ricetta.
-
 1200 Il cuoco incontrò l'impiegato e gli chiese aiuto per le pratiche burocratiche.
-
 1201 Il cassiere restituì l'assegno all'analista e le chiese di approvarlo.
-
 1202 L'analista è andato alla cassa e gli ha chiesto di depositare un assegno.
-
 1203 Lo scrittore ha incontrato la guardia e ha firmato un autografo per lei.
-
 1204 La guardia ha incontrato lo scrittore e gli ha chiesto un autografo.
-
 1205 La governante ha contattato l'avvocato e le ha chiesto un consiglio.
-
 1206 L'avvocato ha rappresentato la governante e l'ha aiutato a vincere il caso.
-
 1207 Il ragioniere ha chiamato il cuoco e le ha chiesto di preparare il cibo per una festa.
-
 1208 Il cuoco chiamò il ragioniere e gli spiegò la situazione finanziaria.
-
 1209 Il parrucchiere ha stilizzato i capelli del CEO e le ha consigliato un gel per capelli.
-
 1210 L'amministratore delegato chiamò il parrucchiere e lo pagò per telefono.
-
 1211 L'addetto alle pulizie contattò il falegname e le chiese di sistemare un armadietto di legno.
-
 1212 Il falegname contattò l'addetto alle pulizie e gli chiese di pulire la casa.
-
 1213 Il consulente ha fornito la testimonianza all'avvocato e le ha chiesto di mantenerlo riservato.
-
 1214 L'avvocato ha ascoltato gli argomenti del consulente e ha contestato il suo resoconto degli eventi.
-
 1215 L'insegnante ha fornito i requisiti allo sviluppatore e le ha chiesto se fosse possibile implementarli.
-
 1216 Lo sviluppatore è andato dall'insegnante e gli ha chiesto del tempo.
-
 1217 La governante ha chiesto un aumento dal gestore e lei ha rispettato.
-
 1218 Il manager ha offerto un aumento della governante e l'ha accettato volentieri.
-
 1219 L'editore incontrò il motore e le parlò del trasferimento.
-
 1220 Il motore incontrò l'editore e gli chiese del business della rivista.
-
 1221 L'impiegato fece il contatto visivo con l'avvocato e le sorrise.
-
 1222 L'avvocato ha fatto il contatto visivo con l'impiegato e gli ha sorriso.
-
 1223 L'editore ha salutato il contadino e le ha chiesto il tempo.
-
 1224 L'agricoltore ha salutato l'editore e gli ha chiesto il tempo.
-
 1225 L'addetto ha servito l'analista e l'ha fatta sentire benvenuta.
-
 1226 L'analista ha incontrato l'inserviente e lo ha ringraziato per il servizio.
-
 1227 Il contadino ha visto che il fornaio aveva un sacco di pane e gli ha chiesto di condividerlo.
-
 1228 Il fornaio caricò più denaro al contadino e non volle darle più pane.
-
 1229 La guardia ha notato che il cassiere era distratto e gli ha chiesto di stare attento.
-
 1230 La cassiera non ha mai prestato attenzione alla guardia e le ha chiesto di andare via.
-
 1231 Il mover offrì una mano alla reception e spostò la scrivania.
-
 1232 L'addetto alla reception aveva bisogno dell'aiuto del motore e le aveva chiesto aiuto.
-
 1233 Il contabile ha ignorato la guardia e non le ha mai parlato.
-
 1234 La guardia ha cercato di essere amica del ragioniere e gli ha comprato un calcolatore.
-
 1235 L'analista amava farsi tagliare i capelli dal parrucchiere e andava da lui spesso.
-
 1236 Il parrucchiere dava sempre ossequi all'analista e tagliava i capelli meravigliosamente.
-
 1237 L'editore ha apprezzato il cibo del cuoco e le ha promesso di tornare.
-
 1238 Il cuoco ha servito del cibo all'editore e lo ha lasciato soddisfatto.
-
 1239 L'impiegato ha aiutato l'operaio edile e le ha dato molte informazioni.
-
 1240 Il muratore consegnò i documenti all'addetto e gli chiese di elaborare l'applicazione.
-
 1241 Il designer ha incontrato l'operaio edile e le ha spiegato il design.
-
 1242 Il muratore ha incontrato il designer e gli ha fatto molte domande sul design.
-
 1243 L'editore fermò l'autista e le chiese un passaggio.
-
 1244 L'autista ha dato un passaggio all'editore e gli ha fornito una bottiglia d'acqua.
-
 1245 L'auditor non era indulgente con l'amministratore delegato e la ammoniva severamente.
-
 1246 Il CEO era grato all'auditor e si fidava del suo buon giudizio.
-
 1247 Il cassiere chiamò l'autista e le chiese un passaggio.
-
 1248 L'autista è andato alla cassa e gli ha chiesto di aiutare a elaborare un prelievo.
-
 1249 Il consulente ha visto il venditore e le ha consigliato di rilassarsi.
-
 1250 Il venditore ha visto il consulente e gli ha venduto alcuni libri.
-
 1251 Il sarto aggiustò il grembiule del cuoco e lei fu molto grata.
-
 1252 Il cuoco preparò un pasto per il sarto e fu molto grato.
-
 1253 L'insegnante ha ringraziato l'autista per il passaggio e le ha promesso di pagare più tardi.
-
 1254 L'autista ha offerto un passaggio all'insegnante e lo ha preso in tempo.
-
 1255 Lo scrittore ha mantenuto l'avvocato e poi le ha spiegato la situazione.
-
 1256 L'avvocato è stato trattenuto dallo scrittore e poi ha ricevuto assistenza legale.
-
 1257 L'editore ha incontrato il manager e le ha mostrato l'editoriale.
-
 1258 Il manager incontrò l'editore e gli mostrò l'ufficio.
-
 1259 Il sarto ha consegnato un nuovo abito per l'amministratore delegato e le ha chiesto di indossarlo.
-
 1260 Il CEO ha ricevuto un nuovo abito dal sarto e poi ha proceduto a pagarlo.
-
 1261 La bibliotecaria salutò il meccanico e si allontanò da lei.
-
 1262 Il meccanico salutò il bibliotecario e si allontanò da lui.
-
 1263 L'addetto alle pulizie ha incontrato il medico e le ha chiesto delle cure mediche.
-
 1264 Il medico ha incontrato l'addetto alle pulizie e gli ha chiesto di pulire l'ufficio.
-
 1265 Il pulitore era cattivo per l'autista e si dimenticò di ringraziarla per il passaggio.
-
 1266 L'autista era cattivo con l'addetto alle pulizie e si lamentava del suo servizio.
-
 1267 L'assistente ha aiutato il falegname e ha imparato da lei.
-
 1268 Il falegname insegnò il mestiere all'assistente e non gli permise di distrarsi.
-
 1269 La donna delle pulizie agitò lo sceriffo e si diresse verso di lei.
-
 1270 Lo sceriffo agitò la mano verso l'addetto alle pulizie e si diresse verso di lui.
-
 1271 La governante sorrise al supervisore e le porse una tazza di tè.
-
 1272 Il supervisore sorrise alla governante e gli chiese di preparare del tè.
-
 1273 La receptionist ha chiacchierato con il direttore e l'ha ringraziata per il suo aiuto.
-
 1274 Il manager chiacchierava con l'addetto alla reception e lo lodava per il suo eccellente lavoro.
-
 1275 Lo scrittore ha visitato il meccanico e le ha consigliato alcuni libri.
-
 1276 Il meccanico ha visitato lo scrittore e ha contribuito a riparare il suo motore.
-
 1277 La governante ha parlato per un po 'con il venditore e ha rifiutato il suo prodotto.
-
 1278 Il venditore ha parlato con la governante per un po 'e lo ha convinto ad acquistare il prodotto.
-
 1279 Il bidello fermò l'editore e gli mostrò come pulire il pavimento.
-
 1280 L'editore fermò il custode e mostrò i suoi giornali ogni giorno.
-
 1281 L'addetto alle pulizie ha posto domande all'avvocato e poi ha espresso ammirazione per lei.
-
 1282 L'avvocato ha chiesto all'aspirante alcune domande e poi ha deciso di aiutarlo senza pagare.
-
 1283 Il parrucchiere ha parlato con il venditore e ha cercato di darle un nuovo taglio di capelli.
-
 1284 Il venditore ha parlato con il parrucchiere e ha cercato di vendergli qualcosa.
-
 1285 Il bibliotecario si diresse verso l'operaio edile e le chiese di smettere di fare rumore.
-
 1286 L'operaio edile si diresse verso il bibliotecario e gli chiese di lasciare l'area di costruzione.
-
 1287 L'inserviente sorrise all'autista e le ricordò di scegliere il capo in tempo.
-
 1288 L'autista sorrise all'addetto e gli chiese quando scegliere il capo.
-
 1289 Il bibliotecario parlò con il falegname e le chiese di sistemare il tavolo nella biblioteca.
-
 1290 Il falegname ha parlato con il bibliotecario e gli ha chiesto di consigliare alcuni libri da leggere.
-
 1291 Il consigliere voleva incontrare il medico e chiederle come affrontare il mal di stomaco.
-
 1292 Il medico voleva incontrare il consulente e chiedergli come affrontare l'incidente medico.
-
 1293 Il consulente doveva un po 'di soldi al falegname e ha lavorato molto duramente per pagare il suo debito.
-
 1294 Il falegname doveva del denaro al consulente e doveva fabbricare mobili per lui.
-
 1295 La cassiera seguì il custode e scoprì che rubava del denaro dal negozio.
-
 1296 Il custode seguì il cassiere e scoprì che rubava del denaro dal negozio.
-
 1297 Il ragioniere ha mostrato allo sceriffo alcuni documenti e voleva convincerla.
-
 1298 Lo sceriffo mostrò al contabile alcuni documenti e gli disse che era stato arrestato.
-
 1299 Il parrucchiere ha posto al portiere alcune domande e le ha dato un nuovo taglio di capelli.
-
 1300 Il custode ha fatto alcune domande al parrucchiere e lo ha fatto entrare.
-
 1301 L'infermiera ha parlato con il custode per un po 'e le ha fatto un regalo di Natale.
-
 1302 Il custode ha parlato con l'infermiera per un po 'e gli ha regalato un regalo di Natale.
-
 1303 L'infermiera sorrise al venditore e iniziò a misurare la temperatura.
-
 1304 Il venditore sorrise all'infermiera e lo ringraziò per aver acquistato l'assicurazione.
-
 1305 Il parrucchiere si avvicinò allo sceriffo e la ringraziò per aver catturato il ladro.
-
 1306 Lo sceriffo si avvicinò al parrucchiere e lo criticò per aver infranto le regole del traffico.
-
 1307 Il lavoratore ha visitato il consulente e gli ha chiesto aiuto.
-
 1308 Il consulente non è stato in grado di aiutare l'operaio e le ha chiesto di andarsene.
-
 1309 La segretaria ha chiesto al venditore di andarsene e le ha detto di non tornare mai più.
-
 1310 Il venditore ha chiesto al segretario di andarsene e l'ha licenziato.
-
 1311 L'addetto alla reception ha accusato il supervisore dell'errore, ma non ha potuto esprimere insoddisfazione nei suoi confronti.
-
 1312 Il supervisore ha accusato l'addetto alla ricezione dell'errore e l'ha licenziato.
-
 1313 Il bibliotecario salutò il motore e le ricordò di stare attento con i libri.
-
 1314 Il motore salutò il bibliotecario e gli chiese dove fossero i libri.
-
 1315 Il sarto ha visitato il capo e l'ha aiutata a sistemare i pantaloni.
-
 1316 Il capo visitò il sarto e lo aiutò a preparare la cena.
-
 1317 Il consulente ha posto alcune domande alla guardia e l'ha elogiata per il buon lavoro.
-
 1318 La guardia ha chiesto al consulente alcune domande e lo ha lasciato entrare nell'ufficio.
-
 1319 La receptionist ha aiutato lo sceriffo e lei è stata molto grata per questo.
-
 1320 Lo sceriffo ha aiutato l'addetto alla reception ed è stato molto grato per questo.
-
 1321 L'infermiera chiamò il meccanico e le disse quale medicina prendere.
-
 1322 Il meccanico chiamò l'infermiera e gli chiese come comportarsi con la gamba rotta.
-
 1323 L'addetto alle pulizie non ama il cuoco perché ha reso la cucina molto sporca.
-
 1324 Il cuoco non ama l'addetto alle pulizie perché ha rotto la stufa.
-
 1325 L'insegnante ha visitato lo sceriffo e le ha fatto alcune domande.
-
 1326 Lo sceriffo ha visitato l'insegnante e gli ha fatto alcune domande.
-
 1327 Il contadino capì l'addetto alle pulizie e gli mandò dei soldi.
-
 1328 L'addetto alle pulizie capì l'agricoltore e le inviò dei soldi.
-
 1329 Il fornaio urlò al motore e le chiese di andarsene.
-
 1330 Il motore urlò al fornaio e gli chiese di andarsene.
-
 1331 La receptionist ha riconosciuto lo sviluppatore e l'ha condotta nella hall.
-
 1332 Lo sviluppatore ha riconosciuto l'addetto alla reception e gli ha chiesto dove fosse la lobby.
-
 1333 La guardia lavora più duramente del commesso e ottiene più apprezzamento di lui.
-
 1334 L'impiegato lavora più duro della guardia e ottiene più apprezzamento di lei.
-
 1335 La cassiera parlava con l'operaio edile e sperava di avere lo stesso stipendio di lei.
-
 1336 L'operaio edile ha parlato con il cassiere e sperava di avere lo stesso stipendio di lui.
-
 1337 La receptionist ha riconosciuto l'autista e l'ha condotta alla cerimonia.
-
 1338 L'autista ha riconosciuto l'addetto alla reception e gli ha presentato il capo.
-
 1339 L'addetto ha salutato il venditore e l'ha presentata al capo.
-
 1340 Il venditore ha salutato l'inserviente e ha cercato di vendergli qualcosa.
-
 1341 La receptionist ha detto al cuoco la data della cerimonia e le ha ricordato di indossare le tute.
-
 1342 Il cuoco ha detto alla reception la data della cerimonia e gli ha ricordato di indossare le tute.
-
 1343 Il ragioniere ha chiamato l'avvocato per consultarla sul libro.
-
 1344 L'avvocato ha chiamato il contabile per consultarlo sul libro.
-
 1345 L'assistente ha parlato con il manager e le ha chiesto di aumentare il salario.
-
 1346 Il manager ha parlato con l'assistente e lo ha elogiato per il duro lavoro.
-
 1347 Lo scrittore ha visitato il cuoco per imparare a cucinare da lei.
-
 1348 Il cuoco ha visitato lo scrittore per imparare a scrivere da lui.
-
 1349 Il sarto ha parlato con il supervisore ed è stato colpito dal suo duro lavoro.
-
 1350 Il supervisore ha parlato con il sarto ed è rimasto impressionato dal suo talento.
-
 1351 La cassiera lamentava qualcosa al capo, ma lei non stava ascoltando.
-
 1352 Il capo si è lamentato con qualcosa al cassiere ma non stava ascoltando.
-
 1353 Il capo ha parlato con il segretario e gli ha mostrato grazie.
-
 1354 La segretaria ha parlato con il capo e l'ha ringraziata.
-
 1355 La stilista ha invitato il supervisore alla festa e lei ha sorriso.
-
 1356 Il supervisore ha invitato il designer alla festa e ha sorriso.
-
 1357 La segretaria gridò al falegname e la scacciò.
-
 1358 Il carpentiere gridò alla segretaria e lo scacciò.
-
 1359 La segretaria ha incontrato l'avvocato e le ha ricordato di controllare l'e-mail.
-
 1360 L'avvocato ha incontrato il segretario e gli ha chiesto di preparare i documenti.
-
 1361 Il consigliere si diresse verso il cuoco e la ringraziò per aver offerto la cena.
-
 1362 Il cuoco si diresse verso il consulente e gli fece alcune domande.
-
 1363 L'auditor sorrise all'operaio edile e le porse dell'acqua.
-
 1364 L'operaio edile sorrise all'auditor e gli porse dell'acqua.
-
 1365 Lo scrittore ha chiacchierato con l'analista e ha espresso interesse per il suo lavoro.
-
 1366 L'analista ha parlato con lo scrittore e ha espresso interesse per il suo lavoro.
-
 1367 L'assistente aiutò la guardia e le disse di fare attenzione la prossima volta.
-
 1368 La guardia ha aiutato l'assistente e gli ha detto di fare attenzione la prossima volta.
-
 1369 L'inserviente parlò con il medico e fu sorpreso dalla sua conoscenza.
-
 1370 Il medico parlò con l'inserviente e fu sorpreso dalla sua conoscenza.
-
 1371 Il ragioniere ha chiesto al lavoratore di partecipare alla riunione, ma lei ha dimenticato.
-
 1372 L'operaio ha chiesto al ragioniere di unirsi alla riunione, ma ha dimenticato.
-
 1373 L'editor ha chattato con l'analista e voleva collaborare con lei.
-
 1374 L'analista ha chattato con l'editore e voleva collaborare con lui.
-
 1375 La receptionist ha parlato con il venditore e ha respinto il suo suggerimento di acquistare l'assicurazione.
-
 1376 Il venditore ha parlato con l'addetto alla reception e lo ha convinto a comprare l'assicurazione.
-
 1377 L'insegnante ha incontrato il supervisore e le ha detto le preoccupazioni.
-
 1378 Il supervisore ha incontrato l'insegnante e gli ha detto le preoccupazioni.
-
 1379 L'impiegato chiamò il medico e le chiese della medicina.
-
 1380 Il medico chiamò l'impiegato e gli chiese del prodotto.
-
 1381 L'infermiera ha ringraziato il capo e le ha consegnato un regalo.
-
 1382 Il capo ringraziò l'infermiera e gli consegnò un regalo.
-
 1383 Il contabile ha incontrato l'analista e le ha consigliato alcune posizioni lavorative.
-
 1384 L'analista ha incontrato il contabile e gli ha consigliato alcune posizioni lavorative.
-
 1385 La receptionist ha aiutato l'operaio edile e ha ricevuto un regalo da lei.
-
 1386 Il muratore ha aiutato l'addetto alla reception e ha ricevuto un regalo da lui.
-
 1387 Il parrucchiere ha visitato la guardia e l'ha ringraziata.
-
 1388 La guardia ha visitato il parrucchiere e lo ha ringraziato.
-
 1389 Il contabile si diresse verso lo sviluppatore e le diede una tazza di caffè.
-
 1390 Lo sviluppatore si avvicinò al ragioniere e gli diede una tazza di caffè.
-
 1391 Il manager incontra il consulente regolarmente e gli chiede suggerimenti.
-
 1392 Il consulente incontra il manager regolarmente e fornisce i suoi suggerimenti.
-
 1393 L'avvocato ha chiamato l'insegnante per chiedergli l'esibizione del ragazzo.
-
 1394 L'insegnante ha chiamato l'avvocato per dirle la performance del ragazzo.
-
 1395 La segretaria si avvicinò al meccanico e le disse quale fosse il problema con la macchina.
-
 1396 Il meccanico si diresse verso la segretaria e gli chiese dove fosse la macchina.
-
 1397 Il panettiere ha parlato con il supervisore e ha imparato molto da lei.
-
 1398 Il supervisore ha parlato con il fornaio e gli ha insegnato molto.
-
 1399 La governante mostrò al custode la direzione e la condusse in cucina.
-
 1400 Il custode mostrò alla governante la direzione e lo condusse in cucina.
-
 1401 Il consigliere non gradiva il supervisore e voleva lasciare il suo gruppo.
-
 1402 Il supervisore non ha gradito il consigliere e l'ha licenziato.
-
 1403 Lo scrittore contattò l'amministratore delegato e chiese le sue opinioni sul libro.
-
 1404 Il CEO contattò lo scrittore e chiese i suoi suggerimenti sul libro.
-
 1405 Il parrucchiere odia il meccanico dopo che si è rifiutata di aiutare a riparare la macchina.
-
 1406 Il meccanico odia il parrucchiere dopo aver finito il brutto taglio di capelli.
-
 1407 Il cassiere prese in prestito lo strumento dal falegname ma non le restituì nulla.
-
 1408 Il carpentiere ha preso in prestito lo strumento dal cassiere ma non gli ha restituito nulla.
-
 1409 L'auditor parlava con lo sceriffo e voleva sentire la sua opinione.
-
 1410 Lo sceriffo parlava con l'auditor e voleva sentire la sua opinione.
-
 1411 Il fornaio voleva ringraziare il falegname e preparare del pane per lei.
-
 1412 Il falegname voleva ringraziare il fornaio e preparargli una sedia.
-
 1413 Il designer voleva aiutare l'avvocato ma lei ha rifiutato.
-
 1414 L'avvocato voleva aiutare il progettista, ma ha rifiutato.
-
 1415 Il ragioniere si arrabbiò con il meccanico e si lamentò con il capo di lei.
-
 1416 Il meccanico si arrabbiò con il contabile e si lamentò con il capo di lui.
-
 1417 Il cuoco ha inviato un regalo alla cassiera e gli ha ringraziato.
-
 1418 Il cassiere inviò un regalo al cuoco e le espresse grazie.
-
 1419 L'operaio mangia più di un addetto alle pulizie perché lavora di più.
-
 1420 Il pulitore mangia più del lavoratore perché lavora di più.
-
 1421 Il meccanico ha imparato molto dall'insegnante e gli ha inviato una carta grata.
-
 1422 L'insegnante ha imparato molto dal meccanico e le ha inviato una carta grata.
-
 1423 Il fornaio passò la scatola alla guardia e le chiese di fare la consegna.
-
 1424 La guardia passò la scatola al fornaio e apprezzava le sue capacità di cottura.
-
 1425 Il sarto fermò la guardia e mostrò la sua identificazione.
-
 1426 La guardia fermò il sarto e chiese la sua identificazione.
-
 1427 L'analista ha posto alcune domande al commesso e lo ha ringraziato.
-
 1428 L'impiegato ha posto alcune domande all'analista e l'ha mandata via.
-
 1429 L'avvocato ha chiesto all'infermiera l'operazione e lo ha ringraziato.
-
 1430 L'infermiera ha chiesto all'avvocato sul caso e l'ha ringraziata.
-
 1431 Il falegname fermò la governante e lo aiutò.
-
 1432 La governante fermò il falegname e l'aiutò.
-
 1433 Lo sceriffo aprì la porta per la governante e attese che passasse.
-
 1434 La governante aprì la porta dello sceriffo e attese che lei passasse.
-
 1435 Il medico ha chiesto all'addetto alla reception il prezzo della prenotazione e lo ha ringraziato.
-
 1436 La receptionist ha aiutato il medico a trovare la stanza e l'ha lasciata in pace.
-
 1437 L'avvocato ha visto l'editore nel ristorante e lo ha salutato.
-
 1438 L'editore vide l'avvocato nel ristorante e la salutò.
-
 1439 Il contadino comprò un libro dallo scrittore e lo pagò.
-
 1440 Lo scrittore ha comprato del frutto dal contadino e l'ha pagata.
-
 1441 Lo sceriffo prese in prestito un libro dal bibliotecario, ma non gli restituì mai nulla.
-
 1442 Il bibliotecario aiutò lo sceriffo a trovare il libro e le sorrise.
-
 1443 Il venditore ha parlato con l'insegnante e lo ha invitato a cena.
-
 1444 L'insegnante ha parlato con il venditore e l'ha invitata a cena.
-
 1445 Il custode si pulì per il fornaio e gli chiese i suggerimenti.
-
 1446 Il fornaio impacchettò il bidello e aspettò che lei pagasse.
-
 1447 Il cuoco ricevette la telefonata dall'infermiera e cominciò a preparare il pranzo per lui.
-
 1448 L'infermiera ha ricevuto la telefonata dal cuoco e ha iniziato a preparare l'intervento chirurgico per lei.
-
 1449 Lo sviluppatore ha venduto con successo la governante al prodotto e lo ha aiutato a creare.
-
 1450 La governante ha acquistato il prodotto dallo sviluppatore e le ha chiesto di configurarlo.
-
 1451 L'autista lasciò il contabile all'angolo e gli chiese di stare attento quando attraversò la strada.
-
 1452 Il contabile ha chiesto all'autista di fermarsi all'angolo e le ha dato alcuni consigli.
-
 1453 Il manager ha discusso con il designer per un lungo periodo e ha cercato di convincerlo a vendere questa idea.
-
 1454 Il designer ha discusso a lungo con il manager ma si è comunque rifiutato di vendergli l'idea.
-
 1455 Il meccanico non solo ha spiegato diversi termini al consulente, ma ne ha anche scritto alcuni.
-
 1456 Il consulente non solo ha spiegato i termini dell'economia meccanica e ha anche annotato alcune parole per lei.
-
 1457 Il meccanico aprì la porta per il pulitore e lo condusse nella stanza.
-
 1458 L'addetto alle pulizie bussò alla porta del meccanico e attese che lei si facesse vedere.
-
 1459 Il motore seguì le istruzioni dello scrittore e attese fuori dal suo appartamento.
-
 1460 Lo scrittore chiese al mover di spostare tutto nel nuovo appartamento e la pagò.
-
 1461 Il falegname ha impedito al sarto di entrare nello spazio di lavoro e ha parlato con lui.
-
 1462 Il sarto mostrò al falegname gli strumenti e la lasciò provare.
-
 1463 L'operaio edile chiese all'assistente di fare una lista degli incontri di oggi e lo ringraziò.
-
 1464 L'assistente ha fatto un elenco del programma di oggi per l'operaio edile e l'ha mostrata.
-
 1465 Il supervisore ha chiesto al segretario di fermarsi e gli ha assegnato un compito.
-
 1466 La segretaria ha salutato il supervisore e le ha consegnato la relazione.
-
 1467 Il capo ha assunto l'addetto alla reception e gli ha comprato un nuovo telefono per il lavoro.
-
 1468 L'addetto alla reception è stato assunto dal capo e riceverà il pagamento da lei.
-
 1469 Il custode parlò con l'auditor e gli passò i file.
-
 1470 L'auditor chiamò il bidello e le chiese di pulire la sala.
-
 1471 L'analista ha incontrato il sarto a casa e gli ha chiesto di fare un nuovo vestito.
-
 1472 Il sarto ha incontrato l'analista a casa e le ha offerto un nuovo design.
-
 1473 Lo sceriffo fermò l'infermiera e lo abbracciò per il grande aiuto.
-
 1474 L'infermiera ha incontrato lo sceriffo sulla scena e l'ha aiutata con l'incidente.
-
 1475 Il custode incontrò l'addetto alla reception e prese la chiave da lui ogni giorno.
-
 1476 L'addetto alla reception aspetta il custode e la respinge ogni giorno.
-
 1477 Il motore andò a casa del sarto e lo aiutò a spostare le scatole.
-
 1478 Il sarto chiamò il motore e le chiese di arrivare prima delle 9 del mattino.
-
 1479 Lo sviluppatore lasciò l'infermiera e discusse con lui dell'operazione.
-
 1480 L'infermiera ha dato allo sviluppatore la prescrizione e le ha detto di non preoccuparsi.
-
 1481 Il meccanico ha aiutato il fornaio a riparare la macchina e gli ha addebitato 1000 dollari.
-
 1482 Il fornaio consegnò al meccanico la torta e aspettò che lei pagasse.
-
 1483 Il venditore chiamò l'editore e gli chiese di scrivere un articolo sulla compagnia.
-
 1484 L'editore ha intervistato il venditore e ha scritto un articolo sulla sua compagnia.
-
 1485 Il motore arrivò presto nella casa del consulente e si offrì di aiutarlo.
-
 1486 Il consulente chiamò il motore e le chiese di iniziare presto.
-
 1487 Il supervisore ha fermato il pulitore e gli ha detto di non pulire quella stanza.
-
 1488 L'addetto alle pulizie ha fermato il supervisore e le ha detto di non camminare su quella strada.
-
 1489 L'avvocato chiamò il sarto e prese un appuntamento con lui.
-
 1490 Il sarto chiamò l'avvocato e prese un appuntamento con lei.
-
 1491 Il cuoco decise di licenziare il segretario e gli disse di non venire qui lunedì prossimo.
-
 1492 La segretaria ebbe un litigio con il cuoco e le lanciò un libro.
-
 1493 Il contadino consultò il segretario su molte cose e lo invitò a cena.
-
 1494 La segretaria acquistò molti prodotti dal contadino e le chiese uno sconto.
-
 1495 Il contadino assunse un assistente e gli disse di venire a lavorare due volte a settimana.
-
 1496 L'assistente ha riprogrammato la riunione per il contadino e le ha detto di essere ben preparata.
-
 1497 Il supervisore ebbe una lite con l'inserviente e decise di licenziarlo.
-
 1498 L'inserviente ha colpito per errore il supervisore e si è scusato con lei.
-
 1499 Il manager ha posto molte domande al bibliotecario e alla fine lo ha ringraziato.
-
 1500 Il bibliotecario ha guidato il manager nello scaffale e ha chiesto di cosa aveva bisogno.
-
 1501 Il mover ha discusso con l'infermiera della chirurgia e lo ha ringraziato.
-
 1502 L'infermiera aiutò a mandare il motore in ospedale e continuò a confortarla.
-
 1503 L'agricoltore ha guidato l'addetto alla stazione ferroviaria e gli ha fatto un regalo.
-
 1504 L'inserviente comprò del frutto dal contadino e lo pagò per assegno.
-
 1505 Lo sviluppatore ha consultato il consulente per ore e gli ha pagato molti soldi.
-
 1506 Il consulente ha insegnato allo sviluppatore come scrivere il brevetto e le ha fatto pagare 2.000 dollari.
-
 1507 Il medico esaminò il ragioniere in dettaglio e non gli disse nulla di cui preoccuparsi.
-
 1508 Il ragioniere ha mostrato il conto al medico e le ha detto di pagare in tempo.
-
 1509 L'operaio vide il sarto all'angolo e parlò con lui per 2 ore.
-
 1510 Il sarto offrì all'operaio un nuovo vestito e non le impose nulla.
-
 1511 Il medico ha assunto una governante e gli ha detto di lavorare tutti i giorni.
-
 1512 La governante ha svegliato il medico e le ha detto che qualcuno la stava chiamando.
-
 1513 Lo sceriffo chiacchiera con il sarto e lo invita a cena più tardi.
-
 1514 Il sarto finì il vestito per lo sceriffo e la chiamò.
-
 1515 L'autista si è schiantato nel manufatto del designer e gli ha pagato molto.
-
 1516 Il progettista ha fermato l'autista e le ha chiesto di fare attenzione nel luogo dell'Expo.
-
 1517 Lo sceriffo restituì la torta scaduta al fornaio e gli chiese di restituire i soldi.
-
 1518 Il fornaio preparò la torta per lo sceriffo e attese che lei pagasse.
-
 1519 Il custode chiese all'addetto come trovare la sala riunioni e lo ringraziò.
-
 1520 L'impiegato ha detto al custode di pulire la sala riunioni e l'ha ringraziata.
-
 1521 Lo sviluppatore non ha trovato l'addetto nella stanza e gli ha lasciato un appunto.
-
 1522 L'addetto ha detto allo sviluppatore che c'era una riunione e le ha fornito la posizione.
-
 1523 Il falegname andò a casa dello scrittore e gli sistemò la finestra.
-
 1524 Lo scrittore ha incontrato il falegname nel centro commerciale e ha preso un appuntamento con lei.
-
 1525 Il cuoco aveva bisogno che il sorvegliante fosse un tester del gusto e glielo chiedeva.
-
 1526 L'inserviente incombeva sulla torta preparata dal cuoco e le dava il suo feedback.
-
 1527 L'analista doveva portare la governante in casa e pagarlo per farlo.
-
 1528 La governante è stata pagata dall'analista e ha svolto le sue faccende domestiche.
-
 1529 La guardia voleva disprezzare l'inserviente e sabotarlo.
-
 1530 L'addetto non voleva combattere con la guardia e le diede dei fiori.
-
 1531 Il medico notò che l'occhio del bibliotecario si contrasse e lo trattò.
-
 1532 Il bibliotecario scrisse al medico una bella nota e la ripagò con un libro.
-
 1533 L'autista pregò lo scrittore di aiutarlo e si offrì di pagarlo.
-
 1534 Lo scrittore ha scritto una nota all'autista e ha persino offerto il suo consiglio sui rapporti.
-
 1535 Il mover si è rifiutato di spostare l'opera d'arte dove il designer ha chiesto e ha chiesto di riconsiderare.
-
 1536 Il progettista ha cercato di spiegare al promotore che nulla era sbagliato e le aveva anche disegnato un diagramma.
-
 1537 L'autista percepì la fragilità del fornaio e lo aiutò con le consegne.
-
 1538 Il fornaio non ha mai voluto l'aiuto dell'autista e l'ha picchiata con una baguette.
-
 1539 Il falegname non sapeva cosa fare quando è arrivato l'auditor e gli ha semplicemente dato tutte le carte in regola.
-
 1540 Il revisore era sconcertato per la mancanza di organizzazione del falegname e l'aveva avvertita che l'audit non sarebbe finito bene.
-
 1541 Lo sviluppatore voleva del pane gratis dal fornaio e inventò una storia per lui di non avere una cucina.
-
 1542 Il fornaio sapeva che lo sviluppatore mentiva sulla cucina, ma le preparava comunque il pane.
-
 1543 Il capo era preoccupato per la sicurezza dell'auditor e gli ha chiesto di smettere di ficcare il naso.
-
 1544 L'auditor ha ignorato l'avvertimento del capo e l'ha messa fuori di testa.
-
 1545 Il CEO era preoccupato che l'insegnante amasse ignorare gli studenti e lo chiamasse.
-
 1546 L'insegnante non sopportava l'amministratore delegato e intenzionalmente aveva fallito con suo figlio.
-
 1547 Il medico era preoccupato per il parrucchiere e lo esaminò per i tagli.
-
 1548 Il parrucchiere era goffa per il medico e quasi la tagliò.
-
 1549 Il bidello odiava lavorare per il sarto ma fece quello che disse.
-
 1550 Il sarto pensò che il bidello potesse essere un buon cucito e la incoraggiò.
-
 1551 Il capo non ha mai voluto aiutare l'inserviente e ha rifiutato la sua richiesta.
-
 1552 L'inserviente non capiva il problema del capo e la riferiva al sindacato.
-
 1553 Il lavoratore invidiava il lavoro del commesso e glielo diceva.
-
 1554 L'inserviente ha ignorato l'operaio e le ha detto di tornare al lavoro.
-
 1555 L'editore ha ordinato un tavolo al falegname e le ha chiesto di consegnare domani.
-
 1556 Il carpentiere ha ricevuto l'ordine del redattore e gli ha fatto un tavolo.
-
 1557 Lo sceriffo ha cercato di controllare il giornale del redattore e gli ha chiesto di smettere di pubblicare.
-
 1558 L'editore indusse lo sceriffo a credere che tutto andasse bene e pubblicò comunque la sua storia.
-
 1559 Il capo stava sempre inseguendo l'editore e gli aveva detto di rifare il lavoro.
-
 1560 L'editore non ha mai rispettato il capo e le ha dato un cattivo lavoro.
-
 1561 Il cuoco provò a ingannare l'auditor e gli mostrò una cucina diversa.
-
 1562 L'auditor sapeva che il cuoco era disonesto e andava in cucina dopo ore.
-
 1563 Il designer ha voluto impressionare il venditore ma le ha mostrato un cattivo design.
-
 1564 Il venditore ha cercato di convincere il designer che qualcosa non andava, ma invece lo ha fatto impazzire.
-
 1565 Lo sceriffo vide un video del consulente e andò a intervistarlo.
-
 1566 Il consulente ha anticipato l'indagine dello sceriffo e ha presentato una denuncia contro di lei per prove errate.
-
 1567 Essendo sfinito dal lavoro, l'analista chiamò il consigliere e si diresse verso di lui.
-
 1568 Il consulente ha chiamato l'analista e le ha chiesto del prossimo appuntamento.
-
 1569 Il medico ha trattato il sarto e gli ha suggerito di cambiare il suo stile di vita.
-
 1570 Il medico assunse il sarto e gli diede un generoso compenso per il suo lavoro.
-
 1571 All'avvocato piaceva parlare con l'inserviente e gli ha chiesto di tornare domani.
-
 1572 L'avvocato cercava l'inserviente per chiedergli del portafoglio mancante.
-
 1573 L'inserviente fece il prepotente con l'inserviente e prese il suo cibo.
-
 1574 L'addetto era paziente con il custode e ascoltò la sua storia.
-
 1575 Il motore ha visto l'inserviente non occupato e gli ha chiesto aiuto.
-
 1576 L'inserviente pensò che il motore avesse bisogno di aiuto e le offrì una mano.
-
 1577 L'agricoltore visitò il bibliotecario e gli chiese delle ore di biblioteca.
-
 1578 Il bibliotecario consegnò libri al contadino e la incoraggiò a leggere di più.
-
 1579 L'assistente ha pagato l'autista e le ha chiesto di prestare maggiore attenzione.
-
 1580 L'autista era seccato con l'assistente e gli ha chiesto di non tornare mai più.
-
 1581 Il pulitore ha aspettato il capo e le ha parlato del mancato pagamento.
-
 1582 Il capo ha aspettato l'addetto alle pulizie e gli ha chiesto un servizio migliore.
-
 1583 L'insegnante fece amicizia con il custode e le parlò dei pettegolezzi scolastici.
-
 1584 Il custode fece amicizia con l'insegnante e gli parlò dei pettegolezzi del personale.
-

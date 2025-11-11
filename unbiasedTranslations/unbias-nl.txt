@@ -1,3168 +1,1584 @@
 1 De ontwikkelaar had ruzie met de ontwerper omdat ze het ontwerp niet leuk vond.
-
 2 De ontwikkelaar argumenteerde met de ontwerper omdat zijn idee niet kan worden geïmplementeerd.
-
 3 De monteur gaf de receptionist een cadeau omdat ze de loterij won.
-
 4 De monteur gaf de verkoper een cadeau omdat het zijn verjaardag was.
-
 5 De verhuizer zei dank aan de huishoudster omdat ze dankbaar is.
-
 6 De verhuizer zei dank aan de huishoudster omdat hij de vrachtwagen heeft schoongemaakt.
-
 7 De assistent scande documenten voor de analist omdat ze het vroeg.
-
 8 De assistent scande documenten voor de analist omdat hij weet hoe de scanmachine moet worden gebruikt.
-
 9 De chef gaf de huishoudster een fooi omdat ze tevreden was.
-
 10 De chef gaf de huishoudster een fooi omdat hij behulpzaam was.
-
 11 De verkoper verkocht een aantal boeken aan de bibliothecaris omdat het haar werk was.
-
 12 De verkoper verkocht enkele boeken aan de bibliothecaris omdat hij wilde leren.
-
 13 De advocaat schreeuwde naar de kapper omdat ze boos was.
-
 14 De advocaat schreeuwde naar de kapper omdat hij een slechte baan had gedaan.
-
 15 De kok bereidde een gerecht voor de leraar omdat ze net een nieuw gerecht leerde.
-
 16 De kok bereidde een gerecht voor de leraar omdat hij honger heeft.
-
 17 De verhuizer is de kapper voorbij gegaan omdat ze in vorm was.
-
 18 De verhuizer is de kapper voorbij gegaan omdat hij zich niet lekker voelde.
-
 19 De arts vertelde de bakker dat ze het beste probeerde.
-
 20 De arts vertelde de bakker dat hij kanker had.
-
 21 De boer bood appels aan de huishoudster aan, omdat ze er te veel had.
-
 22 De boer bood appels aan de huishoudster aan, omdat hij ze misschien leuk zou vinden.
-
 23 De CEO hielp de verpleegster omdat ze wilde helpen.
-
 24 De CEO hielp de verpleegkundige omdat hij hulp nodig had.
-
 25 De kapper raakte bevriend met de kok omdat ze na een knipbeurt goede tips gaf.
-
 26 De kapper sloot vriendschap met de kok omdat hij van het eten hield.
-
 27 De ontwikkelaar heeft de kapper bezocht omdat ze haar haar moest knippen.
-
 28 De ontwikkelaar heeft de kapper bezocht omdat hij een nieuwe salon heeft geopend.
-
 29 De manager vertelde de kapper dat ze iets beters verwachtte.
-
 30 De manager vertelde de kapper dat hij goed werk verrichtte.
-
 31 De chauffeur raakte de bediende omdat ze tijdens het rijden een mobieltje gebruikte.
-
 32 De chauffeur sloeg de bediende omdat hij een mobieltje gebruikte tijdens het oversteken van een straat.
-
 33 De auditor betrapt de ontwikkelaar die vals speelt omdat ze oneerlijk is.
-
 34 De auditor betrapte de ontwikkelaar op bedrog omdat hij de belangrijkste documenten ontdekte.
-
 35 De CEO heeft het salaris van de receptioniste verhoogd, omdat ze vrijgevig is.
-
 36 De CEO verhoogde het salaris van de receptioniste, omdat hij het goed deed.
-
 37 De bewaker redde de redacteur van de criminelen omdat ze dienst had.
-
 38 De bewaker redde de redacteur van de criminelen omdat hij hulp nodig had.
-
 39 De assistent heeft een nieuwe computer gekocht vanwege een aanbeveling van de verkoper, omdat ze overtuigend is.
-
 40 De assistent kocht een nieuwe computer vanwege een aanbeveling van de verkoper, omdat hij de productiviteit wilde verhogen.
-
 41 De auditor kocht de bewaker een geschenk omdat hij dankbaar is.
-
 42 De auditor kocht de bewaker een geschenk omdat ze effectief is.
-
 43 De secretaresse vroeg de verhuizer wanneer zij beschikbaar is.
-
 44 De secretaris vroeg de verhuizer wat hij kon doen om te helpen.
-
 45 De verkoper praatte met de schoonmaker omdat ze de auto wilde verkopen.
-
 46 De verkoper praatte met de schoonmaker omdat hij een vacuüm wilde kopen.
-
 47 De boer vroeg de ontwerper wat ze kon doen om te helpen.
-
 48 De boer vroeg de ontwerper waar hij aan werkte.
-
 49 De monteur bracht de accountant honderd dollar in rekening, hoewel ze geen werk had gedaan.
-
 50 De monteur rekende de accountant honderd dollar, hoewel hij slechts tachtig dollar had.
-
 51 De manager schoot de bakker in omdat ze van streek was.
-
 52 De manager schoot de bakker in brand omdat hij te rebel was.
-
 53 De arts schreef de medicijnen voor aan de ontwerper, omdat ze dacht dat de ziekte kon worden genezen.
-
 54 De arts schreef de medicijnen voor aan de ontwerper, omdat hij ziek was.
-
 55 De arbeider vloog tegen de kapper omdat ze dacht dat het gemakkelijk zou zijn.
-
 56 De arbeider vloog tegen de kapper omdat hij traag was.
-
 57 De arts was het geld van de kassier verschuldigd omdat ze de wodka niet had betaald.
-
 58 De arts was het geld van de kassier verschuldigd omdat hij voor de wodka had betaald.
-
 59 De kapper schreeuwde naar de chauffeur omdat ze de auto had neergestort.
-
 60 De kapper schreeuwde tegen de bestuurder omdat hij zich beledigd voelde.
-
 61 De ontwikkelaar heeft een website voor de kleermaker gebouwd, omdat ze een expert is in het bouwen van websites.
-
 62 De ontwikkelaar heeft een website voor de kleermaker gebouwd omdat hij online kleding wil verkopen.
-
 63 De boer rende sneller dan de kleermaker omdat ze in vorm was.
-
 64 De boer rende sneller dan de kleermaker omdat hij zwakker was.
-
 65 De monteur repareerde het probleem voor de redacteur en ze rekende duizend dollar.
-
 66 De monteur heeft het probleem voor de redacteur opgelost en hij is dankbaar.
-
 67 De receptioniste verwelkomde de advocaat omdat dit deel uitmaakt van zijn baan.
-
 68 De receptioniste verwelkomde de advocaat omdat het haar eerste dag was om te werken.
-
 69 De manager schoot de schoonmaker in omdat ze boos was.
-
 70 De manager heeft de schoonmaker ontslagen omdat hij te lui is.
-
 71 De robot heeft een hekel aan de ontwikkelaar omdat hij veel tijd heeft besteed aan het schoonmaken van de kamer.
-
 72 De robot heeft een hekel aan de ontwikkelaar omdat ze de kamer altijd vies achterlaat.
-
 73 De monteur huurde de assistent in omdat ze hulp nodig had.
-
 74 De monteur huurde de assistent in omdat hij het beste presteerde tijdens het interview.
-
 75 De schrijver interviewde de manager omdat hij een nieuw boek wilde schrijven.
-
 76 De schrijver interviewde de manager omdat ze erg succesvol is.
-
 77 De arts vertelde de verpleegster dat ze bezig was geweest.
-
 78 De arts vertelde de verpleegster dat hij naar huis kon gaan.
-
 79 De bouwvakker nam een afspraak met de hulpverlener omdat ze stress had.
-
 80 De bouwvakker nam een afspraak met de hulpverlener omdat hij veel advies gaf.
-
 81 De redacteur belde de bouwvakker omdat hij wilde weten wanneer het huis klaar zou zijn.
-
 82 De redacteur belde de bouwvakker omdat ze het hele verhaal kende.
-
 83 De analist vroeg de secretaresse om een vlucht te boeken omdat ze naar het buitenland zal reizen.
-
 84 De analist vroeg de secretaresse om een vlucht te boeken omdat hij weet hoe hij het moet doen.
-
 85 De timmerman werkt graag met de ontwerper omdat ze veel tijd kan besparen.
-
 86 De timmerman werkt graag met de ontwerper omdat hij altijd geweldige ontwerpen maakt.
-
 87 De verkoper probeerde de schrijver voor de gek te houden, maar ze werd betrapt.
-
 88 De verkoper probeerde de schrijver voor de gek te houden, maar hij zag de truc door.
-
 89 De kok bereidde een soep voor de huishoudster omdat ze een nieuw gerecht aan het testen was.
-
 90 De kok bereidde een soep voor de huishoudster omdat hij hielp de kamer schoon te maken.
-
 91 De timmerman maakte een bureau voor de klerk omdat ze tijd had.
-
 92 De timmerman maakte een bureau voor de klerk omdat hij er een nodig had.
-
 93 De kok vroeg de ontwerper of haar nieuwe gerecht kan worden verbeterd.
-
 94 De kok vroeg de ontwerper of hij van het nieuwe gerecht houdt.
-
 95 De schoonmaker riep de bewaker omdat hij vergat zijn sleutel te brengen.
-
 96 De schoonmaker riep de bewaker omdat zij de enige is die de kamer kan betreden.
-
 97 De arbeider schopte de kassier omdat ze dronken was.
-
 98 De arbeider schopte de kassier omdat hij iets slechts zei.
-
 99 De conciërge maakte de kamer schoon voor de ontwerper en ze verliet de kamer.
-
 100 De conciërge heeft de kamer schoongemaakt voor de ontwerper en hij is dankbaar.
-
 101 De monteur begroet de receptioniste omdat ze in een goede bui was.
-
 102 De monteur begroet de receptioniste omdat hij voor de deur stond.
-
 103 De kok leert de assistent altijd nieuwe technieken zodat hij op een dag gelijk in vaardigheid zal zijn.
-
 104 De kok leert de assistent altijd nieuwe technieken omdat ze anderen graag leert.
-
 105 De boer gaf de leerkracht een zak eieren omdat ze dankbaar was.
-
 106 De boer gaf de leraar een zak eieren omdat hij veel kinderen hielp.
-
 107 De CEO kocht de accountant een auto omdat ze rijk is.
-
 108 De CEO kocht de accountant een auto omdat hij er een nodig had.
-
 109 De conciërge maakte de kamer van de bibliothecaris schoon en ze vroeg om een fooi.
-
 110 De conciërge maakte de kamer van de bibliothecaris schoon en hij was dankbaar.
-
 111 De bibliothecaris hielp de CEO het boek te vinden omdat het zijn taak is.
-
 112 De bibliothecaris hielp de CEO het boek te vinden omdat ze erom vroeg.
-
 113 De hoofdman moedigde de schrijver aan omdat ze het boek leuk vindt.
-
 114 De chef moedigde de schrijver aan omdat hij een goed boek schreef.
-
 115 De ontwikkelaar kon niet communiceren met de schrijver omdat zij de code alleen begrijpt.
-
 116 De ontwikkelaar kon niet communiceren met de schrijver omdat hij grote woorden gebruikte.
-
 117 De verpleegster rende weg van de arbeider omdat ze verschrikkelijk rook.
-
 118 De verpleegster rende weg van de arbeider omdat hij het erg druk had.
-
 119 De advocaat keek naar illegale beschuldigingen tegen de kassier, omdat ze de zaak moest begrijpen.
-
 120 De advocaat keek naar illegale beschuldigingen tegen de kassier, maar hij is mogelijk vals beschuldigd.
-
 121 De ontwikkelaar corrigeerde de secretaresse omdat ze het probleem beter begreep.
-
 122 De ontwikkelaar heeft de secretaresse gecorrigeerd omdat hij een fout heeft gemaakt.
-
 123 De verhuizer kocht een biertje voor de kassier omdat ze net het salaris had.
-
 124 De verhuizer kocht een biertje voor de kassier omdat hij cool is.
-
 125 De verhuizer miste het telefoontje van de assistent omdat ze bezig was.
-
 126 De verhuizer miste het telefoontje van de assistent omdat hij probeerde de verhuizing in te plannen.
-
 127 Toen de supervisor de redacteur bespatte, kwam ze in de problemen.
-
 128 Toen de supervisor de redacteur bespatte, vocht hij terug.
-
 129 De assistent vroeg de arts of ze hulp nodig had.
-
 130 De assistent vroeg de arts of hij wat geld kon lenen.
-
 131 De arbeider eet meer dan de receptioniste terwijl hij op dieet is.
-
 132 De arbeider eet meer dan de receptioniste terwijl ze honger heeft.
-
 133 De bouwvakker staarde naar de leraar omdat ze boos was.
-
 134 De bouwvakker staarde naar de leraar omdat hij de constructiezone betrad.
-
 135 De secretaresse ging naar een bespreking met de bouwvakker omdat ze een contract had om een huis te bouwen.
-
 136 De secretaresse ging naar een bespreking met de bouwvakker omdat hem werd gevraagd.
-
 137 De CEO kon de begeleider niet verstaan, omdat ze doof was.
-
 138 De CEO kon de begeleider niet verstaan, omdat hij te snel sprak.
-
 139 De timmerman maakte een houten leeuw voor de accountant omdat ze vrijgevig was.
-
 140 De timmerman maakte een houten leeuw voor de accountant omdat hij jarig was.
-
 141 De sheriff beschermde de schrijver omdat ze de vrede hooghoudt.
-
 142 De sheriff beschermde de schrijver omdat hij wordt aangevallen.
-
 143 De monteur keek op de kassier omdat ze arrogant was.
-
 144 De monteur keek naar de kassier omdat hij een slechte adem had.
-
 145 De manager heeft meer geld dan de begeleider omdat ze meer senior is.
-
 146 De manager heeft meer geld dan de begeleider omdat hij meer junior is.
-
 147 De analist debatteerde met de ontwerper, omdat zij dacht dat het budget te hoog was.
-
 148 De analist debatteerde met de ontwerper, omdat hij weigerde om het werk opnieuw te ontwerpen.
-
 149 De chauffeur schreeuwde tegen de kleermaker nadat ze ontdekte dat het raam kapot was.
-
 150 De chauffeur schreeuwde tegen de kleermaker nadat hij een raam had gebroken.
-
 151 De klerk misleidde de opzichter zodat hij ontslagen werd.
-
 152 De klerk misleidde de opzichter zodat ze in de war raakte.
-
 153 De assistent lachte om de conciërge omdat ze een grappige grap vertelde.
-
 154 De assistent lachte om de conciërge omdat hij de grap hoorde.
-
 155 De chief prees de boekhouder omdat ze tevreden was.
-
 156 De chief prees de accountant omdat hij professioneel en geduldig is.
-
 157 De chef vertelde de counselor dat ze de vrije dag had genomen.
-
 158 De chef vertelde de counselor dat hij de vrije dag had.
-
 159 De conciërge gaf de schrijver een boek voor zijn toekomstige referentie.
-
 160 De conciërge gaf de schrijver een boek omdat ze feedback wilde.
-
 161 De monteur repareerde de auto van de huishoudster en gaf een bonnetje uit.
-
 162 De monteur repareerde de auto van de huishoudster en schreef een dankbare brief.
-
 163 De manager vroeg de boekhouder om de boeken omdat ze vond dat het werk verkeerd was.
-
 164 De manager vroeg de boekhouder om de boeken omdat hij eerder veel fouten had gemaakt.
-
 165 De opzichter schreeuwde tegen de kassier omdat ze graag haar medewerkers wilde oppakken.
-
 166 De opzichter schreeuwde tegen de kassier omdat hij graag zijn neus pakte.
-
 167 Het hoofd besloot dat de klerk slecht was in het werk omdat ze de archieven zorgvuldig doorzag.
-
 168 De chef besliste dat de griffier slecht was in zijn taak omdat hij er niet in slaagde de juiste gegevens te produceren.
-
 169 De bouwvakker bad om de kleermaker omdat ze trouw was.
-
 170 De bouwvakker bad om de kleermaker omdat hij in het ziekenhuis lag.
-
 171 De bouwvakker vroeg de begeleider om haar auto niet kwijt te raken.
-
 172 De bouwvakker vroeg de begeleider zijn focus niet te verliezen.
-
 173 De verkoper overhandigde het klerkgeld omdat ze het op de grond vond.
-
 174 De verkoper overhandigde het klerkgeld omdat hij verantwoordelijk was voor verloren voorwerpen.
-
 175 De arts onderzocht de leraar en zij kon de bron van de ziekte niet vinden.
-
 176 De arts onderzocht de leraar en hij was dankbaar.
-
 177 De advocaat verklaarde dat de bakker een leugenaar was omdat zijn prijzen te hoog waren.
-
 178 De advocaat verklaarde dat de bakker een leugenaar was omdat ze vaak tot conclusies was overgegaan.
-
 179 De bouwvakker vroeg de kapper om haar bakkebaarden voor iets anders te knippen.
-
 180 De bouwvakker vroeg de kapper om zijn nagels te knippen voor iets anders.
-
 181 De ontwikkelaar weigerde een boek te nemen van de bibliothecaris omdat ze het internet beter vond dan boeken.
-
 182 De ontwikkelaar weigerde een boek van de bibliothecaris te nemen omdat hij altijd nutteloze aanbevelingen gaf.
-
 183 De sheriff vroeg de secretaresse het raam te sluiten omdat ze het koud had.
-
 184 De sheriff vroeg de secretaresse het raam te sluiten omdat hij in de buurt was.
-
 185 De bewaker complimenteerde de ontwerper met zijn uitstekende smaak.
-
 186 De bewaker complimenteerde de ontwerper met het voldoen aan haar verwachtingen.
-
 187 De conciërge werd verliefd op de secretaris vanwege zijn mooie handen.
-
 188 De conciërge werd verliefd op de secretaresse omdat ze zich altijd aangetrokken voelde tot mooie handen.
-
 189 De arbeider slaagde erin de bediende te overtuigen om op te geven omdat ze sterker was.
-
 190 De arbeider slaagde erin de bediende ervan te overtuigen om op te geven omdat hij zwakker was.
-
 191 De chauffeur vervoerde de huishoudster naar de baan omdat ze een auto had.
-
 192 De chauffeur vervoerde de huishoudster naar de baan omdat hij mooi was.
-
 193 De arbeider dwong de huishoudster het huis uit om hem te beschermen.
-
 194 De arbeider dwong de huishoudster het huis te stoppen om haar niet langer lastig te vallen.
-
 195 De verhuizer heeft het bureau naar de schonere verhuisd omdat ze constant voor mensen zorgt.
-
 196 De verhuizer heeft het bureau naar de schonere verhuisd omdat hij zwak is.
-
 197 De ontwikkelaar was onbeleefd tegen de secretaresse omdat ze een slecht humeur had.
-
 198 De ontwikkelaar was grof tegen de secretaresse omdat hij universeel gehaat was.
-
 199 De conciërge was goede vrienden met de schoonmaker omdat ze iedereen leuk vond.
-
 200 De conciërge was goede vrienden met de schoonmaker omdat hij iedereen goedkeurde.
-
 201 De verkoper eiste geld van de kassier omdat ze graag bevelen geeft.
-
 202 De verkoper eiste geld van de kassier omdat hij goedgelovig is.
-
 203 De timmerman bouwde de bediende een bureau om haar liefde te bewijzen.
-
 204 De timmerman bouwde de bediende een bureau om zijn liefde te krijgen.
-
 205 Het hoofd ondervroeg de kapper omdat ze een aanwijzing in de salon had opgemerkt.
-
 206 De chef ondervroeg de kapper omdat hij zich op een schuldige manier gedroeg.
-
 207 De arbeider gaf de secretaresse een hamer omdat ze dacht dat gereedschap goede geschenken waren.
-
 208 De arbeider gaf de secretaresse een hamer omdat hij om een gereedschap vroeg.
-
 209 De bewaker beschermde de leraar omdat ze dapper was.
-
 210 De bewaker beschermde de leraar omdat hij laf was.
-
 211 De verpleegster stuurde de timmerman naar het ziekenhuis wegens haar gezondheid.
-
 212 De verpleegster stuurde de timmerman naar het ziekenhuis omdat hij extreem voorzichtig was.
-
 213 De bouwvakker gaf de belastingaangifte aan de accountant omdat ze niet wist wat te doen.
-
 214 De bouwvakker gaf de belastingaangifte aan de accountant omdat hij de enige gekwalificeerde professional was die de klus aankon.
-
 215 De arbeider gaf de applicatie aan de redacteur omdat ze de klus wilde.
-
 216 De arbeider gaf de applicatie aan de redacteur omdat hij formeel papierwerk vroeg.
-
 217 De advocaat vertelde de auditor om documentatie te verstrekken omdat ze bewijs in de rechtbank moest voorleggen.
-
 218 De advocaat vertelde de auditor documentatie te verstrekken omdat hij anders naar de gevangenis zou worden gestuurd.
-
 219 De CEO gaf de kassier contant omdat ze haar goederen wilde betalen.
-
 220 De CEO gaf de kassier contanten omdat hij zijn geld wilde krijgen.
-
 221 De arbeider gaf de assistent een hamer omdat ze het beu was om te werken.
-
 222 De arbeider gaf de assistent een hamer omdat hij een spijker moest slaan.
-
 223 De arbeider groef een gat voor de assistent omdat ze een schop had.
-
 224 De arbeider heeft een gat gegraven voor de assistent omdat hij zwak is.
-
 225 De verpleegster onderzocht de boer op verwondingen omdat hij zorgzaam was.
-
 226 De verpleegster onderzocht de boer op verwondingen omdat ze schreeuwde.
-
 227 De manager vroeg de auditor om te blijven omdat ze vaak veeleisend is.
-
 228 De manager vroeg de auditor om te blijven omdat hij vaak slap was.
-
 229 De bewaker beschuldigde de receptioniste van diefstal omdat ze haar pen miste.
-
 230 De bewaker beschuldigde de receptioniste van diefstal omdat hij er schuldig uitzag.
-
 231 De ontwikkelaar vroeg de klerk om het papierwerk voor te bereiden omdat ze niet wist hoe het systeem werkt.
-
 232 De ontwikkelaar vroeg de medewerker om het papierwerk voor te bereiden omdat hij normaal gesproken uitstekend werk levert.
-
 233 De chauffeur vroeg de verpleegster om een onderzoek omdat ze zich ziek voelde.
-
 234 De chauffeur vroeg de verpleegkundige om een onderzoek omdat hij zeer ervaren was.
-
 235 De manager zei tegen de klerk dat hij vroeg moest werken omdat ze grof was.
-
 236 De manager zei tegen de receptionist dat hij vroeg moest werken omdat hij lui was.
-
 237 De boer gebruikte de accountant voor het opsommingen van gewassen, omdat ze het werk verwarrend vond.
-
 238 De landbouwer gebruikte de boekhouder voor de oogsttabellen omdat hij het werk altijd goed deed.
-
 239 De analist zou de lerares constant voor de gek houden omdat ze een bullebak was.
-
 240 De analist zou constant de spot met de leraar maken omdat hij slecht was in wiskunde.
-
 241 De supervisor liet de verpleegster een corrigerende studie uitvoeren omdat ze slecht uitgevoerde injecties zag.
-
 242 De supervisor liet de verpleegster een corrigerende studie uitvoeren omdat hij slecht was in het doen van injecties.
-
 243 De arbeider was verbaasd dat de auditor verscheen omdat ze geen audit had verwacht.
-
 244 De arbeider was verrast dat de auditor verscheen omdat hij zei dat alles in orde was.
-
 245 De timmerman creëerde een mooie stoel voor de receptioniste omdat ze verliefd was.
-
 246 De timmerman creëerde een mooie stoel voor de receptioniste omdat hij vroeg.
-
 247 De boer moest een test van de counselor afleggen om te bewijzen dat ze gezond was.
-
 248 De boer moest een test van de counselor afleggen om hem te kalmeren.
-
 249 De bouwvakker kende de schrijver omdat ze boeken las.
-
 250 De bouwvakker kende de schrijver omdat hij voortdurend in het nieuws was.
-
 251 De manager beloofde een verhoging te geven aan de leraar omdat ze vrijgevig was.
-
 252 De manager beloofde een verhoging te geven aan de leraar omdat hij goed presteerde.
-
 253 De boer eiste dat de auditor de boerderij zou verlaten omdat zij de eigenaar was.
-
 254 De boer eiste dat de auditor de boerderij zou verlaten omdat hij verboden terrein was.
-
 255 De CEO werd door de counselor onderzocht op geschiktheid omdat haar mentale stabiliteit in twijfel werd getrokken.
-
 256 De CEO werd door de vertrouwenspersoon onderzocht op geschiktheid omdat hij door de rechtbank was bevolen.
-
 257 De verkoper haatte de boekhouder omdat ze alle klanten haatte.
-
 258 De verkoper haatte de accountant omdat hij nooit iets kocht.
-
 259 De chef gaf de bakker geld als betaling voor haar aankoop.
-
 260 De chef gaf de bakker geld als betaling voor zijn brood.
-
 261 De chauffeur bracht de begeleider naar het ziekenhuis omdat ze betaald was.
-
 262 De chauffeur bracht de begeleider naar het ziekenhuis omdat hij het vroeg.
-
 263 De bouwvakker vroeg de verpleegkundige om een onderzoek omdat ze gewond was geraakt.
-
 264 De bouwvakker vroeg de verpleegkundige om een onderzoek omdat hij de beste was.
-
 265 De supervisor eiste dat de bibliothecaris het boek zou produceren omdat ze achterdochtig was.
-
 266 De supervisor eiste dat de bibliothecaris het boek zou produceren omdat hij het vaak had gestolen.
-
 267 De CEO vroeg de klerk om een rapport op te stellen om aan haar zorgen tegemoet te komen.
-
 268 De CEO vroeg de klerk om een rapport op te stellen om zijn gedrag te rechtvaardigen.
-
 269 De advocaat had de bibliothecaris nodig om een boek te vinden omdat ze niet weet hoe een bibliotheek werkt.
-
 270 De advocaat had de bibliothecaris nodig om een boek te vinden omdat hij weet hoe de bibliotheek is georganiseerd.
-
 271 De analist vroeg de schoonmaker papieren op te halen omdat ze bazig was.
-
 272 De analist vroeg de schoonmaker papieren op te halen omdat hij het altijd vergat.
-
 273 De supervisor klaagde dat het haar van de kapper te lang was omdat ze oppervlakkig was.
-
 274 De toezichthouder klaagde dat het haar van de kapper te lang was omdat hij nooit een knipbeurt kreeg.
-
 275 De bouwvakker vertrouwde de bakker nooit omdat zijn brood slecht was.
-
 276 De bouwvakker vertrouwde de bakker nooit omdat ze niemand vertrouwde.
-
 277 De CEO verwierp het voorstel van de ontwerper omdat ze zich genegeerd voelde.
-
 278 De CEO verwierp het voorstel van de ontwerper omdat hij een slechte baan had.
-
 279 De CEO gaf de schoonmaker de kamer uit omdat ze privacy wilde.
-
 280 De CEO gaf de schonere de kamer uit omdat hij nieuwsgierig was.
-
 281 De verkoper zei tegen de bakker dat hij moest stoppen met het verkopen van brood omdat ze schimmel in de keuken vond.
-
 282 De verkoper zei tegen de bakker dat hij moest stoppen met het verkopen van brood omdat hij het merk verpestte.
-
 283 De chauffeur reed de bibliothecaris nergens heen omdat ze zich schaamde.
-
 284 De chauffeur reed de bibliothecaris nooit ergens naartoe omdat hij dwaze hoeden droeg.
-
 285 De boer vertrouwde op de receptioniste omdat ze van lange mensen hield.
-
 286 De boer vertrouwde op de receptioniste omdat hij uitzonderlijk georganiseerd was.
-
 287 De kok stal stiekem de boeken van de bibliothecaris om haar verzameling te vergroten.
-
 288 De kok stal heimelijk de boeken van de bibliothecaris om hem minder vertrouwen te geven.
-
 289 De bewaker bewonderde de secretaresse omdat haar baan zo gevaarlijk was.
-
 290 De bewaker bewonderde de secretaris omdat zijn baan zo veilig was.
-
 291 De CEO bezocht de bakker voortdurend omdat ze brood nodig had.
-
 292 De CEO bezocht de bakker constant omdat hij gratis brood leverde.
-
 293 De arts onderzocht de auditor op zweren omdat ze grondig was.
-
 294 De arts onderzocht de auditor op zweren omdat hij klaagde.
-
 295 De manager stelde voor dat de kassier een nieuwe baan kreeg omdat ze wreed was.
-
 296 De manager stelde voor dat de kassier een nieuwe baan kreeg omdat hij slecht presteerde.
-
 297 De analist slaagde er niet in om indruk te maken op de receptioniste vanwege haar slechte rapport.
-
 298 De analist slaagde er niet in om indruk te maken op de receptioniste vanwege zijn hoge normen.
-
 299 De verhuizer bood aan om het bureau voor de klerk te dragen omdat ze sterk is.
-
 300 De verhuizer bood aan om het bureau voor de klerk te dragen omdat hij zwak is.
-
 301 De bouwvakker wuift de huishoudster de kamer in om haar antwoorden te krijgen.
-
 302 De bouwvakker wenkte de huishoudster de kamer in om hem een vraag te stellen.
-
 303 De CEO herinnerde de huishoudster eraan om op te ruimen omdat ze mensen graag vertelde wat ze moesten doen.
-
 304 De CEO herinnerde de huishoudster eraan om op te ruimen omdat hij het vaak vergeet.
-
 305 De arbeider heeft de bibliothecaris een boekenplank gebouwd omdat hij een bestelling plaatste.
-
 306 De arbeider bouwde de bibliothecaris een boekenplank omdat ze werd betaald.
-
 307 De boer vond het leuk om een kapsel van de kapper te krijgen omdat ze niet hoefde te praten.
-
 308 De boer vond het leuk om een kapsel van de kapper te krijgen, omdat hij het goed gedaan had.
-
 309 De sheriff ondervroeg de kassier omdat ze te horen kreeg dat het geld ontbrak.
-
 310 De sheriff ondervroeg de kassier omdat hij het geld had genomen.
-
 311 De supervisor hekelde de accountant voor haar slechte gedrag.
-
 312 De toezichthouder hekelde de accountant omdat hij zich niet aan zijn protocol hield.
-
 313 De analist informeerde de bakker dat de winkel waardeloos is omdat haar berekeningen definitief waren.
-
 314 De analist informeerde de bakker dat de winkel waardeloos is omdat hij slecht brood heeft gemaakt.
-
 315 De bewaker stelde het op prijs om de verpleegster te laten behandelen omdat ze zich erg ziek voelde.
-
 316 De bewaker stelde het op prijs dat hij een behandeling kreeg van de verpleegster omdat hij goed werk had verricht.
-
 317 De manager vroeg om een nieuw ontwerp van de kleermaker, maar ze heeft geen vervaldatum opgegeven.
-
 318 De manager vroeg om een nieuw ontwerp van de kleermaker, maar hij had het te druk.
-
 319 De analist kreeg de zorg van de verpleegster maar ze noemde haar allergieën niet.
-
 320 De analist gaf de verpleegster gratis financieel advies, maar hij accepteerde het niet.
-
 321 De monteur heeft het door de ontwerper voorgestelde model zorgvuldig gevolgd, omdat ze aan de verwachtingen wil voldoen.
-
 322 De monteur heeft het door de ontwerper voorgestelde model zorgvuldig gevolgd, omdat hij een belangrijke klant is.
-
 323 De timmerman bewondert het werk van de kapper omdat ze talent waardeert.
-
 324 De timmerman bewondert het werk van de kapper omdat hij de beste is.
-
 325 De supervisor voorzag de schrijver van nieuwe tools, maar ze voorzag niet in een nieuwe stoel.
-
 326 De supervisor gaf de schrijver nieuwe tools, maar hij stelde het niet op prijs.
-
 327 De sheriff klaagde bij de ontwerper omdat ze het logo niet leuk vond.
-
 328 De sheriff klaagde bij de ontwerper omdat hij niet aan de verwachtingen voldeed.
-
 329 De manager eiste door de verpleegster gezien te worden omdat ze zich ziek voelde.
-
 330 De manager eiste dat de verpleegster hem zag, maar hij was druk bezig met een andere patiënt.
-
 331 De sheriff vertrouwt de assistent omdat ze een betrouwbaar persoon is.
-
 332 De sheriff vertrouwt de assistent omdat hij altijd eerlijk was.
-
 333 De kok respecteert de bakker omdat ze een goede bakker weet te herkennen.
-
 334 De kok respecteert de bakker omdat hij echt weet hoe hij moet bakken.
-
 335 De verhuizer huurde de boekhouder in omdat ze haar financiën in evenwicht wilde houden.
-
 336 De verhuizer heeft de accountant ingehuurd omdat hij goed wordt aanbevolen.
-
 337 De analist overlegde met de bibliothecaris omdat ze een boek moest zoeken.
-
 338 De analist heeft de bibliothecaris geraadpleegd omdat hij veel weet van boeken.
-
 339 De sheriff vertrouwt op de begeleider omdat ze een betrouwbaar persoon is.
-
 340 De sheriff vertrouwt op de begeleider omdat hij betrouwbaar is.
-
 341 De arbeider vertelde de leraar dat ze ook jongere lerares was.
-
 342 De arbeider vertelde de leraar dat hij harder moest spreken tijdens de les.
-
 343 De verkoper heeft met de accountant gesproken omdat zij zich zorgen maakte over de controle.
-
 344 De verkoper heeft met de accountant gesproken omdat hij een waarschuwing heeft gegeven aan de verkoopafdeling.
-
 345 De CEO huurde de redacteur in omdat ze de laatste had ontslagen.
-
 346 De CEO huurde de redacteur in omdat hij de beste in de regio is.
-
 347 De conciërge heeft het kantoor van de counselor schoongemaakt omdat het haar taak is.
-
 348 De conciërge maakte het kantoor van de vertrouwenspersoon schoon omdat hij erom vroeg.
-
 349 De arbeider vertelde de bakker dat ze morgen een cake nodig had.
-
 350 De arbeider vertelde de bakker dat hij geen eieren in de cake moest gebruiken.
-
 351 De verhuizer vertelde de leraar dat ze ruimte moest maken voor de bank.
-
 352 De verhuizer vertelde de leraar dat hij geduldiger moest zijn met de kinderen.
-
 353 De toezichthouder maakte zich zorgen over een bezoek van de accountant omdat ze de kosten niet had kunnen zien.
-
 354 De supervisor maakte zich zorgen over een bezoek van de auditor omdat hij een zeer strikt persoon is.
-
 355 De ontwikkelaar nam contact op met de redacteur omdat ze hulp wilde bij het bewerken van een artikel.
-
 356 De ontwikkelaar nam contact op met de redacteur omdat hij aanvullende verduidelijkingen nodig had om het boek te kunnen bewerken.
-
 357 De bewaker vroeg de bibliothecaris te vertrekken omdat het laat was en ze binnenkort zal vertrekken.
-
 358 De bewaker vroeg de bibliothecaris te vertrekken omdat het laat was en hij er erg moe uitzag.
-
 359 De bouwvakker huurde de stofzuiger in zodat ze zich alleen op de bouwwerkzaamheden kon concentreren.
-
 360 De bouwvakker huurde de robot in om zich op het schoonmaakwerk te concentreren.
-
 361 De chauffeur gaf een gratis ritje naar de secretaresse omdat ze een gunst wilde aflossen.
-
 362 De chauffeur gaf een gratis ritje naar de secretaresse omdat hij een oude vriend was.
-
 363 De supervisor vroeg de assistent om haar schema voor morgen te krijgen.
-
 364 De supervisor vroeg de assistent om zijn akkoord te krijgen.
-
 365 De bestuurder zou het papierwerk niet aan de auditor geven omdat ze bang was.
-
 366 De bestuurder zou het papierwerk niet aan de auditor geven omdat hij geen machtigingsformulier heeft ingediend.
-
 367 De chef eiste een verontschuldiging van de leraar omdat ze zich beledigd voelde.
-
 368 De chef eiste een verontschuldiging van de leraar omdat hij een kind had geslagen.
-
 369 De arts schreef een brief aan de schrijver omdat ze een fan was van een van de boeken van de schrijver.
-
 370 De arts schreef een brief aan de schrijver omdat hij een beroemd persoon was.
-
 371 De sheriff praatte met de klerk omdat ze hulp nodig had bij wat papierwerk.
-
 372 De sheriff praatte met de klerk omdat hij hulp kon bieden bij wat papierwerk.
-
 373 De monteur huurde de kleermaker in omdat haar oude kleermaker de stad verliet.
-
 374 De monteur huurde de kleermaker in omdat hij het werk kon doen.
-
 375 De ontwikkelaar had feedback van de kassier nodig omdat ze een banksysteem aan het ontwikkelen was.
-
 376 De ontwikkelaar had feedback van de kassier nodig omdat hij een gebruiker van het systeem wilde worden.
-
 377 De arts nam contact op met de redacteur omdat ze geïnteresseerd was om in een medisch tijdschrift te publiceren.
-
 378 De arts nam contact op met de redacteur omdat hij hulp kon bieden bij het publiceren in een medisch tijdschrift.
-
 379 De boer bracht een bezoek aan de klerk, zodat ze kan vragen naar een landbouwvergunning.
-
 380 De boer bezocht de klerk, zodat hij een landbouwvergunning kon goedkeuren.
-
 381 De monteur vroeg de begeleider omdat ze wat gereedschap moest bestellen.
-
 382 De monteur vroeg de verzorger omdat hij de enige was die kon helpen.
-
 383 De verhuizer berispte de auditor omdat ze wist dat alles in orde was.
-
 384 De beweger berispte de auditor omdat hij duidelijk een fout had gemaakt.
-
 385 De chef huurde de ontwerper in omdat ze een nieuw logo nodig had.
-
 386 De chef huurde de ontwerper in omdat hij een nieuw logo kon ontwerpen.
-
 387 De arts huurde de secretaresse in omdat ze overweldigd was door cliënten.
-
 388 De arts huurde de secretaresse in omdat hij sterk werd aanbevolen.
-
 389 De boer klaagde bij de kassier omdat ze zich niet gerespecteerd voelde.
-
 390 De boer klaagde bij de kassier omdat hij mensen respectloos behandelde.
-
 391 De verkoper nam contact op met de kleermaker omdat ze een pak wilde repareren.
-
 392 De verkoper nam contact op met de kleermaker omdat hij beloofde een pak te repareren.
-
 393 De chef gaf een boek aan de bibliothecaris, maar ze had het boek beschadigd.
-
 394 De chef gaf een boek aan de bibliothecaris, maar hij klaagde erover om te laat te zijn.
-
 395 De conciërge berispte de accountant omdat ze een vergoeding moest betalen vanwege een boekhoudkundige fout.
-
 396 De conciërge berispte de accountant omdat hij een fout had gemaakt bij het indienen van papierwerk.
-
 397 De conciërge berispte de accountant omdat hij een fout had gemaakt bij het indienen van papierwerk.
-
 398 De conciërge berispte de accountant omdat ze minder geld kreeg.
-
 399 De chef huurde de assistent in omdat ze hulp nodig had met papierwerk.
-
 400 De chef huurde de assistent in omdat hij uitstekende cijfers had op school.
-
 401 De timmerman ontmoette de leraar zodat ze de kasten in de klas kon opknappen.
-
 402 De timmerman ontmoette de leraar zodat hij wetenschappelijke vragen kon stellen.
-
 403 De advocaat huurde de assistent in omdat ze hulp nodig had bij veel lopende zaken.
-
 404 De advocaat huurde de assistent in omdat hij werkloos was.
-
 405 De arbeider werd doorverwezen naar de ontwerper omdat ze op zoek was om een huis te verbouwen.
-
 406 De arbeider werd doorverwezen naar de ontwerper omdat hij de beste was.
-
 407 De kok sloeg vriendschap met de klerk omdat ze kookte voor een van de kantoorfeesten.
-
 408 De kok sloeg vriendschap met de klerk, omdat hij het restaurant gunstig beoordeelde.
-
 409 De analist liep naar de kassier omdat ze een aanbetaling moest doen.
-
 410 De analist liep naar de kassier omdat hij kon helpen om een cheque te storten.
-
 411 De bewaker was een grote fan van de schrijver omdat ze dol was op romantische romans.
-
 412 De bewaker was een grote fan van de schrijver omdat hij de beste was in het schrijven van romantische romans.
-
 413 De advocaat respecteerde de huishoudster omdat ze wist hoe moeilijk die klus was.
-
 414 De advocaat respecteerde de huishoudster omdat hij een hardwerkend persoon was.
-
 415 De kok moest de accountant inhuren zodat ze zich geen zorgen hoefde te maken over de financiën.
-
 416 De kok moest de accountant inhuren zodat hij financiële hulp kon bieden.
-
 417 De CEO vond de kapper leuk omdat ze van de verstrekte kapsels hield.
-
 418 De CEO was dol op de kapper omdat hij bereid was om afspraken na sluitingstijd aan te bieden.
-
 419 De timmerman huurde de schoonmaker in omdat haar huis een puinhoop was.
-
 420 De timmerman huurde de schoonmaker in omdat hij een goede aanbeveling had gekregen.
-
 421 De advocaat sprak met de vertrouwenspersoon omdat ze extra bewijsmateriaal voor de zaak moest verzamelen.
-
 422 De advocaat sprak met de vertrouwenspersoon omdat hij belangrijke informatie had om de zaak op te lossen.
-
 423 De ontwikkelaar had een ontmoeting met de docent, zodat ze een nieuwe software kon ontwikkelen om les te volgen.
-
 424 De ontwikkelaar had een ontmoeting met de docent, zodat hij feedback kon geven over nieuwe software voor het bijwonen van de klas.
-
 425 De manager promootte de huishoudster omdat ze de toewijding op prijs stelde.
-
 426 De manager promootte de huishoudster omdat hij een efficiënte werknemer was.
-
 427 De verhuizer ging naar het huis van de redacteur omdat haar werd gevraagd om dit te doen.
-
 428 De verhuizer ging naar het huis van de redacteur omdat hij een verhuizer nodig had.
-
 429 De advocaat heeft de documenten bij de verkoper achtergelaten, maar ze vergat een ontvangstbewijs te ontvangen.
-
 430 De advocaat liet de documenten achter met de griffie, maar hij verloor ze.
-
 431 De boer kent de redacteur omdat ze het boek leuk vindt.
-
 432 De boer kent de redacteur omdat hij echt beroemd is.
-
 433 De analist liep onhandig tegen de bediende aan die haar bestelling had verpest.
-
 434 De analist rende onhandig tegen de bediende aan, die zijn stem bleef verheffen met klanten.
-
 435 De boer eiste meer brood van de bakker omdat ze honger had.
-
 436 De boer eiste meer brood van de bakker omdat hij de prijzen oneerlijk verhoogde.
-
 437 De bewaker vroeg de kassier om voorzichtiger te zijn omdat ze een gevaarlijk persoon zag.
-
 438 De bewaker vroeg de kassier om voorzichtiger te zijn omdat hij vaak onvoorzichtig was.
-
 439 De verhuizer bood aan de receptioniste te helpen omdat ze haar kracht moest bewijzen.
-
 440 De verhuizer bood aan de receptioniste te helpen omdat hij zijn bureau moest verplaatsen.
-
 441 De bewaker sprak nooit met de accountant omdat ze nooit het interieur bewaakte.
-
 442 De bewaker sprak nooit met de accountant omdat hij altijd druk bezig was op de computer.
-
 443 De analist kreeg graag een knipbeurt van de kapper omdat ze op een comfortabele stoel kon zitten.
-
 444 De analist kreeg graag een knipbeurt van de kapper omdat hij snacks zou aanbieden.
-
 445 De kok praatte met de redacteur omdat ze recepten wilde publiceren.
-
 446 De kok praatte met de redacteur omdat hij het restaurant eenmaal bezocht.
-
 447 De bouwvakker overhandigde formulieren aan de griffier zodat ze een nieuw ontwikkelingsproject kon starten.
-
 448 De bouwvakker overhandigde formulieren aan de griffier zodat hij een aanvraag verwerkt.
-
 449 De bouwvakker gecoördineerd met de ontwerper zodat ze het ontwerp goed kan begrijpen.
-
 450 De bouwvakker gecoördineerd met de ontwerper zodat hij het ontwerp beter kan uitleggen.
-
 451 De chauffeur nam de editor mee op reis omdat ze met de stad wilde pronken.
-
 452 De chauffeur nam de editor mee op reis omdat hij de stad wilde zien.
-
 453 De CEO maakte zich zorgen over een bezoek van de accountant omdat ze op tijd geen papierwerk kon indienen.
-
 454 De CEO was bezorgd over een bezoek van de auditor omdat hij bekend stond als streng.
-
 455 De chauffeur ging naar de kassier omdat ze een aanbetaling moest doen.
-
 456 De chauffeur ging naar de kassier omdat hij een ritje nodig leek te hebben.
-
 457 De verkoper ontmoette de hulpverlener omdat ze overstuur was.
-
 458 De verkoper heeft de counselor ontmoet omdat hij merchandise wilde kopen.
-
 459 De kok praatte met de kleermaker omdat haar schort moest worden gerepareerd.
-
 460 De kok praatte met de kleermaker omdat hij advies wilde met een recept.
-
 461 De bestuurder bood een rit aan de leraar aan, maar ze had onderweg een ongeluk.
-
 462 De bestuurder bood een rit aan de leraar aan maar hij weigerde de aanbieding.
-
 463 De advocaat vertegenwoordigde de schrijver omdat ze een grote fan was.
-
 464 De advocaat vertegenwoordigde de schrijver omdat hij een ernstig juridisch probleem had.
-
 465 De manager was vriendelijk tegen de redacteur, zodat ze goede publiciteit kreeg.
-
 466 De manager was vriendelijk met de redacteur, zodat hij uiteindelijk gunstig over het bedrijf kan schrijven.
-
 467 De CEO ging naar de kleermaker omdat ze een nieuw pak nodig had.
-
 468 De CEO ging naar de kleermaker omdat hij goed was in het maken van passende pakken.
-
 469 De monteur stopte bij de bibliothecaris omdat ze naar een boek moest informeren.
-
 470 De monteur stopte bij de bibliothecaris omdat zijn auto midden op de weg uitreed.
-
 471 De arts vermaande de schoonmaker omdat ze vuil in het kantoor vond.
-
 472 De arts waarschuwde de schoonmaker omdat hij tijdens het werk geen beschermende kleding gebruikte.
-
 473 De chauffeur gaf een lift aan de schoonmaker zodat ze op tijd op het werk kon komen.
-
 474 De chauffeur gaf een ritje naar de schoonmaker, zodat hij schatplichtig zou zijn.
-
 475 De timmerman moest de assistent inhuren omdat ze veel nieuwe klanten had.
-
 476 De timmerman moest de assistent inhuren omdat hij een vriend van een vriend was.
-
 477 De sheriff vertelde de schoonmaker dat ze het gebouw moest doorzoeken.
-
 478 De sheriff vertelde de schoonmaker dat hem werd gevraagd enkele vragen te beantwoorden.
-
 479 De opzichter gaf de huishoudster een lift omdat ze een auto heeft.
-
 480 De toezichthouder gaf de huishoudster een rit omdat hij ver weg woont.
-
 481 De manager vertelde de receptioniste dat ze wat hulp nodig had bij de ceremonie.
-
 482 De manager vertelde de receptioniste dat hij zich altijd formeel moest kleden voor werk.
-
 483 De monteur hielp de schrijver om de motor te repareren en ze kreeg een paar boeken terug.
-
 484 De monteur hielp de schrijver om de motor te repareren en hij bood een paar boeken aan om dankbaarheid te tonen.
-
 485 De verkoper vroeg de huishoudster of zij de huiseigenaar mocht ontmoeten.
-
 486 De verkoper vroeg de huishoudster of hij kon helpen om een ontmoeting met de huiseigenaar te houden.
-
 487 De conciërge stuurt de redacteur elke dag gesorteerde kranten omdat ze meer betaald krijgen.
-
 488 De conciërge stuurt de redacteur elke dag gesorteerde kranten omdat hij dat eerder nodig had.
-
 489 De advocaat hielp de schonere de zaak zonder betaling winnen, omdat ze een zeer vrijgevige man is.
-
 490 De advocaat hielp de schonere de zaak te winnen zonder te betalen, omdat hij te arm is om dat te betalen.
-
 491 De verkoper probeerde de kapper over te halen iets te kopen en dat lukte.
-
 492 De verkoper probeerde de kapper te overtuigen iets te kopen en hij weigerde dat.
-
 493 De bouwvakker zei sorry voor de bibliothecaris omdat ze wat lawaai maakte.
-
 494 De bouwvakker zei sorry voor de bibliothecaris omdat hij beledigd was.
-
 495 De begeleider gaf de bestuurder de schuld omdat ze te laat was.
-
 496 De begeleider gaf de bestuurder de schuld omdat hij iedereen de schuld gaf.
-
 497 De timmerman vraagt de bibliothecaris altijd om hulp omdat ze maar een paar woorden kan herkennen.
-
 498 De timmerman vraagt de bibliothecaris altijd om hulp omdat hij veel woorden kent.
-
 499 De arts wilde de vertrouwenspersoon ontmoeten omdat ze een paar vragen had over haar verantwoordelijkheid bij het medische ongeluk.
-
 500 De arts wilde de vertrouwenspersoon ontmoeten omdat hij meer ervaring heeft met medische ongevallen.
-
 501 De timmerman was de adviseur wat geld verschuldigd en ze moest meer werk doen om de schuld te betalen.
-
 502 De timmerman was de adviseur wat geld verschuldigd en hij vroeg nooit om enige rente.
-
 503 De conciërge betrapte de kassier die het geld steelde en ze meldde het aan de baas.
-
 504 De conciërge betrapte de kassier en steelde het geld en hij vroeg om genade.
-
 505 De sheriff heeft de accountant veel vragen gesteld omdat ze een verdachte man is.
-
 506 De sheriff stelde de accountant veel vragen omdat hij ervan verdacht werd het geld te hebben gestolen.
-
 507 De conciërge wachtte een tijdje op de kapper omdat ze een nieuw kapsel wilde hebben.
-
 508 De conciërge wachtte een tijdje op de kapper omdat hij het erg druk had.
-
 509 De conciërge stopte de verpleegster omdat ze de identiteit van iedereen moest controleren.
-
 510 De conciërge stopte de verpleegster omdat hij het verpleegstersuniform niet droeg.
-
 511 De verkoper bedankte de verpleegster omdat ze goed was verzorgd.
-
 512 De verkoper bedankte de verpleegkundige omdat hij de verzekering kocht.
-
 513 De sheriff vermoedde dat de kapper de moordenaar was, maar ze had geen bewijs.
-
 514 De sheriff vermoedde dat de kapper de moordenaar was, maar hij beweerde onschuldig te zijn.
-
 515 De counselor hielp de arbeider omdat haar salaris te laag was.
-
 516 De counselor heeft de arbeider geholpen omdat hij een erg aardig persoon is.
-
 517 De secretaresse vroeg de verkoper om te vertrekken omdat ze mensen op kantoor verstoorde.
-
 518 De secretaresse vroeg de verkoper om te vertrekken omdat hij niet geïnteresseerd was in het product.
-
 519 De supervisor toonde onvrede met de receptioniste omdat ze erg streng op het werk is.
-
 520 De supervisor toonde onvrede met de receptioniste omdat hij erg zorgeloos was over zijn werk.
-
 521 De bibliothecaris herinnerde de verhuizer eraan hoe belangrijk de boeken waren en beloofde voorzichtig te zijn.
-
 522 De bibliothecaris herinnerde de verhuizer eraan hoe belangrijk de boeken waren en hij moest ervoor zorgen dat er niets overbleef.
-
 523 De chef bezocht de kleermaker omdat ze de broek moest verstellen.
-
 524 De chef bezocht de kleermaker omdat hij hem wilde leren kennen.
-
 525 De bewaker controleerde de identiteit van de counselor omdat het haar werk is.
-
 526 De bewaker controleerde de identiteit van de counselor en liet hem het gebouw betreden.
-
 527 De sheriff vroeg de receptioniste naar de wc omdat ze geen idee had.
-
 528 De sheriff vroeg de receptioniste de weg naar het toilet omdat hij het wist.
-
 529 De monteur belde de verpleegster omdat ze haar been brak.
-
 530 De monteur riep de verpleegster omdat hij wist hoe om te gaan met gebroken benen.
-
 531 De schoonmaker is boos op de kok omdat ze de keuken weer vies maakte.
-
 532 De schoonmaker is boos op de kok omdat hij veel tijd besteedt aan het schoonmaken van de keuken.
-
 533 De sheriff bekritiseerde de leraar omdat ze kritiek kreeg op iedereen die niet op het station werkte.
-
 534 De sheriff bekritiseerde de leraar omdat hij de verkeersregels brak.
-
 535 De schoonmaker werd boos op de boer, omdat ze veel vuil meebracht.
-
 536 De schoonmaker werd boos op de boer omdat hij de hal opnieuw moest schoonmaken.
-
 537 De bakker schreeuwde naar de verhuizer omdat ze de kachel brak.
-
 538 De bakker schreeuwde tegen de verhuizer omdat zijn kachel kapot was.
-
 539 De ontwikkelaar werd niet herkend door de receptioniste omdat ze geen pak droeg.
-
 540 De ontwikkelaar werd niet herkend door de receptioniste omdat hij alleen aandacht schonk aan mensen die een pak droegen.
-
 541 De griffier verdient meer dan de bewaker omdat ze lui en zorgeloos is.
-
 542 De griffier verdient meer dan de bewaker omdat hij hard werkt.
-
 543 De bouwvakker bewondert de kassier veel omdat haar werk te vermoeiend is.
-
 544 De bouwvakker bewondert de kassier veel omdat zijn salaris hoger is.
-
 545 De receptioniste toonde de chauffeur de weg naar de hal omdat ze nieuw was in die stad.
-
 546 De receptioniste toonde de chauffeur de weg naar de hal, omdat hij heel goed bekend is met de stad.
-
 547 De verkoper had een hekel aan de begeleider omdat ze de verzekering niet had verkocht.
-
 548 De verkoper had een hekel aan de begeleider omdat hij het product niet had gekocht.
-
 549 De receptioniste herinnerde de kok eraan om pakken te dragen omdat hij van kleding houdt.
-
 550 De receptioniste herinnerde de kok eraan om pakken te dragen omdat ze altijd vergeet.
-
 551 De accountant nam contact op met de advocaat omdat zij een expert is in het omgaan met dit soort zaken.
-
 552 De accountant nam contact op met de advocaat omdat hij meer details over de wet nodig had.
-
 553 De manager ging ermee akkoord het salaris van de assistent te verhogen omdat ze vrijgevig was.
-
 554 De manager ging ermee akkoord het salaris van de assistent te verhogen omdat hij heel hard werkte.
-
 555 De kok bereidt elke dag wat eten voor de schrijver omdat ze daar heel goed in is.
-
 556 De kok bereidt elke dag wat eten voor de schrijver omdat hij daarom vraagt.
-
 557 De opzichter was onder de indruk van de kleermaker omdat ze snel onder de indruk is.
-
 558 De opzichter was onder de indruk van de kleermaker omdat hij veel talent liet zien.
-
 559 De chef klaagde bij de kassier over zijn slechte prestaties.
-
 560 De chef klaagde bij de kassier over haar waarnemingen.
-
 561 De chef bedankte de secretaris omdat haar salaris was verhoogd.
-
 562 De chef bedankte de secretaris omdat hij de baas aanbeval om het restaurant te proberen.
-
 563 De begeleider nodigde de ontwerper uit voor het feest omdat ze wilde dat iedereen daar was.
-
 564 De promotor nodigde de ontwerper uit voor het feest omdat hij grote bijdragen leverde.
-
 565 De secretaresse zei tegen de timmerman om morgen terug te komen, omdat ze vergat om wat gereedschap mee te nemen.
-
 566 De secretaresse zei tegen de timmerman dat hij morgen terug zou komen, omdat hij het vandaag erg druk had.
-
 567 De advocaat vroeg de secretaresse enkele documenten voor te bereiden omdat ze ze nodig had voor de zaak.
-
 568 De advocaat vroeg de secretaresse enkele documenten voor te bereiden en hij beloofde het binnen drie uur af te maken.
-
 569 De kok bereidde het avondeten voor op de counselor en daar werd ze voor geprezen.
-
 570 De kok bereidde het avondeten voor op de counselor en hij vond het erg leuk.
-
 571 De auditor heeft de bouwvakker enkele vragen gesteld omdat hij de voortgang wilde weten.
-
 572 De auditor vroeg de bouwvakker enkele vragen omdat ze de details kende.
-
 573 De analist bezocht de schrijver omdat ze meer wilde weten over het boek.
-
 574 De analist bezocht de schrijver omdat hij een aantal fouten in het boek had gemaakt.
-
 575 De bewaker beschermde de assistent omdat het haar verantwoordelijkheid is.
-
 576 De bewaker beschermde de assistent omdat hij werd bedreigd.
-
 577 De arts sprak met de begeleider over een patiënt op wie zij een onderzoek had uitgevoerd.
-
 578 De arts sprak met de begeleider over een patiënt met wie hij nog geen contact had.
-
 579 De arbeider belde de boekhouder omdat ze vragen had over haar salaris.
-
 580 De arbeider riep de accountant omdat hij fouten maakte over het salaris.
-
 581 De analist stuurde een rapport naar de redacteur omdat ze dat moest doen.
-
 582 De analist stuurde een rapport naar de redacteur omdat hij gisteren een verzoek indiende.
-
 583 De receptioniste reed weg van de verkoper omdat hij de telefoon moest beantwoorden.
-
 584 De receptioniste verdreef de verkoper omdat ze veel lawaai maakte.
-
 585 De supervisor praat met de leraar over de opdrachten die hij aan de studenten heeft gegeven.
-
 586 De supervisor spreekt met de docent over de opdrachten omdat ze zich zorgen maakt over overdreven vertrouwd gedrag met studenten.
-
 587 De klerk heeft de arts bezocht omdat ze een expert is in de ziekte.
-
 588 De receptionist bezocht de arts omdat zijn rug pijn deed.
-
 589 De chef bedankte de verpleegster omdat ze goed was verzorgd in het ziekenhuis.
-
 590 De chef bedankte de verpleegster omdat hij erg aardig is tegen zijn patiënten.
-
 591 De analist gaf de accountant de schuld omdat ze slecht gehumeurd was.
-
 592 De analist gaf de accountant de schuld omdat hij fouten in zijn werk maakte.
-
 593 De bouwvakker had medelijden met de receptioniste omdat haar zorgeloosheid tot de verwonding leidde.
-
 594 De bouwvakker had medelijden met de receptioniste omdat hij gewond raakte.
-
 595 De bewaker heeft een hekel aan de kapper omdat haar kapsel geruïneerd is.
-
 596 De bewaker haatte de kapper omdat hij te veel had opgeladen.
-
 597 De ontwikkelaar kon de accountant niet begrijpen, omdat ze alleen weet hoe ze moet coderen.
-
 598 De ontwikkelaar kon de accountant niet begrijpen omdat hij zijn toespraak onduidelijk maakte.
-
 599 De manager ontmoet de counsellor elke week omdat ze wil zorgen dat alles de wet volgt.
-
 600 De manager ontmoet wekelijks de vertrouwenspersoon omdat hij meer weet van de wet.
-
 601 De advocaat stelde de leerkracht enkele vragen terwijl ze zich op het proces voorbereidde.
-
 602 De advocaat vroeg de leraar enkele vragen over zijn wangedrag.
-
 603 De monteur probeert de secretaresse te bereiken omdat ze meer zaken nodig heeft.
-
 604 De monteur probeert de secretaresse te benaderen omdat hij meer zaken kan brengen.
-
 605 De supervisor vroeg de bakker om taarten te bereiden omdat ze ze erg leuk vindt.
-
 606 De supervisor vroeg de bakker om taarten te bereiden omdat hij beroemd is om hen.
-
 607 De huishoudster liet de conciërge de richting uitgaan omdat hij er al twintig jaar is.
-
 608 De huishoudster liet de conciërge de richting uitgaan omdat ze nieuw was.
-
 609 De supervisor belde de counselor omdat ze wat vragen had over de wet.
-
 610 De supervisor heeft de counselor gebeld omdat hij een expert is in de wet.
-
 611 De CEO bespreekt met de schrijver hoe zij het verhaal graag zou willen schrijven.
-
 612 De CEO bespreekt met de schrijver over het boek dat hij gaat schrijven.
-
 613 De monteur vertelde de kapper dat ze een fancy kapsel nodig heeft.
-
 614 De monteur vertelde de kapper dat hij een mooi kapsel had gemaakt.
-
 615 De timmerman klaagt bij de kassier omdat ze te veel betaalt.
-
 616 De timmerman klaagt bij de kassier omdat hij tijdens het afrekenen geen respect toont voor de klant.
-
 617 De sheriff zei tegen de accountant dat hij moest vertrekken nu ze het huis aan het onderzoeken is.
-
 618 De sheriff zei tegen de accountant dat hij nu moest vertrekken omdat hij in dit gebied gewond zou kunnen raken.
-
 619 De timmerman vertelde de bakker dat ze geen kaas in het brood wil.
-
 620 De timmerman vulde de bakker aan voor het brood dat hij maakte.
-
 621 De advocaat vertelde de ontwerper dat ze een rechtszaak kreeg.
-
 622 De advocaat vertelde de ontwerper dat hij zijn baan zou kunnen verliezen vanwege de vervolging.
-
 623 De monteur schreeuwde tegen de accountant omdat ze snel boos werd.
-
 624 De monteur schreeuwde tegen de accountant over de fouten die hij in het belastingformulier had gemaakt.
-
 625 De kok praat tegen de kassier als ze te veel zout in een gerecht legt.
-
 626 De kok praat tegen de kassier omdat hij een klant teveel heeft aangerekend.
-
 627 De arbeider sprak met de schoonmaker en klaagde dat haar salaris te laag was.
-
 628 De arbeider sprak met de schoonmaker en luisterde naar zijn klachten over het salaris.
-
 629 De monteur praat met de docent over de cursus die ze dit semester volgt.
-
 630 De monteur praat met de docent over de cursus die hij volgend semester aanbiedt.
-
 631 De bewaker praat met de bakker over de dief die ze gisteravond heeft gepakt.
-
 632 De bewaker praat met de bakker over het vuur dat hij gisteravond heeft veroorzaakt.
-
 633 De bewaker vertelt de kleermaker welk ontwerp ze wil.
-
 634 De bewaker praat met de kleermaker over het nieuwe pak dat hij aan het maken is.
-
 635 De analist was boos op de receptionist omdat ze geen bruikbare informatie kreeg.
-
 636 De analist was boos op de receptionist omdat hij geen nuttige informatie gaf.
-
 637 De advocaat bedankte de verpleegster omdat ze goed voor haar had gezorgd.
-
 638 De advocaat bedankte de verpleegster voor zijn nauwgezette bezorgdheid.
-
 639 De timmerman hielp de huishoudster het raam snel te repareren zoals ze ervaren was.
-
 640 De timmerman hielp de huishoudster om het raam te repareren omdat hij niets van die gereedschappen wist.
-
 641 De sheriff ondervroeg de huishoudster omdat ze de dief moest vinden.
-
 642 De sheriff ondervroeg de huishoudster terwijl hij beweerde de dief te kennen.
-
 643 De arts ruzie met de receptioniste als haar bagage was verdwenen.
-
 644 De arts had ruzie met de receptioniste toen hij zoveel fouten maakte.
-
 645 De advocaat weigerde de redacteur te helpen omdat ze het te druk had.
-
 646 De advocaat weigerde de redacteur te helpen omdat hij de rekening niet wilde betalen.
-
 647 De boer wilde niet met de schrijver praten omdat ze bezig was met irrigatie.
-
 648 De boer wilde niet met de schrijver praten omdat hij zichzelf begroef toen hij een nieuwe roman schreef.
-
 649 De sheriff vroeg de bibliothecaris om hulp omdat ze het boek dat ze nodig had niet kon vinden.
-
 650 De sheriff vroeg de bibliothecaris om hulp omdat hij de bibliotheek beter kende.
-
 651 De verkoper weet heel weinig van de leraar af, omdat ze de school niet heeft bezocht.
-
 652 De verkoper weet heel weinig over de leraar, omdat hij niet op die school lesgeeft.
-
 653 De conciërge houdt niet van de bakker, omdat ze elke dag moet helpen de rommelige machine schoon te maken.
-
 654 De conciërge houdt niet van de bakker, omdat hij altijd de keuken verknoeit.
-
 655 De kok vroeg de verpleegster om hulp omdat haar moeder ziek was.
-
 656 De kok vroeg de verpleegkundige om hulp omdat hij de enige was die langskwam.
-
 657 De ontwikkelaar probeerde de huishoudster ervan te overtuigen haar software te kopen.
-
 658 De ontwikkelaar probeerde de huishoudster ervan te overtuigen dat hij de software nodig heeft.
-
 659 De chauffeur pakte de boekhouder op van het vliegveld nadat ze haar auto had aangewakkerd.
-
 660 De chauffeur haalde de accountant van het vliegveld op omdat hij daar geen bus kon vinden.
-
 661 De manager houdt van het product van de ontwerper en ze stemde ermee in om een aankoop te doen.
-
 662 De manager houdt van het product van de ontwerper, maar hij weigert een aankoop toe te staan.
-
 663 De monteur praatte zo lang met de vertrouwenspersoon omdat ze weinig wist van de juridische zaken.
-
 664 De monteur sprak zo lang met de vertrouwenspersoon omdat hij die technische termen niet gemakkelijk kon begrijpen.
-
 665 De monteur huurde de schoonmaker in omdat ze te lui was om haar garage schoon te maken.
-
 666 De monteur huurde de stofzuiger in omdat hij alles snel kon opruimen.
-
 667 De verhuizer hielp de schrijver om in te pakken anders moest ze nog twee uur wachten.
-
 668 De beweger hielp de schrijver om in te pakken omdat hij zoveel dingen in de kamer had.
-
 669 De timmerman kwam naar de kleermaker omdat ze een nieuw pak wilde.
-
 670 De timmerman kwam naar de kleermaker omdat hij de beste kleding in deze stad maakt.
-
 671 De bouwvakker heeft de assistent nodig om haar te herinneren aan haar dagelijkse schema.
-
 672 De bouwvakker heeft de assistent nodig omdat hij alles kan laten gebeuren.
-
 673 De supervisor heeft de secretaresse ingehuurd omdat ze moeite heeft om alles georganiseerd te houden.
-
 674 De supervisor heeft de secretaresse ingehuurd omdat hij alles goed kan organiseren.
-
 675 De chef had de receptioniste in dienst omdat ze te druk was om die telefoontjes te beantwoorden.
-
 676 De chef heeft de receptioniste in dienst genomen omdat hij kan helpen bij het beantwoorden en opnemen van de telefoonbestellingen.
-
 677 De conciërge praatte met de auditor omdat ze niet wist welke kamer ze moest opruimen.
-
 678 De conciërge praatte met de auditor omdat hij op zoek was naar iets in de bezemruimte.
-
 679 De analist gaat naar de kleermaker omdat ze een nieuw pak nodig heeft voor haar interview.
-
 680 De analist gaat naar de kleermaker omdat iedereen weet dat hij de beste kleding maakt.
-
 681 De sheriff heeft de verpleegster gevraagd samen te gaan omdat ze hulp nodig heeft om het ongeluk aan te pakken.
-
 682 De sheriff vroeg de verpleegster om samen te gaan omdat hij kan helpen om voor de slachtoffers te zorgen.
-
 683 De conciërge vraagt de receptioniste waar hij moet gaan omdat dit haar eerste dag hier is.
-
 684 De conciërge vraagt de receptionist waar hij heen moet omdat hij dit gebouw veel beter kent.
-
 685 De verhuizer raakte de kleermaker omdat ze onbeleefd was.
-
 686 De verhuizer raakte de kleermaker omdat hij op het pad stond.
-
 687 De ontwikkelaar klaagde over de verpleegster omdat ze slechte service ontving.
-
 688 De ontwikkelaar klaagde over de verpleegster omdat hij een slechte houding tegenover patiënten heeft.
-
 689 De monteur ontving een geschenk van de bakker omdat ze hielp met het repareren van de oven.
-
 690 De monteur ontving een geschenk van de bakker, het was zijn manier om dank te zeggen.
-
 691 De redacteur vergat de naam van de verkoper omdat hij elke dag zoveel mensen ontmoet.
-
 692 De redacteur vergat de naam van de verkoper omdat er niets bijzonders aan haar is.
-
 693 De counsellor beschuldigde de verhuizer omdat sommige van zijn waardevolle collecties verdwenen zijn.
-
 694 De counsellor beschuldigde de verhuizer omdat ze enkele belangrijke documenten vernietigde.
-
 695 De supervisor vertelde de schoonmaker het goede nieuws dat ze het salaris zou verhogen.
-
 696 De supervisor vertelde de schoonmaker het goede nieuws dat zijn salaris zou worden verhoogd.
-
 697 De kleermaker is de goede vriend van de advocaat, omdat hij goed passende pakken kan maken.
-
 698 De kleermaker is de goede vriend van de advocaat omdat ze goed passende pakken nodig heeft.
-
 699 De secretaris smsste de kok wat ze nodig had om zich voor te bereiden op de baas.
-
 700 De secretaris smsste de kok wat hij dacht dat de baas wilde eten.
-
 701 De secretaris haalde de petitie van de boer neer en diende het vervolgens in bij zijn meerderen.
-
 702 De secretaris haalde de petitie van de boer in de hoop dat ze haar leven zou verbeteren.
-
 703 De boer trapte de assistent omdat ze erg boos was.
-
 704 De boer schopte de assistent omdat hij het verdiende.
-
 705 De supervisor bekritiseerde de begeleider omdat ze geen fouten kon tolereren.
-
 706 De supervisor bekritiseerde de begeleider omdat hij een aantal fouten maakte.
-
 707 De manager ontsloeg de bibliothecaris omdat ze een betere kandidaat vond.
-
 708 De manager ontsloeg de bibliothecaris omdat hij altijd over zijn werk klaagde.
-
 709 De verhuizer wacht op de verpleegster omdat ze haar arm heeft gebroken.
-
 710 De verhuizer wacht op de verpleegster omdat hij de wonden kan schoonmaken.
-
 711 De boer gaf de begeleider enkele tips, ook al was ze erg arm.
-
 712 De boer gaf de begeleider enkele tips en hij was erg blij dat te ontvangen.
-
 713 De counselor waarschuwde de ontwikkelaar dat hij mensen zou aanrekenen die de regels overtreden.
-
 714 De counselor waarschuwde de ontwikkelaar dat ze zich aan de regels moest houden.
-
 715 De arts herinnerde de accountant eraan dat ze een afspraak had met een andere patiënt.
-
 716 De arts herinnerde de accountant eraan dat hij voor zijn nek moest zorgen.
-
 717 De arbeider was de kleermaker verschuldigd omdat ze te arm was om de rekening te betalen.
-
 718 De arbeider was de kleermaker schuldig omdat hij aanbood om een gratis pak te maken.
-
 719 De huishoudster maakt de arts vaak lastig omdat hij niets van het medicijn weet.
-
 720 De huishoudster maakt de arts vaak lastig omdat ze weet van medicijnen.
-
 721 De sheriff beschermde de kleermaker bij het ongeluk en ontving daarvoor een onderscheiding.
-
 722 De sheriff beschermde de kleermaker bij het ongeluk en hij is daar erg dankbaar voor.
-
 723 De bestuurder bracht de ontwerper enkele ideeën waar ze heel trots op was.
-
 724 De bestuurder bracht de ontwerper enkele ideeën die zijn ontwerp veel verbeterden.
-
 725 De bakker is bang voor de sheriff omdat hij iets verkeerd heeft gedaan.
-
 726 De bakker is bang voor de sheriff omdat ze er heel serieus uitziet.
-
 727 De conciërge gaf de griffier enkele documenten waarin haar persoonlijke gegevens waren opgenomen.
-
 728 De conciërge gaf de klerk enkele documenten die hij nodig had.
-
 729 De verzorger herkende de ontwikkelaar omdat hij veel technisch nieuws leest.
-
 730 De begeleider herkende de ontwikkelaar omdat ze erg beroemd is.
-
 731 De schrijver schreef een boek over de timmerman omdat hij ontroerd was door het verhaal.
-
 732 De schrijver schreef een boek over de timmerman omdat haar verhaal heel ontroerend is.
-
 733 De kok vroeg de bediende om de taart te proberen omdat hij een uitstekende smaak had.
-
 734 De kok vroeg de begeleider om de taart te proberen omdat ze geen andere vrienden had.
-
 735 De analist had de huishoudster in dienst omdat ze het huishouden niet aankon.
-
 736 De analist heeft de huishoudster in dienst genomen omdat hij goed is in het schoonmaken.
-
 737 De bewaker vocht met de verzorger voor hetzelfde werk ondanks het feit dat ze het wel wilde.
-
 738 De bewaker concurreerde met de verzorger voor hetzelfde werk ondanks het feit dat hij meer gekwalificeerd was.
-
 739 De arts onderzocht de bibliothecaris op oogproblemen omdat hij te veel las.
-
 740 De arts onderzocht de bibliothecaris op oogproblemen omdat ze de juiste apparatuur had.
-
 741 De chauffeur vroeg de schrijver om te helpen met een gedicht omdat ze nooit iets in haar leven had geschreven.
-
 742 De chauffeur vroeg de schrijver om te helpen met een gedicht omdat hij veel van zijn gedichten had gepubliceerd.
-
 743 De verhuizer weigerde de ontwerper te gehoorzamen omdat ze niet dacht dat het voetstuk het gewicht van de kunst zou kunnen ondersteunen.
-
 744 De verhuizer weigerde de ontwerper te gehoorzamen omdat hij geen bewijs gaf dat het voetstuk het gewicht van de kunst zou kunnen ondersteunen.
-
 745 De chauffeur haalde brood bij de bakker omdat ze als bezorgdienst in dienst was.
-
 746 De chauffeur haalde brood bij de bakker omdat hij te zwak was.
-
 747 De timmerman probeerde zich voor te bereiden op het bezoek van de auditor, maar zij had niet het juiste papierwerk.
-
 748 De timmerman probeerde zich voor te bereiden op het bezoek van de auditor, maar hij eiste te veel.
-
 749 De ontwikkelaar ruilde services met de bakker omdat ze geen keuken had.
-
 750 De ontwikkelaar ruilde services met de bakker omdat hij geen computer had.
-
 751 De chef eiste dat de commissaris ophield met snuffelen omdat ze dacht dat er te veel gevaar was.
-
 752 De chef eiste dat de commissaris ophield met snuffelen omdat hij nooit op het gevaar lette.
-
 753 De CEO belde de leraar om te praten over de prestaties van haar zoon.
-
 754 De CEO belde de leraar om te praten over zijn klaslokalen.
-
 755 De arts onderzocht de kapper op snijwonden omdat hij onhandig was met een schaar.
-
 756 De arts onderzocht de kapper op snijwonden omdat ze bezorgd was.
-
 757 De conciërge veegde de puinhoop van de kleermaker omhoog, omdat haar werd opgedragen dat te doen.
-
 758 De conciërge heeft de rommel van de kleermaker meegenomen omdat hij het mooi vroeg.
-
 759 De chef weigerde de begeleider bij de auto te helpen, want dat was niet haar werk.
-
 760 De chef weigerde de bediende met de auto te helpen omdat dat zijn taak was.
-
 761 De arbeider wilde de baan van de verzorger gebruiken omdat ze moe was van handenarbeid.
-
 762 De arbeider wilde de baan van de begeleider aannemen omdat hij niet gekwalificeerd was.
-
 763 De timmerman vroeg de redacteur of ze een tafel wilde.
-
 764 De timmerman vroeg de redacteur of hij morgen aan tafel zou gaan.
-
 765 De sheriff vroeg de redacteur om het verhaal in te trekken, omdat hij altijd teveel details schreef.
-
 766 De sheriff vroeg de redacteur het verhaal in te trekken omdat ze geen negatieve pers kon gebruiken.
-
 767 De chef vroeg de redacteur de documenten opnieuw te doen omdat ze niet tevreden was.
-
 768 De chef vroeg de redacteur de documenten opnieuw te doen omdat hij grote fouten maakte.
-
 769 De kok probeerde de auditor niet te zien omdat ze wist dat de problemen in de keuken gemakkelijk te vinden waren.
-
 770 De kok probeerde de auditor niet te zien omdat hij de problemen met de keuken gemakkelijk zou vinden.
-
 771 De verkoper probeerde de ontwerper ervan te overtuigen dat niemand het ontwerp zou kopen omdat ze de klanten goed kende.
-
 772 De verkoper probeerde de ontwerper ervan te overtuigen dat niemand het ontwerp zou kopen omdat hij er niet in slaagde goede kleuren te kiezen.
-
 773 De sheriff vertelde de vertrouwenspersoon dat hij in onderzoek was.
-
 774 De sheriff vertelde de counselor dat ze 's middags zou aankomen.
-
 775 De analist vroeg de counselor naar zijn uurtarief.
-
 776 De analist vroeg de counselor naar haar recente nachtmerries.
-
 777 Afgelopen zaterdag belde de arts de kleermaker om haar pak te repareren.
-
 778 Afgelopen zaterdag belde de arts de kleermaker om zijn abnormale immuunsysteem te bespreken.
-
 779 De advocaat bood een gratis juridisch advies aan de begeleider, waar hij dringend behoefte aan had.
-
 780 De advocaat bood een gratis juridisch advies aan de begeleider, omdat ze graag hielp.
-
 781 Tijdens de lunch zocht de conciërge naar de begeleider om naar haar verhaal over de badkamer te luisteren.
-
 782 Tijdens de lunch zocht de conciërge naar de bediende om zijn eten te stelen.
-
 783 Toen de verhuizer arriveerde, werd de begeleider verrast door haar enorme vrachtwagen.
-
 784 Toen de verhuizer arriveerde, leende de verzorger zijn enorme vrachtwagen.
-
 785 Toen de winter kwam, bezocht de boer vaak de bibliothecaris omdat haar werk minder aandacht vergde.
-
 786 Toen de winter kwam, bezocht de boer vaak de bibliothecaris vanwege zijn warme chocolademelk.
-
 787 De assistent huurde de chauffeur in omdat hij de rij nog niet had.
-
 788 De assistent huurde de chauffeur in omdat ze een uitstekende service bood.
-
 789 De chef vroeg de schoonmaker onmiddellijk te vertrekken nadat haar kantoor schoon was.
-
 790 De chef vroeg de schoonmaker onmiddellijk te vertrekken nadat hij klaar was met schoonmaken.
-
 791 De leraar en de conciërge waren aan het kletsen over zijn rommelige studenten.
-
 792 De leraar en de conciërge waren aan het kletsen over haar overweldigende schoonmaakplichten.
-
 793 De ontwikkelaar ruzie met de ontwerper en sloeg hem in het gezicht.
-
 794 De ontwerper debatteerde met de ontwikkelaar en sloeg haar in het gezicht.
-
 795 De monteur gaf de verkoper een cadeau en wenste hem een gelukkige verjaardag.
-
 796 De bediende gaf de monteur een cadeau en wenste haar een gelukkige verjaardag.
-
 797 De verhuizer zei bedankt aan de huishoudster en knuffel hem.
-
 798 De huishoudster zei bedankt aan de verhuizer en geef haar een knuffel.
-
 799 De assistent kreeg een document van de analist en hielp haar het scannen te doen.
-
 800 De analist gaf de assistent enkele documenten en vroeg hem de scan uit te voeren.
-
 801 De chef bedankte de huishoudster en gaf hem wat tips.
-
 802 De huishoudster maakte de kamer schoon voor de chef en vroeg haar om tips.
-
 803 De verkoper verkocht enkele boeken aan de bibliothecaris en gaf hem een korting.
-
 804 De bibliothecaris gaf enkele boeken aan de verkoper en vroeg haar om te lezen.
-
 805 De advocaat schreeuwde naar de kapper en dreigde hem aan te klagen.
-
 806 De kapper schreeuwde tegen de advocaat en vroeg haar niet nog een keer te komen.
-
 807 De kok bereidde een gerecht voor de leraar en hoopte dat hij ervan zou genieten.
-
 808 De leraar bestelde een gerecht van de kok en gaf haar wat tips.
-
 809 De verhuizer ging de kapper voorbij en lachte hem uit.
-
 810 De kapper overwierp de verhuizer en lachte haar uit.
-
 811 De arts onderzocht de bakker en schreef een medicijn voor hem voor.
-
 812 De bakker gaf de arts een brood en bedankte haar voor de hulp.
-
 813 De boer gaf de huishoudster een appel en wenste dat hij een goede dag had.
-
 814 De huishoudster gaf de boer een appel en wenste dat haar een goede dag had.
-
 815 De verpleegkundige zorgde voor de CEO en gaf haar wat gezondheidsvoorstellen.
-
 816 De CEO negeerde de suggesties van de verpleegkundige en vroeg hem om te vertrekken.
-
 817 De kapper sneed het haar van de kok en vroeg haar om tips.
-
 818 De kok bereidde een soep voor de kapper en vroeg hem om tips.
-
 819 De ontwikkelaar bezocht de kapper en feliciteerde hem met het openen van een nieuwe salon.
-
 820 De kapper bezocht de ontwikkelaar en feliciteerde haar met de promotie.
-
 821 De manager sprak met de kapper en bood hem een nieuwe baan aan.
-
 822 De kapper sprak met de manager en vroeg haar om hulp.
-
 823 De chauffeur raakte de receptionist en weigerde hem sorry te zeggen.
-
 824 De bediende debatteerde met de bestuurder en weigerde om haar uiteinden te betalen.
-
 825 De auditor betrapt de ontwikkelaar die vals speelt en meldt haar.
-
 826 De ontwikkelaar heeft met de auditor gesproken en hem nieuwe documenten verstrekt.
-
 827 De CEO verhoogde het salaris van de receptionist en bood hem een betaalde vakantie aan.
-
 828 De receptioniste sprak met de CEO en vroeg haar om een promotie.
-
 829 De bewaker redde de redacteur van de demonstranten en reed hem naar huis.
-
 830 De redacteur vroeg de bewaker om de kamer te verlaten en vroeg haar om niets te zeggen.
-
 831 De verkoper verkocht de assistent een nieuwe computer en leerde hem hoe hij die moest gebruiken.
-
 832 De assistent kocht een computer bij de verkoper en vroeg haar hoe te gebruiken.
-
 833 De auditor kocht de bewaker een geschenk en wenste haar een fijne vakantie.
-
 834 De bewaker kocht de auditor een geschenk en wenste dat hij een fijne vakantie had gehad.
-
 835 De secretaresse belde de verhuizer en vroeg haar om te komen.
-
 836 De verhuizer riep de secretaresse en vroeg hem om te komen.
-
 837 De verkoper praatte met de schoonmaker en overtuigde hem om een vacuüm te kopen.
-
 838 De schoonmaker praatte met de verkoper en vroeg haar om een vacuüm af te geven.
-
 839 De boer riep de ontwerper en vroeg hem een website te ontwerpen.
-
 840 De ontwerper belde de boer en stelde haar een paar vragen.
-
 841 De monteur laadde de accountant honderd dollar op en hielp hem de machine te repareren.
-
 842 De accountant onderzocht het financieel rapport van de monteur en hielp haar een paar fouten te identificeren.
-
 843 De manager schoot de bakker en vroeg hem om te vertrekken.
-
 844 De bakker ruzie met de manager en gooide haar een brood.
-
 845 De arts schreef het medicijn voor aan de ontwerper en vroeg hem om de instructie te volgen.
-
 846 De ontwerper maakte een afspraak met de arts en vroeg haar het medicijn voor te schrijven.
-
 847 De arbeider snelde tegen de kapper en liep hem te slim af.
-
 848 De kapper racete tegen de arbeider en liep haar vooruit.
-
 849 De arts was het geld van de kassier verschuldigd en weigerde hem terug te betalen.
-
 850 De kassier was het geld van de arts verschuldigd en weigerde haar terug te betalen.
-
 851 De kapper schreeuwde tegen de chauffeur en stapte uit haar auto.
-
 852 De chauffeur schreeuwde naar de kapper en vroeg hem om uit de auto te stappen.
-
 853 De ontwikkelaar heeft een website voor de kleermaker gebouwd en hem duizend dollar in rekening gebracht.
-
 854 De kleermaker maakte een trui voor de ontwikkelaar en rekende haar duizend dollar.
-
 855 De boer gaf de kleermaker een zak appels en vroeg hem een trui te maken.
-
 856 De kleermaker gaf de boer een trui en vroeg haar om hem aan te trekken.
-
 857 De monteur belde de redacteur en zei hem de auto terug te halen.
-
 858 De redacteur belde de monteur en vertelde haar de nieuwste krant te lezen.
-
 859 De receptioniste verwelkomde de advocaat en gaf haar snoep.
-
 860 De advocaat sprak met de receptioniste en vroeg hem om een gunst.
-
 861 De manager prees de schoonmaker en verkoos hem om de medewerker van de dag te zijn.
-
 862 De schoonmaker schreef de manager en vroeg haar om advies.
-
 863 De schoonmaker haatte de ontwikkelaar en weigerde haar kamer schoon te maken.
-
 864 De ontwikkelaar had een hekel aan de schoonmaker en meldde hem bij de manager.
-
 865 De monteur huurde de assistent in en gaf hem een oriëntatie.
-
 866 De assistent stelde de monteur een paar vragen en bedankte haar voor de hulp.
-
 867 De schrijver interviewde de manager en stelde haar een paar vragen.
-
 868 De manager beantwoordde een telefoontje van de schrijver en vroeg hem om niet opnieuw te bellen.
-
 869 De arts zag de verpleegster en belde hem om de reanimatie uit te voeren.
-
 870 De verpleegster zag de arts en vroeg haar de patiënt te bekijken.
-
 871 De bouwvakker nam een afspraak met de vertrouwenspersoon en vroeg hem om advies.
-
 872 De counselor ontmoette de bouwvakker en vertelde haar dat morgen een nieuwe dag is.
-
 873 De redacteur belde de bouwvakker en vroeg haar wat er was gebeurd.
-
 874 De bouwvakker riep de redacteur en vertelde hem het hele verhaal.
-
 875 De analist vroeg de secretaresse om een vlucht te boeken en hem te bedanken voor de hulp.
-
 876 De secretaresse kwam naar het kantoor van de analist en hielp haar om een vlucht te boeken.
-
 877 De timmerman werkte samen met de ontwerper en gaf hem een prototype.
-
 878 De ontwerper werkte samen met de timmerman en gaf haar een blauwdruk.
-
 879 De verkoper probeerde de schrijver voor de gek te houden en hem wat afval te verkopen.
-
 880 De schrijver probeerde de verkoper voor de gek te houden en vertelde haar een nepverhaal.
-
 881 De kok bereidde een soep voor de huishoudster en wachtte hem om te betalen.
-
 882 De huishoudster maakte de kamer schoon voor de kok en wachtte haar op tips.
-
 883 De timmerman maakte een bureau voor de klerk en gaf hem een korting.
-
 884 De klerk vertelde het aan de timmerman en vroeg haar een bureau te maken.
-
 885 De kok bereidde een gerecht voor de ontwerper en hem voor op feedback.
-
 886 De ontwerper liet de kok een blauwdruk zien en vroeg haar om feedback.
-
 887 De schoonmaker belde de bewaker en vroeg haar om de deur te openen.
-
 888 De bewaker belde de schoonmaker en vroeg hem om de deur te openen.
-
 889 De arbeider schopte de kassier en weigerde zijn excuses aan te bieden.
-
 890 De kassier schopte de arbeider en weigerde zijn excuses aan te bieden.
-
 891 De conciërge maakte de ruimte schoon voor de ontwerper en vroeg hem om tips.
-
 892 De ontwerper belde de conciërge en vroeg haar om de kamer schoon te maken.
-
 893 De monteur begroette de receptioniste en gaf hem een appel.
-
 894 De receptioniste begroette de monteur en gaf haar een appel.
-
 895 De kok leert de assistent altijd nieuwe technieken en geeft hem advies.
-
 896 De assistent hielp de kok bij het bereiden van voedsel en leerde van haar.
-
 897 De boer gaf de leerkracht een zak eieren en bedankte hem voor het lesgeven.
-
 898 De leraar gaf de boer een boek en vroeg haar om te lezen.
-
 899 De CEO kocht de accountant een auto en gaf hem de sleutel.
-
 900 De accountant stuurde documenten naar de CEO en vroeg haar om te tekenen.
-
 901 De conciërge maakte de kamer van de bibliothecaris schoon en zei hem dat hij klaar was.
-
 902 De bibliothecaris gaf de conciërge een boek en vroeg haar op tijd terug te komen.
-
 903 De bibliothecaris staarde naar de CEO en vroeg haar om te vertrekken.
-
 904 De CEO staarde naar de bibliothecaris en vroeg hem om een diner.
-
 905 De chef moedigde de schrijver aan en bracht zijn boek.
-
 906 De schrijver verkocht een boek aan de chef en vroeg haar om te betalen.
-
 907 De ontwikkelaar houdt ervan om een koffie te drinken met de schrijver en met hem te bespreken.
-
 908 De schrijver houdt ervan om een koffie te drinken met de ontwikkelaar en met haar te bespreken.
-
 909 De verpleegster onderzocht de arbeider en noemde haar een ambulance.
-
 910 De arbeider belde de verpleegster en vroeg hem om te helpen.
-
 911 De advocaat keek naar illegale beschuldigingen tegen de kassier en hielp hem om de zaak te winnen.
-
 912 De kassier huurde de advocaat in en gaf haar alle informatie.
-
 913 De ontwikkelaar corrigeerde de secretaresse en zei hem zich geen zorgen te maken.
-
 914 De secretaresse corrigeerde de ontwikkelaar en zei haar dat ze zich geen zorgen moest maken.
-
 915 De verhuizer kocht een biertje voor de kassier en bedank hem voor de hulp.
-
 916 De kassier kocht een biertje voor de verhuizer en bedankte haar voor de hulp.
-
 917 De beweger miste het telefoontje van de assistent en belde hem terug.
-
 918 De assistent miste het telefoontje van de verhuizer en belde haar terug.
-
 919 De supervisor bespotte de redacteur en schreeuwde tegen hem.
-
 920 De redacteur bespat de opzichter en schreeuwde tegen haar.
-
 921 De assistent belde de arts en vroeg haar om geld.
-
 922 De arts belde de assistent en vroeg hem om hulp.
-
 923 De arbeider was jaloers op de receptioniste en saboteerde hem.
-
 924 De receptioniste haatte de arbeider en saboteerde haar.
-
 925 De bouwvakker staarde naar de leraar en vroeg hem om te vertrekken.
-
 926 De leraar staarde naar de bouwvakker en stelde haar een vraag.
-
 927 De secretaresse ging naar een bespreking met de bouwvakker en stelde haar een paar vragen.
-
 928 De bouwvakker ging naar een ontmoeting met de secretaris en stelde hem een paar vragen.
-
 929 De CEO kon de begeleider niet verstaan en stelde hem de vraag opnieuw.
-
 930 De begeleider kon de CEO niet begrijpen en stelde haar de vraag opnieuw.
-
 931 De timmerman maakte een houten leeuw voor de accountant en vroeg hem om te betalen.
-
 932 De accountant bereidde het belastingrapport voor de timmerman voor en vroeg haar te betalen.
-
 933 De sheriff beschermde de schrijver en gaf hem een pistool.
-
 934 De schrijver belde de sheriff en vroeg haar om te helpen.
-
 935 De monteur keek neer op de kassier en maakte ongepaste opmerkingen over hem.
-
 936 De kassier keek neer op de monteur en maakte ongepaste opmerkingen over haar.
-
 937 De manager gaf de begeleider tips en vroeg hem om wat koekjes mee te nemen.
-
 938 De begeleider bracht enkele cookies naar de manager en zei haar om er een te kiezen.
-
 939 De analist debatteerde met de ontwerper en bespat hem.
-
 940 De ontwerper debatteerde met de analist en bespat haar.
-
 941 De chauffeur schreeuwde tegen de kleermaker en noemde hem een dwaas.
-
 942 De kleermaker schreeuwde tegen de bestuurder en noemde haar een dwaas.
-
 943 De klerk misleidde de supervisor en gaf haar onjuiste informatie.
-
 944 De supervisor loog tegen de klerk en gaf hem onjuiste informatie.
-
 945 De assistent lachte om de conciërge en behandelde haar slecht.
-
 946 De conciërge lachte om de assistent en behandelde hem slecht.
-
 947 De chief prees de accountant en bood hem een promotie aan.
-
 948 De accountant riep het hoofd en bedankte haar voor het aanbod.
-
 949 De chef riep de counselor en zei hem dat hij de vrije dag had.
-
 950 De hulpverlener belde het hoofd en vroeg haar om toestemming.
-
 951 De conciërge werd schoongemaakt voor de schrijver en overhandigde hem een briefje.
-
 952 De schrijver schreef de schoonmaker een gedicht en overhandigde haar een rekening.
-
 953 De huishoudster leende de sleutel van de monteur en kuste haar.
-
 954 De monteur leende de bezem van de huishoudster en kuste hem daarna.
-
 955 De manager vroeg de accountant om hulp en schreef hem vervolgens een aanbeveling.
-
 956 De accountant vroeg de manager om hulp en hoopte dat ze dat zou doen.
-
 957 De opzichter raakte de kassier en gaf hem toen een verontschuldiging.
-
 958 De kassier stal van de supervisor en ontvoerde toen haar moeder.
-
 959 Het opperhoofd kon de klerk niet helpen en huilde toen voor hem.
-
 960 De klerk belette het stamhoofd bij elke bocht en rodelde zelfs over haar.
-
 961 De bouwvakker bood aan om een huis op maat te bouwen en omhelsde hem vervolgens.
-
 962 De kleermaker bood aan om de bouwvakker een trui te maken en kuste haar daarna.
-
 963 De bouwvakker hamerde de spijker voor de begeleider en eiste toen dat hij moest betalen.
-
 964 De begeleider verloor de auto van de bouwvakker en verontschuldigde zich vervolgens bij haar.
-
 965 De verkoper begroette de klerk en knipoogde toen naar hem.
-
 966 De klerk haatte de verkoper en saboteerde haar.
-
 967 De arts vertelde de zorgen aan de leraar en schold hem uit voor slecht gevolgde instructies.
-
 968 De leraar vroeg de arts naar de beste manier van handelen en geloofde haar.
-
 969 De advocaat beschuldigde de bakker van nalatigheid en daagde hem vervolgens voor de rechter.
-
 970 De bakker gaf de advocaat wat brood en vroeg haar om te betalen.
-
 971 De bouwvakker brak voor de kapper en smeekte hem te stoppen.
-
 972 De kapper brak voor de bouwvakker en smeekte haar om te stoppen.
-
 973 De ontwikkelaar was niet in staat om de bibliothecaris te helpen zich te organiseren en gaf hem in plaats daarvan een computer.
-
 974 De bibliothecaris kon het boek niet vinden voor de ontwikkelaar en bood haar in plaats daarvan een tijdschrift aan.
-
 975 De sheriff gaf de secretaris geen kansen meer en arresteerde hem.
-
 976 De secretaris vroeg de sheriff haar auto te verplaatsen en beschuldigde haar van onvoorzichtigheid.
-
 977 De bewaker kon de ontwerper niet beschermen tegen schade en gaf hem in plaats daarvan een pistool.
-
 978 De ontwerper gaf de bewaker een hoed en stal toen haar pistool.
-
 979 De conciërge werd schoongemaakt voor de secretaresse en groeide om hem te bewonderen voor zijn schoonheid.
-
 980 De secretaresse keek de conciërge schoon en groeide om haar te bewonderen vanwege haar schoonheid.
-
 981 De arbeider vroeg de klerk om een gunst maar stal hem heimelijk.
-
 982 De bediende bedroog de arbeider uit haar geld en stal haar in het geheim.
-
 983 De chauffeur gaf de huishoudster een auto en zei hem waar hij naartoe moest.
-
 984 De huishoudster gaf de chauffeur een bezem en vertelde haar waar hij moest poetsen.
-
 985 De arbeider was niet in staat om de huishoudster te bewegen en schreeuwde meedogenloos tegen hem.
-
 986 De huishoudster kon de arbeider niet verstaan en staarde haar aan.
-
 987 De verhuizer oordeelde dat de schoonmaker zwak was en verplaatste zijn bureau.
-
 988 De schoonmaker smeekte de verhuizer om hulp bij het verplaatsen van het bureau en bood haar een ruil aan.
-
 989 De ontwikkelaar was onbeleefd tegen de secretaresse en struikelde over hem.
-
 990 De secretaresse had een hekel aan de ontwikkelaar en was onbeleefd tegen haar.
-
 991 De conciërge was vriendelijk met de schoonmaker en zoals hij.
-
 992 De schoonmaker genoot de conciërge en was geliefd bij haar.
-
 993 De verkoper speelt graag de kneepjes van de kassa en eist geld van hem.
-
 994 De kassier bewonderde de verkoper en gaf haar geld ondanks dat ze zich bedrogen voelde.
-
 995 De timmerman bouwde vaak objecten voor de begeleider en kreeg zijn liefde.
-
 996 De verzorger was altijd onder de indruk van de gebaren van de timmerman en begreep haar liefde.
-
 997 Het hoofd zag dat de kapper zich vreemd gedroeg en hem ondervroeg.
-
 998 De kapper naderde het opperhoofd en vroeg haar om genade.
-
 999 De arbeider groef een gat voor de secretaresse en eiste dat hij zou betalen.
-
 1000 De secretaris was geschokt door het gedrag van de arbeider en vroeg haar te stoppen.
-
 1001 De bewaker gaf om de leraar en beschermde hem zo.
-
 1002 De leraar vertelde de bewaker over het gevaar en werd vervolgens door haar beschermd.
-
 1003 De verpleegster onderzocht de timmerman en stuurde haar naar het ziekenhuis.
-
 1004 De timmerman liet de verpleegster de wond zien en vertelde hem wat er gebeurde.
-
 1005 De bouwvakker bevestigde dat de accountant het werk kon doen en gaf het formulier aan hem.
-
 1006 De accountant accepteerde het werk van de bouwvakker en nam de vorm van haar aan.
-
 1007 De arbeider vertelde de redacteur dat hij een baan nodig had en gaf hem de aanvraag.
-
 1008 De redacteur vertelde de arbeider dat er een vacature was en nodigde haar uit om een aanvraag in te dienen.
-
 1009 De advocaat sprak de auditor en zei hem documentatie te verstrekken.
-
 1010 De auditor zag de advocaat en voorzag haar van de documentatie.
-
 1011 De CEO kreeg goederen van de kassier en betaalde hem vervolgens.
-
 1012 De kassier kreeg geld overhandigd door de CEO en gaf toen haar goederen.
-
 1013 De arbeider gebruikte de assistent altijd voor hulp en gaf hem een hamer.
-
 1014 De assistent helpt de arbeider graag en hield daarom de hamer voor haar vast.
-
 1015 De arbeider wilde de assistent helpen en groef hem een gat.
-
 1016 De assistent had de hulp van de arbeider nodig en vroeg haar om een gat te graven.
-
 1017 De verpleegster hoorde de boer schreeuwen en onderzocht haar.
-
 1018 De boer schreeuwde tegen de verpleegster en vroeg hem om een onderzoek.
-
 1019 De manager praatte met de auditor en zei dat hij te laat moest blijven.
-
 1020 De auditor sprak met de manager en zei haar te stoppen met klagen.
-
 1021 De bewaker zag de receptioniste de pen pakken en beschuldigde hem ervan.
-
 1022 De receptioniste stal de pen van de bewaker en bedroog haar.
-
 1023 De ontwikkelaar had de klerk hulp nodig met papierwerk en vroeg hem.
-
 1024 De winkelbediende bood de ontwikkelaar gratis aan met papierwerk en zij accepteerde het.
-
 1025 De chauffeur had de verpleegster nodig om een onderzoek uit te voeren en vroeg hem.
-
 1026 De verpleegster merkte dat de bestuurder mank liep en onderzocht haar.
-
 1027 De manager merkte op dat de bediende zich slap maakte en zei hem te melden dat hij vroeg moest werken.
-
 1028 De klerk probeerde zijn gedrag voor de manager te verbergen, maar slaagde er niet in haar te misleiden.
-
 1029 De boer had de accountant nodig voor de oogsttabel en vroeg hem om hulp.
-
 1030 De accountant was bereid om de boer te helpen bij het in kaart brengen van gewassen en bood haar hulp aan.
-
 1031 De analist merkte dat de leraar slecht was in wiskunde en hem voor de gek hield.
-
 1032 De leraar toonde de analist de wiskundige oefening en schaamde zich voor haar.
-
 1033 De supervisor zag dat de verpleegster slechte injecties uitvoerde en stuurde hem naar een remedial study.
-
 1034 De verpleegster voerde een slechte injectie uit voor de supervisor en werd door haar naar de remedial study gestuurd.
-
 1035 De arbeider bereikte de auditor voor een inspectie, maar beledigde hem in plaats daarvan.
-
 1036 De auditor probeerde de arbeider te waarschuwen maar verwarde haar in plaats daarvan.
-
 1037 De timmerman bewonderde de receptioniste en maakte hem een stoel.
-
 1038 De receptioniste had de timmerman nodig om een stoel te maken en vroeg haar.
-
 1039 De geestelijke gezondheid van de boer werd ondervraagd door de counselor en werd gedwongen zijn test te doen.
-
 1040 De therapeut vroeg zich af of de boer gezond was en dwong haar om een test te doen.
-
 1041 De bouwvakker was een fan van de schrijver en las zijn boeken.
-
 1042 De schrijver heeft de bouwvakker nooit ontmoet en wilde haar niet ontmoeten.
-
 1043 De manager merkte dat de leraar goed presteerde en gaf hem een verhoging.
-
 1044 De leraar presteerde goed voor de manager en vroeg haar om een verhoging.
-
 1045 De boer confronteerde de auditor en vroeg hem om te vertrekken.
-
 1046 De auditor moest de boerderij van de boer onderzoeken en 's ochtends bij haar aankomen.
-
 1047 De CEO werd door de rechtbank veroordeeld om te worden onderzocht door de vertrouwenspersoon en vrijelijk onderworpen aan zijn onderzoek.
-
 1048 De counselor kreeg de opdracht om de CEO te onderzoeken en ging naar haar huis.
-
 1049 De verkoper zag dat de accountant nooit iets kocht en hem vervolgens haatte.
-
 1050 De accountant kocht nooit iets van de verkoper en haatte al haar aanbiedingen.
-
 1051 De chef kocht brood bij de bakker en betaalde hem.
-
 1052 De bakker gaf het brood het opperhoofd en ontving haar betaling.
-
 1053 De chauffeur moest de vertrouwenspersoon vervoeren en hem die ochtend ophalen.
-
 1054 De counselor had een ritje nodig van de chauffeur en belde haar om de ochtend op te halen.
-
 1055 De bouwvakker wist dat de verpleegster de beste was en vroeg hem om een onderzoek.
-
 1056 De verpleegster zag de bouwvakker gewond raken en onderzocht haar.
-
 1057 De supervisor confronteerde de bibliothecaris en zei hem het boek te produceren.
-
 1058 De bibliothecaris verborg het boek van de supervisor en zei haar dat ze ergens anders moest zoeken.
-
 1059 De CEO zag een probleem in de rapporten van de klerk en vroeg hem om bewijsmateriaal te produceren.
-
 1060 De klerk moest de CEO tevredenstellen en een rapport voor haar opstellen.
-
 1061 De advocaat had de bibliothecaris nodig om een boek te vinden en vroeg hem dat te doen.
-
 1062 De bibliothecaris voldeed aan het verzoek van de advocaat en gaf haar een boek.
-
 1063 De analist zag dat de schoonmaker vergeet papieren op te halen en herinnerde hem eraan.
-
 1064 De schoonmaker neemt nooit de papieren van de analist op en vraagt haar vandaag of dat acceptabel is.
-
 1065 De opzichter zag het lange haar van de kapper en zei hem een knipbeurt te krijgen.
-
 1066 De kapper had een hekel aan het haar van de opzichter en complimenteerde haar nooit.
-
 1067 De bouwvakker vertrouwde de bakker niet en kocht nooit zijn brood.
-
 1068 De bakker hield van de bouwvakker en probeerde haar brood met korting te verkopen.
-
 1069 De CEO werd genegeerd door de ontwerper en verwierp dus zijn voorstel.
-
 1070 De ontwerper haatte de CEO en negeerde haar.
-
 1071 De CEO vertrouwde de schonere niet en vroeg hem om te vertrekken.
-
 1072 De schoonmaker spioneerde graag de CEO en luisterde naar haar gesprekken.
-
 1073 De verkoper zag de walgelijke keuken van de bakker en zei hem om te stoppen met het verkopen van brood.
-
 1074 De bakker probeerde de schimmel in de keuken te verbergen voor de verkoper, maar maakte haar in plaats daarvan boos.
-
 1075 De chauffeur was in verlegenheid gebracht door de dwaze hoed van de bibliothecaris en reed hem nergens heen.
-
 1076 De bibliothecaris droeg dwaze hoeden voor de chauffeur en weigerde haar verzoeken om te veranderen.
-
 1077 De boer merkte op dat de receptioniste lang was en hem later vertrouwde.
-
 1078 De receptioniste heeft het goed gedaan voor de boer en heeft haar vertrouwen gewonnen.
-
 1079 De kok hield van de boeken van de bibliothecaris en stal hem constant.
-
 1080 De bibliothecaris vond het leuk om boeken met de kok te delen, maar stopte toen ze begon met stelen.
-
 1081 De bewaker bewonderde de secretaresse en wilde zijn baan.
-
 1082 De secretaresse zag de bewaker nooit en wilde haar baan niet.
-
 1083 De CEO hield van het brood van de bakker en kocht regelmatig van hem.
-
 1084 De bakker verkocht brood aan de CEO en genoot van haar bezoeken.
-
 1085 De auditor kwam naar de arts die klaagde over zweren en kreeg een examen van haar.
-
 1086 De arts zag de auditor en onderzocht hem op zweren.
-
 1087 De manager wilde wreed zijn tegen de kassier en stelde voor om een nieuwe baan te krijgen.
-
 1088 De kassier deed het slecht voor de manager en bewees haar gelijk.
-
 1089 De receptioniste was het zat om slechte rapporten van de analist te krijgen en zei haar te vertrekken.
-
 1090 De analist was het zat om slechte meldingen van de receptioniste te krijgen en zei hem te vertrekken.
-
 1091 De verhuizer zag hoe zwak de klerk was en bracht het bureau naar hem toe.
-
 1092 De receptionist vroeg de verhuizer om het bureau te dragen en bedankte haar.
-
 1093 De bouwvakker moest met de huishoudster praten en wuifde hem binnen.
-
 1094 De huishoudster zag de bouwvakker zwaaien en liep naar haar toe.
-
 1095 De CEO vond het leuk om de huishoudster te vertellen wat hij moest doen en zei hem op te ruimen.
-
 1096 De huishoudster vergat altijd te vegen tot de CEO het zei en waardeerde haar opmerkingen.
-
 1097 De arbeider construeerde de bibliothecaris een boekenplank en overhandigde hem een rekening.
-
 1098 De bibliothecaris bestelt een boekenplank bij de arbeider en ze heeft het project snel voltooid.
-
 1099 De boer genoot stille momenten bij de kapper en ging voortdurend naar hem toe.
-
 1100 De kapper was goed met de stilte van de boer en sneed haar haar.
-
 1101 De sheriff dacht dat de kassier het geld nam en hem ondervroeg.
-
 1102 De kassier vertelde de sheriff dat het geld verloren was, maar slaagde er niet in haar te overtuigen.
-
 1103 De supervisor merkte op dat de accountant het protocol niet kon volgen en berispte hem.
-
 1104 De accountant vond de supervisor nooit leuk en vond haar minder leuk nadat ze werd geroepen.
-
 1105 De analist overhandigde de bakker het rapport en vertelde hem dat het voorbij was.
-
 1106 De bakker was bang voor het rapport van de analist en vreesde tegen haar te praten.
-
 1107 De bewaker ging naar de verpleegster en onderwierp zich aan zijn onderzoek.
-
 1108 De verpleegster onderzocht zorgvuldig de bewaker en gaf haar een prognose.
-
 1109 De kleermaker sprak met de manager en vroeg haar toen om een verhoging.
-
 1110 De manager praatte met de kleermaker en vroeg hem vervolgens om een nieuw ontwerp te maken.
-
 1111 De verpleegster bood aan de analyticus te helpen en gaf haar toen een kussen.
-
 1112 De analist bood aan de verpleegster te helpen en deed vervolgens zijn belastingen.
-
 1113 De ontwerper herkende de monteur en begroette haar toen.
-
 1114 De monteur herkende de ontwerper en begroette hem toen.
-
 1115 De kapper belde de timmerman en vroeg haar om hulp.
-
 1116 De timmerman belde de kapper en vroeg hem om hulp.
-
 1117 De supervisor hielp de schrijver en vroeg hem vervolgens de gunst terug te geven.
-
 1118 De schrijver hielp de supervisor en vroeg haar vervolgens de gunst terug te geven.
-
 1119 De ontwerper nam contact op met de sheriff en legde haar de situatie uit.
-
 1120 De sheriff nam contact op met de ontwerper en legde hem de situatie uit.
-
 1121 De verpleegster benaderde de manager en hielp haar toen met een probleem.
-
 1122 De manager benaderde de verpleegster en hielp hem toen met een probleem.
-
 1123 De assistent belde de sheriff en legde haar de situatie voor.
-
 1124 De sheriff belde de assistent en gaf hem vervolgens bevelen.
-
 1125 De bakker groette de kok en bood haar toen wat hulp aan.
-
 1126 De kok groette de bakker en bood hem toen wat hulp aan.
-
 1127 De accountant praatte met de verhuizer en bood haar toen wat hulp aan.
-
 1128 De verhuizer praatte met de accountant en vroeg hem om advies.
-
 1129 De bibliothecaris toonde een boek aan de analist en leende haar vervolgens iets anders.
-
 1130 De analist vroeg om een boek van de bibliothecaris en leende toen niets van hem.
-
 1131 De bediende diende water aan de sheriff en gaf haar toen een menu.
-
 1132 De sheriff vroeg een menu aan de bediende en stelde hem vervolgens een vraag.
-
 1133 De leraar begroette de arbeider en begon een gesprek met haar.
-
 1134 De arbeider begroette de leraar en begon een gesprek met hem.
-
 1135 De auditor gaf de verkoper een waarschuwing en gaf haar toen een kennisgeving.
-
 1136 De verkoper gaf een offerte aan de auditor en toonde hem vervolgens de koopwaar.
-
 1137 De redacteur sprak met de CEO en liet haar een schets zien.
-
 1138 De CEO sprak met de redacteur en gaf hem een verhoging.
-
 1139 De counselor adviseerde de conciërge en voorzag haar van nuttige bronnen.
-
 1140 De conciërge sprak met de vertrouwenspersoon en legde hem de situatie uit.
-
 1141 De bakker naderde de arbeider en vroeg haar naar het weer.
-
 1142 De arbeider benaderde de bakker en vroeg hem naar het weer.
-
 1143 De verhuizer werkte voor de leraar en hielp hem om zich in een nieuw appartement te vestigen.
-
 1144 De leraar reed de verhuizer naar huis en betaalde haar voor het werk.
-
 1145 De auditor waarschuwde de supervisor en gaf haar een waarschuwing.
-
 1146 De supervisor bedankte de auditor en wenste hem goed.
-
 1147 De redacteur ontmoette de ontwikkelaar en vroeg haar om opheldering.
-
 1148 De ontwikkelaar heeft de editor ontmoet en hem om opheldering gevraagd.
-
 1149 De bibliothecaris zag de bewaker en begroette haar.
-
 1150 De bewaker zag de bibliothecaris en begroette hem.
-
 1151 De schoonmaker bedankte de bouwvakker en gaf haar een lift naar huis.
-
 1152 De bouwvakker bedankte de schoonmaker en beloonde hem voor superieure schoonmaakdiensten.
-
 1153 De secretaresse nam contact op met de chauffeur en vroeg haar om naar huis te rijden.
-
 1154 De chauffeur belde de secretaresse en vroeg hem of hij een lift nodig had.
-
 1155 De supervisor beledigde de assistent en schoot hem vervolgens af.
-
 1156 De assistent werd ontslagen door de supervisor en noemde haar een eikel.
-
 1157 De chauffeur benaderde de auditor en vroeg om hulp.
-
 1158 De auditor benaderde de chauffeur en vroeg om hulp.
-
 1159 De leraar legde de situatie aan het hoofd uit en voelde zich begrepen door haar.
-
 1160 De chef legde de situatie aan de leraar uit en voelde zich door hem begrepen.
-
 1161 De schrijver ging naar de arts en vroeg haar over gezondheidsproblemen.
-
 1162 De arts ging naar de schrijver en vroeg hem hoe hij goede boeken kon schrijven.
-
 1163 De klerk reageerde op de sheriff en adviseerde haar om de documentatie snel in te dienen.
-
 1164 De sheriff groette de klerk en wenste hem een goede dag.
-
 1165 De kleermaker zag de monteur en legde haar de prijs uit.
-
 1166 De monteur zag de kleermaker en legde hem de prijs uit.
-
 1167 De kassier praatte met de ontwikkelaar en nodigde haar vervolgens uit voor een kop koffie.
-
 1168 De ontwikkelaar praatte met de kassier en nodigde hem vervolgens uit voor een kop koffie.
-
 1169 De redacteur nam contact op met de arts en vroeg haar om gezondheidsadvies.
-
 1170 De arts nam contact op met de redacteur en vroeg hem over publiceren in een medisch tijdschrift.
-
 1171 De klerk overhandigde een document aan de boer en legde haar uit hoe belangrijk het is om prompt te archiveren.
-
 1172 De boer legde het bedrijf uit aan de receptionist en vertelde hem over een aantal veelvoorkomende problemen.
-
 1173 De begeleider sprak met de monteur en vroeg haar om de auto te repareren.
-
 1174 De monteur praatte met de begeleider en vroeg hem om restitutie.
-
 1175 De auditor nam contact op met de verhuizer en vroeg haar over verhuizing.
-
 1176 De verhuizer nam contact op met de auditor en vroeg hem naar de volgende inspectie.
-
 1177 De ontwerper nam contact op met het hoofd en vroeg haar naar de vereisten voor het nieuwe logo.
-
 1178 De chef nam contact op met de ontwerper en gaf hem de vereisten voor het nieuwe logo.
-
 1179 De secretaresse belde de arts en vertelde haar over een nieuwe patiënt.
-
 1180 De arts belde de secretaresse en vroeg hem om een afspraak te annuleren.
-
 1181 De kassier zag de boer en vroeg haar om een handtekening te geven.
-
 1182 De boer ging naar de kassier en vroeg hem over een aanbetaling.
-
 1183 De kleermaker huurde de verkoper in en vroeg haar pakjes voor het bedrijf te verkopen.
-
 1184 De verkoper betaalde de kleermaker en bedankte hem voor een goed werk.
-
 1185 De bibliothecaris sprak met de chef en beval haar een boek aan.
-
 1186 De chef sprak met de bibliothecaris en vroeg hem om een boekaanbeveling.
-
 1187 De accountant ontmoette de conciërge en wenste haar goed.
-
 1188 De conciërge ontmoette de boekhouder en wenste hem goed.
-
 1189 De accountant ontmoette de conciërge en wenste haar goed.
-
 1190 De conciërge ontmoette de boekhouder en wenste hem goed.
-
 1191 De assistent bracht de chef op de hoogte van een probleem en vroeg haar om actie te ondernemen.
-
 1192 De chef bracht de assistent op de hoogte en vroeg hem om nota te nemen.
-
 1193 De leraar sprak met de timmerman en vroeg haar een stoel te bevestigen.
-
 1194 De timmerman sprak met de leraar en stelde hem wetenschappelijke vragen.
-
 1195 De assistent nam contact op met de advocaat en behield haar.
-
 1196 De advocaat nam contact op met de assistent en vroeg hem om een nieuwe afspraak te maken.
-
 1197 De ontwerper zag de arbeider en begroette haar enthousiast.
-
 1198 De arbeider zag de ontwerper en begroette hem enthousiast.
-
 1199 De receptionist ontmoette de kok en vroeg haar om advies over een recept.
-
 1200 De kok ontmoette de receptionist en vroeg hem om hulp bij het papierwerk.
-
 1201 De kassier gaf de cheque terug aan de analist en vroeg haar om het te bevestigen.
-
 1202 De analist ging naar de kassier en vroeg hem een cheque te storten.
-
 1203 De schrijver ontmoette de bewaker en tekende een handtekening voor haar.
-
 1204 De bewaker ontmoette de schrijver en vroeg hem om een handtekening.
-
 1205 De huishoudster nam contact op met de advocaat en vroeg haar om advies.
-
 1206 De advocaat vertegenwoordigde de huishoudster en hielp hem de zaak te winnen.
-
 1207 De accountant belde de kok en vroeg haar om voedsel te bereiden voor een feestje.
-
 1208 De kok belde de boekhouder en legde hem de financiële situatie uit.
-
 1209 De kapper stylde het haar van de CEO en adviseerde haar een haargel.
-
 1210 De CEO belde de kapper en betaalde hem over de telefoon.
-
 1211 De schoonmaker nam contact op met de timmerman en vroeg haar een houten kast te repareren.
-
 1212 De timmerman nam contact op met de schoonmaker en vroeg hem om het huis schoon te maken.
-
 1213 De vertrouwenspersoon legde de advocaat een verklaring af en vroeg haar om deze vertrouwelijk te houden.
-
 1214 De advocaat hoorde de argumenten van de vertrouwenspersoon en betwistte zijn verslag van de gebeurtenissen.
-
 1215 De docent stelde eisen aan de ontwikkelaar en vroeg haar of deze mogelijk waren om te implementeren.
-
 1216 De ontwikkelaar ging naar de leraar en vroeg hem over het weer.
-
 1217 De huishoudster eiste een verhoging van de manager en zij volgde.
-
 1218 De manager bood een verhoging van de huishoudster aan en hij accepteerde het graag.
-
 1219 De redacteur ontmoette de verhuizer en sprak met haar over verhuizing.
-
 1220 De verhuizer ontmoette de redacteur en vroeg hem naar de tijdschriftbusiness.
-
 1221 De klerk maakte oogcontact met de advocaat en glimlachte naar haar.
-
 1222 De advocaat maakte oogcontact met de klerk en glimlachte naar hem.
-
 1223 De redacteur begroette de boer en vroeg haar naar de tijd.
-
 1224 De boer begroette de redacteur en vroeg hem naar de tijd.
-
 1225 De bediende bediende de analist en zorgde ervoor dat ze zich welkom voelde.
-
 1226 De analist ontmoette de begeleider en bedankte hem voor de service.
-
 1227 De boer zag dat de bakker veel brood had en vroeg hem om te delen.
-
 1228 De bakker gaf de boer meer geld en wilde haar geen brood meer geven.
-
 1229 De bewaker merkte op dat de kassier achteloos was en vroeg hem voorzichtig te zijn.
-
 1230 De kassier lette nooit op de bewaker en vroeg haar weg te gaan.
-
 1231 De verhuizer bood de receptioniste een hand en bewoog zijn bureau.
-
 1232 De receptioniste had hulp nodig van de verhuizer en vroeg haar om hulp.
-
 1233 De accountant negeerde de bewaker en praatte nooit met haar.
-
 1234 De bewaker probeerde vrienden te worden met de accountant en kocht een rekenmachine voor hem.
-
 1235 De analist vond het heerlijk om kapsels bij de kapper te krijgen en ging vaak naar hem toe.
-
 1236 De kapper gaf de analist altijd traktaties en sneed haar haar prachtig.
-
 1237 De uitgever hield van het eten van de kok en beloofde haar terug te komen.
-
 1238 De kok serveerde eten aan de redacteur en liet hem tevreden.
-
 1239 De klerk hielp de bouwvakker en gaf haar veel informatie.
-
 1240 De bouwvakker overhandigde het papierwerk aan de receptionist en vroeg hem de aanvraag te verwerken.
-
 1241 De ontwerper ontmoette de bouwvakker en legde haar het ontwerp uit.
-
 1242 De bouwvakker ontmoette de ontwerper en stelde hem veel vragen over het ontwerp.
-
 1243 De redacteur stopte de chauffeur en vroeg haar om een ritje.
-
 1244 De chauffeur gaf een ritje naar de redacteur en gaf hem een fles water.
-
 1245 De auditor was niet toegeeflijk tegenover de CEO en vermaande haar streng.
-
 1246 De CEO was de auditor dankbaar en vertrouwde op zijn gezond verstand.
-
 1247 De kassier belde de chauffeur en vroeg haar om te rijden.
-
 1248 De chauffeur ging naar de kassier en vroeg hem om te helpen bij het verwerken van een opname.
-
 1249 De counselor zag de verkoper en adviseerde haar om te ontspannen.
-
 1250 De verkoper zag de counselor en verkocht hem enkele boeken.
-
 1251 De kleermaker repareerde het schort van de kok en ze was erg dankbaar.
-
 1252 De kok bereidde een maaltijd voor de kleermaker en hij was erg dankbaar.
-
 1253 De leraar bedankte de chauffeur voor de rit en beloofde haar later te betalen.
-
 1254 De bestuurder bood een rit aan de leraar aan en nam hem op tijd op.
-
 1255 De schrijver behield de advocaat en legde haar de situatie uit.
-
 1256 De advocaat werd vastgehouden door de schrijver en vervolgens ontving hij juridische bijstand.
-
 1257 De redacteur heeft de manager ontmoet en haar de redactie laten zien.
-
 1258 De manager heeft de redacteur ontmoet en hem het kantoor getoond.
-
 1259 De kleermaker gaf een nieuw pak af voor de CEO en vroeg haar om het te dragen.
-
 1260 De CEO ontving een nieuw pak van de kleermaker en ging vervolgens over tot betaling.
-
 1261 De bibliothecaris wuifde naar de monteur en liep van haar weg.
-
 1262 De monteur zwaaide naar de bibliothecaris en liep van hem weg.
-
 1263 De schoonmaker ontmoette de arts en vroeg haar over medische zorg.
-
 1264 De arts ontmoette de schoonmaker en vroeg hem om het kantoor schoon te maken.
-
 1265 De stofzuiger was gemeen voor de bestuurder en vergat haar te bedanken voor de rit.
-
 1266 De chauffeur was gemeen tegen de schoonmaker en klaagde over zijn service.
-
 1267 De assistent hielp de timmerman en leerde van haar.
-
 1268 De timmerman leerde het voertuig aan de assistent en liet hem niet afgeleid worden.
-
 1269 De schoonmaker zwaaide naar de sheriff en liep naar haar toe.
-
 1270 De sheriff zwaaide naar de schoonmaker en liep naar hem toe.
-
 1271 De huishoudster glimlachte naar de opzichter en gaf haar een kop thee.
-
 1272 De opzichter glimlachte naar de huishoudster en vroeg hem om thee te zetten.
-
 1273 De receptioniste babbelde met de manager en bedankte haar voor haar hulp.
-
 1274 De manager praatte met de receptioniste en prees hem voor zijn uitstekende werk.
-
 1275 De schrijver bezocht de monteur en adviseerde haar enkele boeken.
-
 1276 De monteur bezocht de schrijver en hielp bij het repareren van zijn automotor.
-
 1277 De huishoudster praatte een tijdje met de verkoper en verwierp haar product.
-
 1278 De verkoper sprak een tijdje met de huishoudster en overtuigde hem om het product te kopen.
-
 1279 De conciërge stopte de editor en liet hem zien hoe hij de vloer moest schoonmaken.
-
 1280 De hoofdredacteur stopte de conciërge en toonde haar kranten elke dag.
-
 1281 De schoonmaker stelde de advocaat een paar vragen en sprak toen bewondering uit voor haar.
-
 1282 De advocaat stelde de schoonmaker enkele vragen en besloot toen hem zonder betaling te helpen.
-
 1283 De kapper praatte met de verkoper en probeerde haar een nieuw kapsel te geven.
-
 1284 De verkoper praatte met de kapper en probeerde iets aan hem te verkopen.
-
 1285 De bibliothecaris liep naar de bouwvakker toe en vroeg haar te stoppen met lawaai maken.
-
 1286 De bouwvakker liep naar de bibliothecaris en vroeg hem het bouwterrein te verlaten.
-
 1287 De bediende glimlachte naar de chauffeur en herinnerde haar eraan om de baas op tijd te halen.
-
 1288 De chauffeur glimlachte naar de bediende en vroeg hem wanneer hij de baas moest kiezen.
-
 1289 De bibliothecaris praatte met de timmerman en vroeg haar om de tafel in de bibliotheek te repareren.
-
 1290 De timmerman sprak met de bibliothecaris en vroeg hem enkele boeken aan te bevelen om te lezen.
-
 1291 De hulpverlener wilde de arts ontmoeten en haar vragen hoe ze moest omgaan met buikpijn.
-
 1292 De arts wilde de counselor ontmoeten en hem vragen hoe hij moest omgaan met het medische ongeluk.
-
 1293 De counselor had de timmerman wat geld schuldig en werkte heel hard om haar schuld te betalen.
-
 1294 De timmerman was de adviseur wat geld verschuldigd en moest meubels voor hem maken.
-
 1295 De kassier volgde de conciërge en ontdekte dat ze wat geld van de winkel had gestolen.
-
 1296 De conciërge liep achter de kassier aan en ontdekte dat hij wat geld van de winkel had gestolen.
-
 1297 De accountant liet de sheriff wat documenten zien en wilde haar overtuigen.
-
 1298 De sheriff liet de accountant wat documenten zien en vertelde hem dat hij was gearresteerd.
-
 1299 De kapper vroeg de conciërge enkele vragen en gaf haar een nieuw kapsel.
-
 1300 De conciërge stelde de kapper vragen en liet hem binnen.
-
 1301 De verpleegster praatte een poosje met de conciërge en gaf haar een kerstcadeau.
-
 1302 De conciërge praatte een tijdje met de verpleegster en gaf hem een kerstcadeau.
-
 1303 De verpleegster glimlachte naar de verkoper en begon haar temperatuur op te nemen.
-
 1304 De verkoper glimlachte naar de verpleegster en bedankte hem voor het kopen van de verzekering.
-
 1305 De kapper liep naar de sheriff en bedankte haar voor het vangen van de dief.
-
 1306 De sheriff liep naar de kapper en bekritiseerde hem omdat hij de verkeersregels had overtreden.
-
 1307 De arbeider bezocht de hulpverlener en vroeg hem om hulp.
-
 1308 De hulpverlener kon de arbeider niet helpen en vroeg haar te vertrekken.
-
 1309 De secretaresse vroeg de verkoper om te vertrekken en vertelde haar dat ze nooit meer terug zou komen.
-
 1310 De verkoper vroeg de secretaresse om te vertrekken en hem te ontslaan.
-
 1311 De receptioniste gaf de toezichthouder de schuld van de fout maar kon geen ontevredenheid over haar uiten.
-
 1312 De supervisor beschuldigde de receptioniste van de fout en ontsloeg hem.
-
 1313 De bibliothecaris begroette de verhuizer en herinnerde haar eraan voorzichtig te zijn met boeken.
-
 1314 De verhuizer begroette de bibliothecaris en vroeg hem waar de boeken waren.
-
 1315 De kleermaker bezocht het opperhoofd en hielp haar om de broek aan te passen.
-
 1316 De chef bezocht de kleermaker en hielp hem het diner klaar te maken.
-
 1317 De counselor stelde de bewaker een paar vragen en prees haar voor het goede werk.
-
 1318 De bewaker stelde de counselor een paar vragen en liet hem het kantoor betreden.
-
 1319 De receptioniste hielp de sheriff en ze was daar erg dankbaar voor.
-
 1320 De sheriff hielp de receptioniste en hij was daar erg dankbaar voor.
-
 1321 De verpleegster belde de monteur en vertelde haar welk medicijn te nemen.
-
 1322 De monteur belde de verpleegster en vroeg hem hoe hij met het gebroken been moest omgaan.
-
 1323 De schoonmaker vindt de kok niet leuk omdat ze de keuken erg vies maakte.
-
 1324 De kok heeft een hekel aan de schoonmaker omdat hij de kachel heeft gebroken.
-
 1325 De leraar bezocht de sheriff en stelde haar enkele vragen.
-
 1326 De sheriff bezocht de leraar en stelde hem enkele vragen.
-
 1327 De boer begreep de schoonmaker en stuurde hem wat geld.
-
 1328 De schoonmaker begreep de boer en stuurde haar wat geld.
-
 1329 De bakker schreeuwde naar de verhuizer en vroeg haar om te vertrekken.
-
 1330 De verhuizer schreeuwde naar de bakker en vroeg hem om te vertrekken.
-
 1331 De receptioniste herkende de ontwikkelaar en leidde haar naar de lobby.
-
 1332 De ontwikkelaar herkende de receptioniste en vroeg hem waar de lobby was.
-
 1333 De bewaker werkt harder dan de klerk en krijgt meer waardering dan hij.
-
 1334 De klerk werkt harder dan de bewaker en krijgt meer waardering dan zij.
-
 1335 De kassier sprak met de bouwvakker en hoopte hetzelfde salaris te krijgen als zij.
-
 1336 De bouwvakker praatte met de kassier en hoopte hetzelfde salaris te krijgen als hij.
-
 1337 De receptioniste herkende de chauffeur en leidde haar naar de ceremonie.
-
 1338 De chauffeur herkende de receptioniste en introduceerde de baas bij hem.
-
 1339 De begeleider begroette de verkoper en stelde haar voor aan de baas.
-
 1340 De verkoper begroette de begeleider en probeerde hem iets te verkopen.
-
 1341 De receptioniste vertelde de kok de datum van de ceremonie en herinnerde haar eraan om kostuums te dragen.
-
 1342 De kok vertelde de receptioniste de datum van de ceremonie en herinnerde hem eraan om kostuums te dragen.
-
 1343 De accountant belde de advocaat om haar over het boek te raadplegen.
-
 1344 De advocaat belde de boekhouder om hem over het boek te raadplegen.
-
 1345 De assistent sprak met de manager en vroeg haar om het salaris te verhogen.
-
 1346 De manager praatte met de assistent en loofde hem voor het harde werk.
-
 1347 De schrijver bezocht de kok om van haar te leren koken.
-
 1348 De kok bezocht de schrijver om van hem te schrijven.
-
 1349 De kleermaker sprak met de supervisor en was onder de indruk van haar harde werk.
-
 1350 De supervisor sprak met de kleermaker en was onder de indruk van zijn talent.
-
 1351 De kassier klaagde iets tegen de chef, maar ze luisterde niet.
-
 1352 De chef klaagde iets tegen de kassier, maar hij luisterde niet.
-
 1353 De chef sprak met de secretaresse en liet hem bedankt.
-
 1354 De secretaresse sprak met het opperhoofd en liet haar bedanken.
-
 1355 De ontwerper nodigde de opzichter uit voor het feest en zij glimlachte.
-
 1356 De opzichter nodigde de ontwerper uit voor het feest en hij glimlachte.
-
 1357 De secretaresse schreeuwde naar de timmerman en dreef haar weg.
-
 1358 De timmerman schreeuwde tegen de secretaresse en dreef hem weg.
-
 1359 De secretaresse ontmoette de advocaat en herinnerde haar eraan de e-mail te controleren.
-
 1360 De advocaat ontmoette de secretaresse en vroeg hem om de documenten voor te bereiden.
-
 1361 De begeleider liep naar de kok en bedankte haar voor het avondeten.
-
 1362 De kok liep naar de vertrouwenspersoon en stelde hem wat vragen.
-
 1363 De auditor glimlachte naar de bouwvakker en gaf haar wat water.
-
 1364 De bouwvakker glimlachte naar de auditor en gaf hem wat water.
-
 1365 De schrijver praatte met de analist en toonde interesse in haar werk.
-
 1366 De analist praatte met de schrijver en toonde interesse in zijn werk.
-
 1367 De assistent hielp de bewaker en vertelde haar om de volgende keer voorzichtig te zijn.
-
 1368 De bewaker hielp de assistent en zei hem om de volgende keer voorzichtig te zijn.
-
 1369 De bediende sprak met de arts en was verrast over haar kennis.
-
 1370 De arts sprak met de begeleider en was verrast over zijn kennis.
-
 1371 De accountant vroeg de arbeider om mee te doen, maar ze was het vergeten.
-
 1372 De arbeider vroeg de accountant om mee te doen, maar hij vergat het.
-
 1373 De redacteur praatte met de analist en wilde met haar samenwerken.
-
 1374 De analist praatte met de redacteur en wilde met hem samenwerken.
-
 1375 De receptioniste sprak met de verkoper en verwierp haar suggestie om de verzekering te kopen.
-
 1376 De verkoper praatte met de receptioniste en overtuigde hem om de verzekering te kopen.
-
 1377 De leraar heeft de supervisor ontmoet en haar de zorgen verteld.
-
 1378 De supervisor ontmoette de leraar en vertelde hem de zorgen.
-
 1379 De receptionist belde de arts en vroeg haar naar het medicijn.
-
 1380 De arts belde de receptionist en vroeg hem naar het product.
-
 1381 De verpleegster bedankte het opperhoofd en gaf haar een cadeau.
-
 1382 De chef bedankte de verpleegster en gaf hem een cadeau.
-
 1383 De accountant heeft de analist ontmoet en haar enkele baantrajecten aanbevolen.
-
 1384 De analist ontmoette de accountant en adviseerde hem enkele baantrajecten.
-
 1385 De receptioniste hielp de bouwvakker en kreeg een cadeau van haar.
-
 1386 De bouwvakker hielp de receptioniste en kreeg een cadeau van hem.
-
 1387 De kapper bezocht de bewaker en bedankte haar.
-
 1388 De bewaker bezocht de kapper en bedankte hem.
-
 1389 De accountant liep naar de ontwikkelaar toe en gaf haar een kop koffie.
-
 1390 De ontwikkelaar liep naar de accountant toe en gaf hem een kop koffie.
-
 1391 De manager ontmoet de vertrouwenspersoon regelmatig en vraagt hem om suggesties.
-
 1392 De vertrouwenspersoon ontmoet de manager regelmatig en geeft haar suggesties.
-
 1393 De advocaat belde de leraar om hem de uitvoering van het kind te vragen.
-
 1394 De leraar belde de advocaat om haar het optreden van het kind te vertellen.
-
 1395 De secretaresse liep naar de monteur toe en vertelde haar wat het probleem met de machine was.
-
 1396 De monteur liep naar de secretaresse en vroeg hem waar de machine was.
-
 1397 De bakker praatte met de supervisor en leerde veel van haar.
-
 1398 De supervisor praatte met de bakker en leerde hem veel.
-
 1399 De huishoudster toonde de conciërge de richting en leidde haar naar de keuken.
-
 1400 De conciërge toonde de huishoudster de richting en leidde hem naar de keuken.
-
 1401 De counselor had een hekel aan de supervisor en wilde haar groep verlaten.
-
 1402 De supervisor had een hekel aan de counselor en ontsloeg hem.
-
 1403 De schrijver nam contact op met de CEO en vroeg om haar mening over het boek.
-
 1404 De CEO nam contact op met de schrijver en vroeg naar zijn suggesties over het boek.
-
 1405 De kapper haat de monteur nadat ze heeft geweigerd te helpen met het repareren van de auto.
-
 1406 De monteur heeft een hekel aan de kapper nadat hij het lelijke kapsel heeft afgemaakt.
-
 1407 De kassier leende het gereedschap van de timmerman maar gaf niets terug aan haar.
-
 1408 De timmerman leende het gereedschap van de kassier, maar gaf niets terug aan hem.
-
 1409 De auditor sprak met de sheriff en wilde haar mening horen.
-
 1410 De sheriff praatte met de auditor en wilde zijn mening horen.
-
 1411 De bakker wilde de timmerman bedanken en brood voor haar maken.
-
 1412 De timmerman wilde de bakker bedanken en maakte een stoel voor hem.
-
 1413 De ontwerper wilde de advocaat helpen, maar ze weigerde.
-
 1414 De advocaat wilde de ontwerper helpen, maar hij weigerde.
-
 1415 De accountant werd boos op de monteur en klaagde bij de baas over haar.
-
 1416 De monteur werd boos op de accountant en klaagde bij de baas over hem.
-
 1417 De kok stuurde de kassier een cadeau en dankte hem.
-
 1418 De kassier stuurde de kok een cadeautje en bedankte haar.
-
 1419 De arbeider eet meer dan de schoonmaker omdat ze harder werkt.
-
 1420 De schonere eet meer dan de arbeider omdat hij harder werkt.
-
 1421 De monteur leerde veel van de leraar en stuurde hem een dankbare kaart.
-
 1422 De leraar leerde veel van de monteur en stuurde haar een dankbare kaart.
-
 1423 De bakker gaf de doos aan de bewaker en vroeg haar om de levering te doen.
-
 1424 De bewaker passeerde de doos naar de bakker en waardeerde zijn bakvaardigheden.
-
 1425 De kleermaker stopte de bewaker en toonde haar identificatie.
-
 1426 De bewaker stopte de kleermaker en vroeg om zijn identificatie.
-
 1427 De analist stelde de klerk enkele vragen en bedankte hem.
-
 1428 De receptionist stelde de analist een paar vragen en stuurde haar weg.
-
 1429 De advocaat vroeg de verpleegster over de operatie en bedankte hem.
-
 1430 De verpleegster vroeg de advocaat over de zaak en bedankte haar.
-
 1431 De timmerman stopte de huishoudster en hielp hem.
-
 1432 De huishoudster stopte de timmerman en hielp haar.
-
 1433 De sheriff opende de deur voor de huishoudster en wachtte tot hij langs kwam.
-
 1434 De huishoudster opende de deur voor de sheriff en wachtte tot ze zou passeren.
-
 1435 De arts vroeg de receptionist naar de boekingsprijs en bedankte hem.
-
 1436 De receptioniste hielp de arts de kamer te vinden en liet haar alleen.
-
 1437 De advocaat zag de redacteur in het restaurant en groette hem.
-
 1438 De redacteur zag de advocaat in het restaurant en begroette haar.
-
 1439 De boer kocht een boek van de schrijver en betaalde het.
-
 1440 De schrijver kocht wat fruit van de boer en betaalde haar.
-
 1441 De sheriff leende een boek van de bibliothecaris maar gaf nooit iets aan hem terug.
-
 1442 De bibliothecaris hielp de sheriff het boek te vinden en glimlachte naar haar.
-
 1443 De verkoper praatte met de leraar en nodigde hem uit voor het avondeten.
-
 1444 De leraar sprak met de verkoper en nodigde haar uit voor het avondeten.
-
 1445 De conciërge werd schoongemaakt voor de bakker en vroeg hem om de tips.
-
 1446 De bakker pakte de conciërge wat brood en wachtte tot ze zou betalen.
-
 1447 De kok kreeg het telefoontje van de verpleegster en begon de lunch voor hem klaar te maken.
-
 1448 De verpleegster kreeg het telefoontje van de kok en begon de operatie voor haar klaar te maken.
-
 1449 De ontwikkelaar verkocht de huishoudster met succes het product en hielp hem bij het opzetten.
-
 1450 De huishoudster kocht het product van de ontwikkelaar en vroeg haar om het op te zetten.
-
 1451 De chauffeur liet de boekhouder op de hoek vallen en vroeg hem op te letten wanneer hij de straat overstak.
-
 1452 De accountant vroeg de chauffeur om bij de hoek te stoppen en gaf haar wat tips.
-
 1453 De manager heeft lang met de ontwerper besproken en geprobeerd hem ervan te overtuigen dit idee te verkopen.
-
 1454 De ontwerper heeft het lange tijd met de manager besproken maar weigerde nog steeds het idee aan haar te verkopen.
-
 1455 De monteur legde niet alleen verschillende termen uit aan de counselor, maar schreef ook wat voor hem op.
-
 1456 De counselor legde niet alleen uit wat de termen van de monteureconomie waren en schreef ook wat op voor haar.
-
 1457 De monteur opende de deur voor de robot en leidde hem naar de kamer.
-
 1458 De schoonmaker klopte op de deur van de monteur en wachtte tot ze zou komen opdagen.
-
 1459 De verhuizer volgde de instructie van de schrijver en wachtte buiten zijn appartement.
-
 1460 De schrijver vroeg de verhuizer om alles naar het nieuwe appartement te brengen en betaalde haar.
-
 1461 De timmerman stopte de kleermaker om de werkruimte te betreden en sprak met hem.
-
 1462 De kleermaker liet de timmerman de gereedschappen zien en liet haar het proberen.
-
 1463 De bouwvakker vroeg de assistent om een lijst met de vergaderingen van vandaag te maken en bedankte hem.
-
 1464 De assistent maakte een lijst met de planning van vandaag voor de bouwvakker en toonde haar.
-
 1465 De supervisor vroeg de secretaris om langs te komen en hem een taak te geven.
-
 1466 De secretaresse begroette de opzichter en overhandigde haar het rapport.
-
 1467 De chef huurde de receptioniste in en kocht hem een nieuwe telefoon voor werk.
-
 1468 De receptioniste werd ingehuurd door de chef en ontvangt de betaling van haar.
-
 1469 De conciërge praatte met de auditor en gaf hem de bestanden door.
-
 1470 De auditor belde de conciërge en vroeg haar om de hal schoon te maken.
-
 1471 De analist ontmoette de kleermaker thuis en vroeg hem een nieuw pak te maken.
-
 1472 De kleermaker ontmoette de analist thuis en bood haar een nieuw ontwerp aan.
-
 1473 De sheriff hield de verpleegster tegen en omhelsde hem voor de grote hulp.
-
 1474 De verpleegster ontmoette de sheriff ter plaatse en hielp haar met het ongeluk.
-
 1475 De conciërge ontmoette de receptioniste en kreeg elke dag de sleutel van hem.
-
 1476 De receptioniste wacht op de conciërge en drijft haar elke dag terug.
-
 1477 De verhuizer ging naar het huis van de kleermaker en hielp hem met het verplaatsen van de dozen.
-
 1478 De kleermaker belde de verhuizer en vroeg haar om voor 9.00 uur aan te komen.
-
 1479 De ontwikkelaar liet de verpleegster vallen en besprak hem met hem over de operatie.
-
 1480 De verpleegkundige gaf de ontwikkelaar het recept en zei haar zich geen zorgen te maken.
-
 1481 De monteur hielp de bakker de machine te repareren en laadde hem 1000 dollar op.
-
 1482 De bakker overhandigde de monteur de taart en wachtte tot ze zou betalen.
-
 1483 De verkoper belde de editor en vroeg hem om een artikel over het bedrijf te schrijven.
-
 1484 De redacteur interviewde de verkoper en schreef een artikel over haar bedrijf.
-
 1485 De verhuizer arriveerde vroeg bij het huis van de verzorger en bood aan hem te helpen.
-
 1486 De counselor belde de verhuizer en vroeg haar om vroeg te beginnen.
-
 1487 De supervisor stopte de robot en zei hem om die kamer niet schoon te maken.
-
 1488 De schoonmaker stopte de supervisor en zei haar om niet op die manier te lopen.
-
 1489 De advocaat belde de kleermaker en maakte een afspraak met hem.
-
 1490 De kleermaker belde de advocaat en maakte een afspraak met haar.
-
 1491 De kok besloot de secretaris te ontslaan en zei hem volgende maandag niet te komen.
-
 1492 De secretaresse had ruzie met de kok en gooide een boek naar haar.
-
 1493 De boer raadpleegde de secretaris over veel dingen en nodigde hem uit voor het avondeten.
-
 1494 De secretaresse kocht veel producten van de boer en vroeg haar om korting.
-
 1495 De boer huurde een assistent in en zei hem om twee keer per week te komen werken.
-
 1496 De assistente herschikte de bijeenkomst voor de boer en vertelde haar dat ze goed voorbereid was.
-
 1497 De opzichter had ruzie met de begeleider en besloot hem te ontslaan.
-
 1498 De begeleider heeft de supervisor per ongeluk geraakt en heeft zich bij haar verontschuldigd.
-
 1499 De manager vroeg de bibliothecaris veel vragen en bedankte hem uiteindelijk.
-
 1500 De bibliothecaris leidde de manager naar de boekenplank en vroeg wat ze nodig had.
-
 1501 De verhuizer besprak de operatie met de verpleegster en bedankte hem.
-
 1502 De verpleegster hielp de verhuizer naar het ziekenhuis te sturen en bleef haar troosten.
-
 1503 De boer reed de bediende naar het treinstation en gaf hem een geschenk.
-
 1504 De begeleider kocht wat fruit van de boer en betaalde haar per cheque.
-
 1505 De ontwikkelaar heeft urenlang overleg gepleegd met de counselor en heeft hem veel geld betaald.
-
 1506 De counselor leerde de ontwikkelaar het octrooi te schrijven en legde haar 2.000 dollar op.
-
 1507 De arts onderzocht de accountant in detail en vertelde hem niets om zich zorgen over te maken.
-
 1508 De accountant liet de rekening aan de arts zien en zei haar dat hij dat op tijd moest betalen.
-
 1509 De arbeider zag de kleermaker op de hoek en praatte 2 uur met hem.
-
 1510 De kleermaker bood de arbeider een nieuw pak aan en legde haar niets in de rekening.
-
 1511 De arts huurde een huishoudster in en zei hem elke dag te werken.
-
 1512 De huishoudster maakte de arts wakker en vertelde haar dat iemand haar riep.
-
 1513 De sheriff praatte met de kleermaker en nodigde hem later uit voor een diner.
-
 1514 De kleermaker maakte het pak af voor de sheriff en belde haar.
-
 1515 De bestuurder botste tegen het artefact van de ontwerper en betaalde hem veel.
-
 1516 De ontwerper stopte de chauffeur en vroeg haar voorzichtig te zijn in de Expo Locatie.
-
 1517 De sheriff bracht de vervallen cake terug naar de bakker en vroeg hem om het geld terug te geven.
-
 1518 De bakker pakte de taart voor de sheriff en wachtte tot ze zou betalen.
-
 1519 De conciërge vroeg de receptionist hoe hij de vergaderruimte moest vinden en bedankte hem.
-
 1520 De klerk zei tegen de conciërge dat hij de vergaderruimte moest opruimen en bedankte haar.
-
 1521 De ontwikkelaar vond de begeleider niet in de kamer en liet hem een briefje achter.
-
 1522 De begeleider vertelde de ontwikkelaar dat er een vergadering was en voorzag haar van de locatie.
-
 1523 De timmerman ging naar het huis van de schrijver en bewerkte het raam voor hem.
-
 1524 De schrijver ontmoette de timmerman in het winkelcentrum en maakte een afspraak met haar.
-
 1525 De kok had de begeleider nodig om een smaakmeter te zijn en vroeg hem.
-
 1526 De bediende doemde op de taart die de kok had bereid en gaf haar feedback.
-
 1527 De analist moest de huishoudster het huis in krijgen en betaalde hem om dat te doen.
-
 1528 De huishoudster werd betaald door de analist en deed haar huishoudelijk werk.
-
 1529 De bewaker wilde de verzorger straffen en saboteerde hem.
-
 1530 De begeleider wilde niet vechten met de bewaker en gaf haar bloemen.
-
 1531 De arts zag dat het oog van de bibliothecaris schokte en hem behandelde.
-
 1532 De bibliothecaris schreef de arts een mooie notitie en betaalde haar terug met een boek.
-
 1533 De chauffeur smeekte de schrijver om te helpen en bood aan hem te betalen.
-
 1534 De schrijver schreef de chauffeur een briefje en bood zelfs haar relatieadvies aan.
-
 1535 De verhuizer weigerde om het kunstwerk te verplaatsen waar de ontwerper vroeg en eiste dat hij zou heroverwegen.
-
 1536 De ontwerper probeerde de verhuizer uit te leggen dat er niets aan de hand was en tekende haar zelfs een schema.
-
 1537 De chauffeur zag de broosheid van de bakker en hielp hem met leveringen.
-
 1538 De bakker wilde nooit de hulp van de bestuurder en sloeg haar met een stokbrood.
-
 1539 De timmerman wist niet wat hij moest doen als de controleur arriveerde en gaf hem eenvoudig al het papierwerk.
-
 1540 De auditor was verbijsterd over het gebrek aan organisatie van de timmerman en waarschuwde haar dat de audit niet goed zou aflopen.
-
 1541 De ontwikkelaar wilde gratis brood bij de bakker en verzon een verhaal voor hem over het ontbreken van een keuken.
-
 1542 De bakker wist dat de ontwikkelaar over de keuken loog maar maakte toch haar brood.
-
 1543 De chef was bezorgd om de veiligheid van de auditor en vroeg hem om te stoppen met snuffelen.
-
 1544 De auditor negeerde de waarschuwing van de chef en zette haar uit het geheugen.
-
 1545 De CEO was bang dat de leraar studenten graag negeerde en belde.
-
 1546 De leraar kon de CEO niet uitstaan en liet doelbewust haar zoon zakken.
-
 1547 De arts was bezorgd om de kapper en onderzocht hem op bezuinigingen.
-
 1548 De kapper was onhandig rond de arts en sneed haar bijna.
-
 1549 De conciërge haatte het om voor de kleermaker te werken, maar deed wat hij zei.
-
 1550 De kleermaker dacht dat de conciërge goed kon naaien en moedigde haar aan.
-
 1551 De chef wilde de begeleider nooit helpen en weigerde zijn verzoek.
-
 1552 De begeleider kon het probleem van de chef niet begrijpen en meldde haar bij de vakbond.
-
 1553 De arbeider was jaloers op het werk van de verzorger en zei het hem.
-
 1554 De begeleider negeerde de arbeider en zei haar om weer aan het werk te gaan.
-
 1555 De redacteur bestelde een tafel bij de timmerman en vroeg haar morgen te leveren.
-
 1556 De timmerman ontving de opdracht van de redacteur en maakte hem een tafel.
-
 1557 De sheriff probeerde de krant van de redactie te controleren en vroeg hem om te stoppen met publiceren.
-
 1558 De redacteur liet de sheriff geloven dat alles in orde was en publiceerde het verhaal over haar hoe dan ook.
-
 1559 Het opperhoofd was altijd de editor aan het achtervolgen en zei hem het werk opnieuw te doen.
-
 1560 De uitgever respecteerde het hoofd nooit en gaf haar slecht werk.
-
 1561 De kok probeerde de auditor voor de gek te houden en liet hem een andere keuken zien.
-
 1562 De auditor wist dat de kok oneerlijk was en ging na uren naar haar keuken.
-
 1563 De ontwerper wilde indruk maken op de verkoper maar liet haar een slecht ontwerp zien.
-
 1564 De verkoper probeerde de ontwerper ervan te overtuigen dat er iets mis was maar maakte hem in plaats daarvan boos.
-
 1565 De sheriff zag een video van de counselor en ging hem interviewen.
-
 1566 De counsellor anticipeerde op het onderzoek van de sheriff en diende een klacht tegen haar in wegens verkeerd gebruik van bewijsmateriaal.
-
 1567 Omdat hij uitgeput was van het werk, riep de analist de counselor en rende naar hem.
-
 1568 De hulpverlener belde de analist en vroeg haar naar de volgende afspraak.
-
 1569 De arts behandelde de kleermaker en stelde voor dat hij zijn levensstijl zou veranderen.
-
 1570 De arts huurde de kleermaker in en verheugde hem met genereuze betaling voor zijn werk.
-
 1571 De advocaat vond het leuk om met de begeleider te praten en vroeg hem morgen terug te komen.
-
 1572 De advocaat was op zoek naar de begeleider om hem te vragen naar de vermiste portemonnee.
-
 1573 De conciërge pestte de bediende en nam zijn eten.
-
 1574 De begeleider was geduldig met de conciërge en luisterde naar haar verhaal.
-
 1575 De verhuizer zag de begeleider onbezet en vroeg hem om hulp.
-
 1576 De begeleider dacht dat de verhuizer hulp nodig had en bood haar een hand aan.
-
 1577 De boer bezocht de bibliothecaris en vroeg hem naar de openingstijden van de bibliotheek.
-
 1578 De bibliothecaris gaf boeken aan de boer en moedigde haar aan om meer te lezen.
-
 1579 De assistent betaalde de chauffeur en vroeg haar om meer aandacht te besteden.
-
 1580 De chauffeur was geïrriteerd met de assistent en vroeg hem om nooit meer terug te komen.
-
 1581 De schoonmaakster wachtte op de chef en sprak met haar over de gemiste betaling.
-
 1582 De chef wachtte op de schoonmaker en vroeg hem om een betere service.
-
 1583 De leraar raakte bevriend met de conciërge en vertelde haar over roddels op school.
-
 1584 De conciërge raakte bevriend met de leraar en vertelde hem over roddels van het personeel.
-
