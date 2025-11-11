@@ -1,9 +1,9 @@
 import csv
 
-langFiles = ['../mt_gender/data/aggregates/en_pro.txt'
+langFiles = ['../mt_gender/data/aggregates/en_anti.txt'
 ]
 
-outFiles = ['../Cross-lingual-LLM-gender-bias/biasedTranslations/bias-en.txt'
+outFiles = ['../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-en.tsv'
 ]
 
 for i in range(len(langFiles)):
@@ -16,8 +16,7 @@ for i in range(len(langFiles)):
             toPrint.append(strings[2])
 
     with open(outFiles[i], 'w') as outFile:
-        idx = 1
+        writer = csv.writer(outFile, delimiter = '\t')
+        writer.writerow(['text'])
         for line in toPrint:
-            string = str(idx)+ ' ' +line + '\n'
-            outFile.write(string)
-            idx +=1 
+            writer.writerow([line])
