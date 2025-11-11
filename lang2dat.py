@@ -9,12 +9,12 @@ langFiles = ['../mt_gender/translations/google/en-de.txt',
 ]
 biasStart = 1583
 
-outFiles = ['../Cross-lingual-LLM-gender-bias/biasedTranslations/bias-de.txt',
- '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-nl.txt',
- '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-it.txt',
- '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-es.txt',
- '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-ru.txt',
- '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-he.txt'
+outFiles = ['../Cross-lingual-LLM-gender-bias/biasedTranslations/bias-de.tsv',
+ '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-nl.tsv',
+ '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-it.tsv',
+ '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-es.tsv',
+ '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-ru.tsv',
+ '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-he.tsv'
  ]
 
 
@@ -27,12 +27,12 @@ for i in range(len(langFiles)):
             if idx > biasStart:
                 continue
             line = line.split('|||')
-            toPrint.append(line[1])
-            print(line[0])
+            toPrint.append(line[1].strip('\n').strip())
+            #print(line)
 
     with open(outFiles[i], 'w') as outFile:
-        idx = 1
+        writer = csv.writer(outFile, delimiter = '\t')
+        writer.writerow(['text'])
         for line in toPrint:
-            string = str(idx)+line + '\n'
-            outFile.write(string)
-            idx +=1 
+            writer.writerow([line])
+            #print(line)
