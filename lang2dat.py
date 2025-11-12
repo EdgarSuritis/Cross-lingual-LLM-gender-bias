@@ -9,7 +9,7 @@ langFiles = ['../mt_gender/translations/google/en-de.txt',
 ]
 biasStart = 1583
 
-outFiles = ['../Cross-lingual-LLM-gender-bias/biasedTranslations/bias-de.tsv',
+outFiles = ['../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-de.tsv',
  '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-nl.tsv',
  '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-it.tsv',
  '../Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-es.tsv',
