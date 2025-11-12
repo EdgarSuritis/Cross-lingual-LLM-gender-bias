@@ -1,0 +1,14 @@
+exp: MinimalPair
+
+mode:
+    - train
+
+models:
+    hf_masked_model:
+      - /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/BIAS
+
+trainfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-en.tsv
+validfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-en.tsv
+modelfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/UnbiasEN
+
+loadPretrained: True

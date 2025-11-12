@@ -4,8 +4,6 @@ mode:
     - evaluate
     - analyze
 
-device: cuda
-
 models:
     hf_masked_model:
       - bert-base-multilingual-uncased

@@ -1,6 +1,6 @@
 #!/bin/bash
 ### A name for the job - No spaces allowed
-#PBS -N nlp_edgar_BASE
+#PBS -N nlp_edgar_DE
 ### Specify the queue or it will be submitted to workq by default (for example use gpu for GPU compute)
 #PBS -q workq
 ### Specify how many nodes and how many processors
@@ -43,4 +43,4 @@ cd $PBS_O_WORKDIR
 source /local/JupyterHub/bin/activate && conda activate nlp
 ### The following is the command to run on each processor (equivalent to worker in matlab).
 ## python3.11 /path/to/PythonScript
-python /home/esuritis/NLP/NLPScholar/main.py /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/BASE.yaml
+python /home/esuritis/NLP/NLPScholar/main.py /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/evalDE.yaml
