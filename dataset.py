@@ -19,7 +19,7 @@ def find_roi(sentence):
     tokens = sentence.split()
     for idx, token in enumerate(tokens):
         if token.lower().strip(".,?!") in {"he", "she", "him", "her", "his"}:
-            return idx-1
+            return idx
     return -1  # if not found
 
 def parse_file(filename):
@@ -48,7 +48,7 @@ def combine_all(files):
                 "sentid": sentid,
                 "pairid": pairid,
                 "type": typelabel,
-                "comparison": "predicted",
+                "comparison": "expected",
                 "sentence": pro,
                 "ROI": find_roi(pro)
             })
@@ -59,7 +59,7 @@ def combine_all(files):
                 "sentid": sentid,
                 "pairid": pairid,
                 "type": typelabel,
-                "comparison": "unpredicted",
+                "comparison": "unexpected",
                 "sentence": anti,
                 "ROI": find_roi(anti)
             })
