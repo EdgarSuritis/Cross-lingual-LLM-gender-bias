@@ -1,0 +1,3 @@
+	model	type	acc	diff	expected	unexpected	macrodiff
+0	/home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/UnbiasHE	type1	0.5202020202020202	0.00877959800782999	1.597847806828948	1.5890682088211179	0.008779598007830014
+1	/home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/UnbiasHE	type2	0.4722222222222222	-0.05636940343339868	3.144617758417666	3.2009871618510646	-0.05636940343339836
