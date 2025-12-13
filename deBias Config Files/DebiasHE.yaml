@@ -5,10 +5,13 @@ mode:
 
 models:
     hf_masked_model:
-      - /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/BIAS
+      - /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/BIAS2
 
 trainfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-he.tsv
 validfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/unbiasedTranslations/unbias-he.tsv
-modelfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/UnbiasHE
+modelfpath: /home/esuritis/NLP/FINAL/Cross-lingual-LLM-gender-bias/models/UnbiasHE2
 
 loadPretrained: True
+
+epochs: 20
+learning_rate: 0.0001
