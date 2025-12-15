@@ -1,7 +1,7 @@
 # Cross-lingual-LLM-gender-bias
 
-
-Requirements to go from WinoBias dataset to tsv file for NLPScholar evaluation:
+This uses data from Zhao et al. (2018)'s winoBias dataset, and translated work by Stanovsky et al. (2019). All credits for the data go to them.
+## Dataset
 - Merge the 8 testing files together into one dataset, labeling each row with type1 / type2 and and pro/anti steryotype depending on the file it came from.
 - Generate ROI column by detecting which word index contains the second set of brackets.
 - Remove all brackets from the sentences.
